@@ -1,0 +1,223 @@
+== cyc14_018 d=7 n=14 w=[0, 1, 8] |S|=5 primes=[100129] redraws=[0] |H|,|Gamma img|=[98, 98] u-swap idx=[0] (0.1s)
+   planes=[{'i': 2, 'M': [7, 0, 0], 'g': 7, 'e': 1}]
+   perms=[] split_redraws={}
+   split checks (Pi^2=1, Pi mu=mu Pi) all true: True
+   Y lb=276 ub=288 closed=False errors=[]
+   pieces (a,chi): h dim pure/pureorbit orbit delta comm cert how hull rigid split
+     (1, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (1, 1): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (1, 2): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (1, 3): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 4): h=(1, 1, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 5): h=(2, 1, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (1, 8): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (1, 9): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 10): h=(1, 1, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 11): h=(2, 1, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 12): h=(2, 0, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=2 rigid=1 
+     (2, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (2, 1): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (2, 2): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (2, 3): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 4): h=(1, 1, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 6): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (2, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (2, 8): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (2, 9): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 10): h=(1, 1, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 11): h=(2, 1, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 13): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (3, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (3, 1): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (3, 2): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (3, 3): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 5): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 6): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (3, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (3, 8): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (3, 9): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 10): h=(1, 1, 0) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 12): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (3, 13): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (4, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (4, 1): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (4, 2): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (4, 4): h=(0, 1, 1) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 5): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 6): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (4, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (4, 8): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (4, 9): h=(1, 2, 0) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 11): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 12): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (4, 13): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (5, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (5, 1): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (5, 3): h=(0, 1, 2) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 4): h=(0, 1, 1) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 5): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 6): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (5, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (5, 8): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (5, 10): h=(0, 1, 1) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 11): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 12): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (5, 13): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+     (6, 0): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=1 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (6, 2): h=(0, 0, 2) dim=2 pure=0/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (6, 3): h=(0, 1, 2) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 4): h=(0, 1, 1) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 5): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 6): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (6, 7): h=(0, 3, 0) dim=3 pure=1/1 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=0 
+     (6, 9): h=(0, 1, 2) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 10): h=(0, 1, 1) dim=2 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 11): h=(0, 2, 1) dim=3 pure=0/0 orb=6 delta=0 comm=[1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 12): h=(0, 2, 0) dim=2 pure=1/0 orb=6 delta=0 comm=[4] E=0 U=0 [] hull=None rigid=1 
+     (6, 13): h=(0, 3, 0) dim=3 pure=1/0 orb=6 delta=0 comm=[9] E=0 U=0 [] hull=None rigid=1 
+   blocks: rep size h lb ub closed tool | lbsrc | details
+     (1, 0)->(1, 0) x6 h=(0, 3, 0)->(0, 3, 0) lb=9 ub=9 CLOSED NSxNS@(1, 0)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 1) x6 h=(0, 3, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 0)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 2) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 0)->(2, 4) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 3) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 4) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 5) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 7) x6 h=(0, 3, 0)->(0, 3, 0) lb=9 ub=9 CLOSED NSxNS@(1, 0)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 8) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(3, 0)->(3, 10) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 9) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 10) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 11) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 12) x6 h=(0, 3, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 0)->(2, 10) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 0) x6 h=(0, 3, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 9)->(2, 0) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 1) x6 h=(0, 3, 0)->(0, 3, 0) lb=1 ub=1 CLOSED Schur@(2, 9)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 2) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 9)->(2, 4) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 3) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 4) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 5) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 7) x6 h=(0, 3, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 9)->(2, 7) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 8) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 9)->(2, 2) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 9) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 10) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 11) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 1)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 12) x6 h=(0, 3, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 9)->(2, 10) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 0) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 4)->(2, 0) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 1) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 4)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 2) x6 h=(0, 2, 0)->(0, 2, 0) lb=1 ub=1 CLOSED Schur@(2, 4)->(2, 4) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 3) x6 h=(0, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 4) x6 h=(0, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 5) x6 h=(0, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 7) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 4)->(2, 7) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 8) x6 h=(0, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 4)->(2, 2) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 9) x6 h=(0, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 10) x6 h=(0, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 11) x6 h=(0, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 2)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 2)->(1, 12) x6 h=(0, 2, 0)->(2, 0, 0) lb=0 ub=0 CLOSED J(T2)@(1, 12)->(1, 2) | Gamma/A graphs + NSxNS | homcomm(2, 4)->(2, 10)@p0=1 homcomm(5, 10)->(5, 4)@p0=1 homcomm(2, 10)->(2, 4)@p0=1 homcomm(5, 4)->(5, 10)@p0=1 J(2, 4)->(2, 10)@p0=1 J(2, 10)->(2, 4)@p0=1 J(1, 12)->(1, 2)@p0=0
+     (1, 3)->(1, 0) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 1) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 2) x6 h=(1, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 3) x6 h=(1, 2, 0)->(1, 2, 0) lb=1 ub=1 CLOSED Schur@(1, 3)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 4) x6 h=(1, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 5) x6 h=(1, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 7) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 8) x6 h=(1, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 9) x6 h=(1, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 13)->(2, 11) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 10) x6 h=(1, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 11) x6 h=(1, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 3)->(1, 12) x6 h=(1, 2, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 3)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 0) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 1) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 2) x6 h=(1, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 3) x6 h=(1, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 4)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 4) x6 h=(1, 1, 0)->(1, 1, 0) lb=1 ub=1 CLOSED Schur@(1, 4)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 5) x6 h=(1, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 4)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 7) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 8) x6 h=(1, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 9) x6 h=(1, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 4)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 10) x6 h=(1, 1, 0)->(1, 1, 0) lb=0 ub=1 OPEN Schur-iso@(1, 4)->(1, 10) | Gamma/A graphs + NSxNS | homcomm(1, 4)->(1, 10)@p0=1 homcomm(6, 10)->(6, 4)@p0=1 homcomm(1, 10)->(1, 4)@p0=1 homcomm(6, 4)->(6, 10)@p0=1 J(1, 4)->(1, 10)@p0=1 J(1, 10)->(1, 4)@p0=1
+     (1, 4)->(1, 11) x6 h=(1, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 4)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 4)->(1, 12) x6 h=(1, 1, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 4)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 0) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 1) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 2) x6 h=(2, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 3) x6 h=(2, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 4) x6 h=(2, 1, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 5) x6 h=(2, 1, 0)->(2, 1, 0) lb=1 ub=1 CLOSED Schur@(1, 5)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 7) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 8) x6 h=(2, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 9) x6 h=(2, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 10) x6 h=(2, 1, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 11) x6 h=(2, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 3)->(2, 1) | Gamma/A graphs + NSxNS | 
+     (1, 5)->(1, 12) x6 h=(2, 1, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 5)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 0) x6 h=(0, 3, 0)->(0, 3, 0) lb=9 ub=9 CLOSED NSxNS@(1, 7)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 1) x6 h=(0, 3, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 7)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 2) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 7)->(2, 4) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 3) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 4) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 5) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 7) x6 h=(0, 3, 0)->(0, 3, 0) lb=9 ub=9 CLOSED NSxNS@(1, 7)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 8) x6 h=(0, 3, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(3, 7)->(3, 10) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 9) x6 h=(0, 3, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 10) x6 h=(0, 3, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 11) x6 h=(0, 3, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 7)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 7)->(1, 12) x6 h=(0, 3, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 7)->(2, 10) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 0) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(3, 10)->(3, 0) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 1) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 2)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 2) x6 h=(0, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 2)->(2, 4) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 3) x6 h=(0, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 4) x6 h=(0, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 5) x6 h=(0, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 7) x6 h=(0, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(3, 10)->(3, 7) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 8) x6 h=(0, 2, 0)->(0, 2, 0) lb=1 ub=1 CLOSED Schur@(3, 10)->(3, 10) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 9) x6 h=(0, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 10) x6 h=(0, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 11) x6 h=(0, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 8)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 8)->(1, 12) x6 h=(0, 2, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 2)->(2, 10) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 0) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 1) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 2) x6 h=(1, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 3) x6 h=(1, 2, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 11)->(2, 13) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 4) x6 h=(1, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 5) x6 h=(1, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 7) x6 h=(1, 2, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 8) x6 h=(1, 2, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 9) x6 h=(1, 2, 0)->(1, 2, 0) lb=1 ub=1 CLOSED Schur@(1, 9)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 10) x6 h=(1, 2, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 11) x6 h=(1, 2, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 9)->(1, 12) x6 h=(1, 2, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 9)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 0) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 1) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 2) x6 h=(1, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 3) x6 h=(1, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 10)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 4) x6 h=(1, 1, 0)->(1, 1, 0) lb=0 ub=1 OPEN Schur-iso@(1, 10)->(1, 4) | Gamma/A graphs + NSxNS | homcomm(1, 10)->(1, 4)@p0=1 homcomm(6, 4)->(6, 10)@p0=1 homcomm(1, 4)->(1, 10)@p0=1 homcomm(6, 10)->(6, 4)@p0=1 J(1, 10)->(1, 4)@p0=1 J(1, 4)->(1, 10)@p0=1
+     (1, 10)->(1, 5) x6 h=(1, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 10)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 7) x6 h=(1, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 8) x6 h=(1, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 9) x6 h=(1, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 10)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 10) x6 h=(1, 1, 0)->(1, 1, 0) lb=1 ub=1 CLOSED Schur@(1, 10)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 11) x6 h=(1, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 10)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 10)->(1, 12) x6 h=(1, 1, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 10)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 0) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 1) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 2) x6 h=(2, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 2) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 3) x6 h=(2, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 4) x6 h=(2, 1, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 5) x6 h=(2, 1, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 1)->(2, 3) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 7) x6 h=(2, 1, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 7) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 8) x6 h=(2, 1, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 8) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 9) x6 h=(2, 1, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 10) x6 h=(2, 1, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 11) x6 h=(2, 1, 0)->(2, 1, 0) lb=1 ub=1 CLOSED Schur@(1, 11)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 11)->(1, 12) x6 h=(2, 1, 0)->(2, 0, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 11)->(1, 12) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 0) x6 h=(2, 0, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 10)->(2, 0) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 1) x6 h=(2, 0, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(2, 10)->(2, 9) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 2) x6 h=(2, 0, 0)->(0, 2, 0) lb=0 ub=0 CLOSED J(T2)@(1, 12)->(1, 2) | Gamma/A graphs + NSxNS | homcomm(2, 10)->(2, 4)@p0=1 homcomm(5, 4)->(5, 10)@p0=1 homcomm(2, 4)->(2, 10)@p0=1 homcomm(5, 10)->(5, 4)@p0=1 J(2, 10)->(2, 4)@p0=1 J(2, 4)->(2, 10)@p0=1 J(1, 12)->(1, 2)@p0=0
+     (1, 12)->(1, 3) x6 h=(2, 0, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 3) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 4) x6 h=(2, 0, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 4) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 5) x6 h=(2, 0, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 5) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 7) x6 h=(2, 0, 0)->(0, 3, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 10)->(2, 7) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 8) x6 h=(2, 0, 0)->(0, 2, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(2, 10)->(2, 2) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 9) x6 h=(2, 0, 0)->(1, 2, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 9) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 10) x6 h=(2, 0, 0)->(1, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 10) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 11) x6 h=(2, 0, 0)->(2, 1, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 12)->(1, 11) | Gamma/A graphs + NSxNS | 
+     (1, 12)->(1, 12) x6 h=(2, 0, 0)->(2, 0, 0) lb=1 ub=1 CLOSED Schur@(2, 10)->(2, 10) | Gamma/A graphs + NSxNS | 

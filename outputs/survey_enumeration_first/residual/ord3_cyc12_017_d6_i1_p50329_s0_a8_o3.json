@@ -1,0 +1,512 @@
+{
+ "family": "cyc12_017",
+ "d": 6,
+ "i": 1,
+ "p": 50329,
+ "seed": 0,
+ "narcs": 8,
+ "order": 3,
+ "small": false,
+ "dimA": 3,
+ "dimB": 18,
+ "G": [
+  12,
+  [
+   0,
+   1,
+   7
+  ]
+ ],
+ "F": {
+  "(6, 0, 0)": 29810,
+  "(0, 5, 1)": 11099,
+  "(0, 3, 3)": 7242,
+  "(0, 1, 5)": 14767
+ },
+ "blocks": [
+  {
+   "sigma": 0,
+   "Delta": 0,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "c_basis_last": [
+    [
+     1
+    ]
+   ],
+   "tA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 0,
+   "Delta": 1,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 0,
+    "c_phibar": 0,
+    "full": 0
+   },
+   "tA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 0,
+   "Delta": 7,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 0,
+    "c_phibar": 0,
+    "full": 0
+   },
+   "tA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ],
+   "sA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 1,
+   "Delta": 0,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "c_basis_last": [
+    [
+     1
+    ]
+   ],
+   "tA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 1,
+   "Delta": 6,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "c_basis_last": [
+    [
+     1
+    ]
+   ],
+   "tA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 1,
+   "Delta": 11,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 0,
+    "c_phibar": 0,
+    "full": 0
+   },
+   "tA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ]
+  },
+  {
+   "sigma": 7,
+   "Delta": 0,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "c_basis_last": [
+    [
+     1
+    ]
+   ],
+   "tA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "sigma": 7,
+   "Delta": 5,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 0,
+    "c_phibar": 0,
+    "full": 0
+   },
+   "tA_mons": [
+    [
+     1,
+     0,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ]
+  },
+  {
+   "sigma": 7,
+   "Delta": 6,
+   "c_shape": [
+    1,
+    1
+   ],
+   "phibar_shape": [
+    1,
+    1
+   ],
+   "o1": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V1o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o2": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "V3o3": {
+    "c": 1,
+    "c_phibar": 1,
+    "full": 1
+   },
+   "c_basis_last": [
+    [
+     1
+    ]
+   ],
+   "tA_mons": [
+    [
+     0,
+     1,
+     0
+    ]
+   ],
+   "sA_mons": [
+    [
+     0,
+     0,
+     1
+    ]
+   ]
+  }
+ ]
+}

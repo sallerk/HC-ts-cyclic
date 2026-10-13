@@ -1,0 +1,50 @@
+cyc8_014 d=8 i=1 p=30089: cyc8_014 d=8 i=1 p=30089 seed=0 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=8 G=mu_8 w=(0, 1, 4) (reduction consistency check passed; setup 0.4s)
+   block sigma=2 Delta=4 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc8_014 d=8 i=1 p=30097: cyc8_014 d=8 i=1 p=30097 seed=1 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=8 G=mu_8 w=(0, 1, 4) (reduction consistency check passed; setup 0.4s)
+   block sigma=2 Delta=4 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc12_015 d=8 i=0 p=30097: cyc12_015 d=8 i=0 p=30097 seed=0 narcs=8 order=3 small=False | dimA=15 dimB=28 |basis|=5 G=mu_12 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=7 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+cyc12_015 d=8 i=0 p=30169: cyc12_015 d=8 i=0 p=30169 seed=1 narcs=8 order=3 small=False | dimA=15 dimB=28 |basis|=5 G=mu_12 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=7 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+cyc12_015 d=8 i=1 p=30097: cyc12_015 d=8 i=1 p=30097 seed=0 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=5 G=mu_12 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=7 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=6 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=10 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=2 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=6 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=2 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=2 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=10 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=10 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+cyc12_015 d=8 i=1 p=30169: cyc12_015 d=8 i=1 p=30169 seed=1 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=5 G=mu_12 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=7 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=6 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=7 Delta=10 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=2 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=11 Delta=6 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=2 Delta=11 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=2 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=10 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+   block sigma=10 Delta=7 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=4 V1o2=0 V1o3=0 V3o2=1 V3o3=0
+cyc15_016 d=10 i=0 p=30241: cyc15_016 d=10 i=0 p=30241 seed=0 narcs=8 order=3 small=False | dimA=28 dimB=45 |basis|=7 G=mu_15 w=(0, 1, 6) (reduction consistency check passed; setup 1.4s)
+   block sigma=11 Delta=9 c[2, 2] phibar[2, 2] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+cyc15_016 d=10 i=0 p=30841: cyc15_016 d=10 i=0 p=30841 seed=1 narcs=8 order=3 small=False | dimA=28 dimB=45 |basis|=7 G=mu_15 w=(0, 1, 6) (reduction consistency check passed; setup 1.3s)
+   block sigma=11 Delta=9 c[2, 2] phibar[2, 2] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+cyc15_016 d=10 i=1 p=30241: cyc15_016 d=10 i=1 p=30241 seed=0 narcs=8 order=3 small=False | dimA=21 dimB=52 |basis|=7 G=mu_15 w=(0, 1, 6) (reduction consistency check passed; setup 1.2s)
+   block sigma=6 Delta=10 c[1, 1] phibar[2, 2] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=14 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc15_016 d=10 i=1 p=30841: cyc15_016 d=10 i=1 p=30841 seed=1 narcs=8 order=3 small=False | dimA=21 dimB=52 |basis|=7 G=mu_15 w=(0, 1, 6) (reduction consistency check passed; setup 1.2s)
+   block sigma=6 Delta=10 c[1, 1] phibar[2, 2] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=14 Delta=3 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0

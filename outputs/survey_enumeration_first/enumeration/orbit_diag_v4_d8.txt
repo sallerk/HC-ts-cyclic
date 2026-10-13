@@ -1,0 +1,7 @@
+counts (d, weight, category):
+   (8, 1, 'higher-order-unavailable') 1
+   (8, 1, 'no-candidate') 27
+   (8, 1, 'nondeg2-fails') 4
+   (8, 2, 'hull3-deficient') 2
+   (8, 2, 'no-candidate') 39
+   (8, 2, 'nondeg2-fails') 22

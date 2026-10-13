@@ -1,0 +1,6 @@
+d=5 chain ring check: OK
+d=6 chain ring check: OK
+d=7 chain ring check: OK
+d=8 chain ring check: OK
+d=9 chain ring check: OK
+d=10 chain ring check: OK

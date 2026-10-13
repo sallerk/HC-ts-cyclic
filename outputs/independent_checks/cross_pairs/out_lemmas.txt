@@ -1,0 +1,4 @@
+Lemma 2.1/2.2 closed form: pieces checked 3645147 mismatches 0
+Lemma 2.6 N<=20000 failures: 0
+Lemma 2.5 criterion vs sigma equality (d<=48): cases 9130082 mismatches 0
+Lemma 3.2 Hodge-type consistency (n=d, d<=150) mismatches: 0

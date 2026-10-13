@@ -1,0 +1,55 @@
+cyc10_012_d10      split planes (i, monomial, #curves)=[] mismatches=0
+cyc10_013_d10      split planes (i, monomial, #curves)=[] mismatches=0
+cyc12_014_d9       split planes (i, monomial, #curves)=[(2, (9, 0, 0), 9)] mismatches=0
+    S:1:0 h=[1, 3, 0] hull=3 deficiency=1 predicted=1 OK kind=res
+    S:2:0 h=[1, 3, 0] hull=3 deficiency=1 predicted=1 OK kind=res
+cyc12_015_d8       split planes (i, monomial, #curves)=[(1, (8, 0, 0), 8), (2, (8, 0, 0), 8)] mismatches=0
+    S:1:0 h=[1, 4, 0] hull=3 deficiency=2 predicted=2 OK kind=res
+    S:3:0 h=[1, 4, 0] hull=3 deficiency=2 predicted=2 OK kind=res
+    S:2:0 h=[1, 4, 0] hull=3 deficiency=2 predicted=2 OK kind=res
+cyc12_017_d6       split planes (i, monomial, #curves)=[(1, (6, 0, 0), 6), (2, (6, 0, 0), 6)] mismatches=0
+cyc14_018_d7       split planes (i, monomial, #curves)=[(2, (7, 0, 0), 7)] mismatches=0
+cyc15_016_d10      split planes (i, monomial, #curves)=[(2, (10, 0, 0), 10)] mismatches=0
+    S:1:0 h=[1, 4, 0] hull=4 deficiency=1 predicted=1 OK kind=res
+    S:3:0 h=[1, 4, 0] hull=4 deficiency=1 predicted=1 OK kind=res
+    S:2:0 h=[1, 4, 0] hull=4 deficiency=1 predicted=1 OK kind=res
+    S:4:0 h=[1, 4, 0] hull=4 deficiency=1 predicted=1 OK kind=res
+cyc16_017_d10      split planes (i, monomial, #curves)=[(1, (10, 0, 0), 10), (2, (10, 0, 0), 10)] mismatches=0
+    S:1:0 h=[2, 4, 0] hull=4 deficiency=2 predicted=2 OK kind=res
+    S:3:0 h=[1, 5, 0] hull=4 deficiency=2 predicted=2 OK kind=res
+    S:2:0 h=[1, 4, 0] hull=3 deficiency=2 predicted=2 OK kind=res
+    S:4:0 h=[1, 4, 0] hull=3 deficiency=2 predicted=2 OK kind=res
+    S:5:0 h=[1, 4, 1] hull=4 deficiency=2 predicted=2 OK kind=res
+cyc16_019_d8       split planes (i, monomial, #curves)=[(1, (8, 0, 0), 8), (2, (8, 0, 0), 8)] mismatches=0
+cyc20_0-1-11_d10   split planes (i, monomial, #curves)=[(1, (10, 0, 0), 10), (2, (10, 0, 0), 10)] mismatches=0
+cyc3_012_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc4_012_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc4_013_d10       split planes (i, monomial, #curves)=[] mismatches=0
+cyc4_013_d6        split planes (i, monomial, #curves)=[] mismatches=0
+cyc5_012_d10       split planes (i, monomial, #curves)=[] mismatches=0
+cyc5_012_d6        split planes (i, monomial, #curves)=[(0, (0, 2, 4), 2)] mismatches=0
+cyc5_014_d6        split planes (i, monomial, #curves)=[(0, (0, 3, 3), 3)] mismatches=0
+    S:2:0 h=[1, 4, 0] hull=4 deficiency=1 predicted=1 OK kind=res
+cyc6_013_d10       split planes (i, monomial, #curves)=[] mismatches=0
+cyc6_013_d6        split planes (i, monomial, #curves)=[] mismatches=0
+cyc6_015_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc7_012_d8        split planes (i, monomial, #curves)=[(0, (0, 2, 6), 2)] mismatches=0
+cyc7_013_d7        split planes (i, monomial, #curves)=[] mismatches=0
+cyc7_013_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc7_016_d8        split planes (i, monomial, #curves)=[(0, (0, 4, 4), 4)] mismatches=0
+    S:2:0 h=[2, 5, 0] hull=6 deficiency=1 predicted=1 OK kind=res
+    S:4:0 h=[1, 5, 1] hull=6 deficiency=1 predicted=1 OK kind=res
+cyc7_016_d9        split planes (i, monomial, #curves)=[] mismatches=0
+cyc8_013_d6        split planes (i, monomial, #curves)=[(1, (6, 0, 0), 6), (2, (6, 0, 0), 6)] mismatches=0
+    S:1:0 h=[1, 3, 0] hull=2 deficiency=2 predicted=2 OK kind=res
+cyc8_013_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc8_014_d8        split planes (i, monomial, #curves)=[] mismatches=0
+cyc8_016_d9        split planes (i, monomial, #curves)=[(0, (0, 6, 3), 3)] mismatches=0
+    S:3:0 h=[1, 6, 0] hull=6 deficiency=1 predicted=1 OK kind=res
+cyc8_017_d10       split planes (i, monomial, #curves)=[] mismatches=0
+cyc9_012_d10       split planes (i, monomial, #curves)=[(0, (0, 2, 8), 2)] mismatches=0
+cyc9_013_d7        split planes (i, monomial, #curves)=[(2, (7, 0, 0), 7)] mismatches=0
+    S:1:0 h=[1, 2, 0] hull=2 deficiency=1 predicted=1 OK kind=res
+cyc9_018_d10       split planes (i, monomial, #curves)=[(0, (0, 5, 5), 5)] mismatches=0
+    S:4:0 h=[2, 6, 1] hull=8 deficiency=1 predicted=1 OK kind=res
+    S:6:0 h=[1, 6, 2] hull=8 deficiency=1 predicted=1 OK kind=res

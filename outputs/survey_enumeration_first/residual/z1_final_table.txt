@@ -1,0 +1,86 @@
+cyc12_017_d6       Y=1009..1017  open   by=-                      v1rerun_closed=False z1=1009..1041 ord3=1009..1017
+cyc4_013_d6        Y=243..243   CLOSED by=ord3                   v1rerun_closed=False z1=243..247 ord3=243..243
+cyc5_012_d6        Y=49..49    CLOSED by=ord3                   v1rerun_closed=False z1=49..73 ord3=49..49
+cyc5_014_d6        Y=295..303   open   by=-                      v1rerun_closed=False z1=295..327 ord3=295..303
+cyc6_013_d6        Y=239..239   CLOSED by=ord3                   v1rerun_closed=False z1=239..243 ord3=239..239
+cyc8_013_d6        Y=471..515   open   by=-                      v1rerun_closed=False z1=471..545 ord3=471..529
+cyc14_018_d7       Y=276..288   open   by=-                      v1rerun_closed=False z1=276..288 ord3=276..288
+cyc7_013_d7        Y=42..42    CLOSED by=ord3                   v1rerun_closed=False z1=42..78 ord3=42..42
+cyc9_013_d7        Y=54..66    open   by=-                      v1rerun_closed=False z1=54..66 ord3=54..66
+cyc12_015_d8       Y=848..1050  open   by=-                      v1rerun_closed=False z1=848..1290 ord3=848..1050
+cyc16_019_d8       Y=427..427   CLOSED by=J+ord3                 v1rerun_closed=False z1=427..539 ord3=427..459
+cyc3_012_d8        Y=21..21    CLOSED by=J                      v1rerun_closed=False z1=21..23 ord3=21..23
+cyc4_012_d8        Y=91..91    CLOSED by=J                      v1rerun_closed=False z1=91..93 ord3=91..93
+cyc6_015_d8        Y=439..439   CLOSED by=J+ord3                 v1rerun_closed=False z1=439..449 ord3=439..441
+cyc7_012_d8        Y=97..97    CLOSED by=V1-rerun               v1rerun_closed=True z1=97..97 ord3=97..97
+cyc7_013_d8        Y=49..49    CLOSED by=V1-rerun               v1rerun_closed=True z1=49..49 ord3=49..49
+cyc7_016_d8        Y=94..94    CLOSED by=split                  v1rerun_closed=False z1=94..94 ord3=94..94
+cyc8_013_d8        Y=222..222   CLOSED by=J+ord3                 v1rerun_closed=False z1=222..238 ord3=222..226
+cyc8_014_d8        Y=109..109   CLOSED by=J+ord3                 v1rerun_closed=False z1=109..133 ord3=109..121
+cyc12_014_d9       Y=164..188   open   by=-                      v1rerun_closed=False z1=164..198 ord3=164..192
+cyc7_016_d9        Y=56..56    CLOSED by=J                      v1rerun_closed=False z1=56..68 ord3=56..68
+cyc8_016_d9        Y=64..82    open   by=-                      v1rerun_closed=False z1=64..100 ord3=64..100
+cyc10_012_d10      Y=233..233   CLOSED by=V1-rerun               v1rerun_closed=True z1=233..233 ord3=233..233
+cyc10_013_d10      Y=90..90    CLOSED by=V1-rerun               v1rerun_closed=True z1=90..90 ord3=90..90
+cyc15_016_d10      Y=225..285   open   by=-                      v1rerun_closed=False z1=225..321 ord3=225..285
+cyc16_017_d10      Y=395..640   open   by=-                      v1rerun_closed=False z1=395..890 ord3=395..650
+cyc20_0-1-11_d10   Y=873..873   CLOSED by=J+ord3                 v1rerun_closed=False z1=873..969 ord3=873..905
+cyc4_013_d10       Y=36..36    CLOSED by=J                      v1rerun_closed=False z1=36..38 ord3=36..38
+cyc5_012_d10       Y=45..45    CLOSED by=J                      v1rerun_closed=False z1=45..57 ord3=45..57
+cyc6_013_d10       Y=117..117   CLOSED by=J                      v1rerun_closed=False z1=117..119 ord3=117..119
+cyc8_017_d10       Y=171..171   CLOSED by=J+ord3                 v1rerun_closed=False z1=171..185 ord3=171..177
+cyc9_012_d10       Y=161..161   CLOSED by=J                      v1rerun_closed=False z1=161..163 ord3=161..163
+cyc9_018_d10       Y=409..409   CLOSED by=split                  v1rerun_closed=False z1=409..409 ord3=409..409
+
+closed: 23 of 33
+
+OPEN BLOCKS (after z1 + ord3 + J):
+  cyc12_017_d6       S:1:4->S:1:8 size=2 h=[1, 1, 0]->[1, 1, 0] kinds=rigid,rigid aut=False type=equal-invariants lb=0 ub=1 (z=1 ord3=1 J=1 Jdims=[[3, 2, 1, 1, 1], [3, 2, 1, 1, 1]])
+  cyc12_017_d6       S:1:8->S:1:4 size=2 h=[1, 1, 0]->[1, 1, 0] kinds=rigid,rigid aut=False type=equal-invariants lb=0 ub=1 (z=1 ord3=1 J=1 Jdims=[[3, 2, 1, 1, 1], [3, 2, 1, 1, 1]])
+  cyc12_017_d6       S:1:10->S:1:10 size=2 h=[2, 0, 0]->[2, 0, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=4 (z=4 ord3=4 J=4 Jdims=[[4, 4, 4, 4, 4], [4, 4, 4, 4, 4]])
+  cyc5_014_d6        S:2:0->S:2:1 size=8 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=3 J=4 Jdims=[[17, 8, 4, 4, 4], [17, 8, 4, 4, 4]])
+  cyc8_013_d6        S:1:0->S:1:0 size=2 h=[1, 3, 0]->[1, 3, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=7 (z=7 ord3=7 J=9 Jdims=[[13, 10, 9, 9, 9], [13, 10, 9, 9, 9]])
+  cyc8_013_d6        S:1:0->S:1:1 size=8 h=[1, 3, 0]->[0, 2, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=3 J=4 Jdims=[[7, 6, 5, 4, 4], [7, 6, 5, 4, 4]])
+  cyc8_013_d6        S:1:0->S:1:2 size=4 h=[1, 3, 0]->[1, 2, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=3 (z=3 ord3=4 J=6 Jdims=[[10, 8, 6, 6, 6], [10, 8, 6, 6, 6]])
+  cyc8_013_d6        S:1:0->S:1:4 size=2 h=[1, 3, 0]->[1, 2, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=4 J=6 Jdims=[[10, 8, 6, 6, 6], [10, 8, 6, 6, 6]])
+  cyc8_013_d6        S:1:2->S:1:0 size=4 h=[1, 2, 0]->[1, 3, 0] kinds=rigid,res aut=False type=undecided-irreducibility lb=0 ub=1 (z=3 ord3=2 J=1 Jdims=[[9, 6, 3, 2, 1], [9, 6, 3, 2, 1]])
+  cyc8_013_d6        S:1:4->S:1:0 size=2 h=[1, 2, 0]->[1, 3, 0] kinds=rigid,res aut=False type=undecided-irreducibility lb=0 ub=1 (z=4 ord3=2 J=1 Jdims=[[9, 6, 3, 2, 1], [9, 6, 3, 2, 1]])
+  cyc14_018_d7       S:1:4->S:1:10 size=6 h=[1, 1, 0]->[1, 1, 0] kinds=rigid,rigid aut=False type=equal-invariants lb=0 ub=1 (z=1 ord3=1 J=1 Jdims=[[3, 2, 1, 1, 1], [3, 2, 1, 1, 1]])
+  cyc14_018_d7       S:1:10->S:1:4 size=6 h=[1, 1, 0]->[1, 1, 0] kinds=rigid,rigid aut=False type=equal-invariants lb=0 ub=1 (z=1 ord3=1 J=1 Jdims=[[3, 2, 1, 1, 1], [3, 2, 1, 1, 1]])
+  cyc9_013_d7        S:1:0->S:1:0 size=6 h=[1, 2, 0]->[1, 2, 0] kinds=res,res aut=True type=aut-nonrigid lb=1 ub=3 (z=3 ord3=3 J=4 Jdims=[[7, 5, 4, 4, 4], [7, 5, 4, 4, 4]])
+  cyc12_015_d8       S:1:0->S:1:0 size=4 h=[1, 4, 0]->[1, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=9 (z=9 ord3=9 J=11 Jdims=[[21, 13, 11, 11, 11], [21, 13, 11, 11, 11]])
+  cyc12_015_d8       S:1:0->S:1:1 size=8 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc12_015_d8       S:1:0->S:1:3 size=4 h=[1, 4, 0]->[0, 2, 0] kinds=res,pure aut=False type=undecided-irreducibility lb=2 ub=4 (z=4 ord3=None J=None Jdims=[])
+  cyc12_015_d8       S:1:0->S:1:4 size=8 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc12_015_d8       S:1:3->S:1:0 size=4 h=[0, 2, 0]->[1, 4, 0] kinds=pure,res aut=False type=undecided-irreducibility lb=2 ub=4 (z=4 ord3=None J=None Jdims=[])
+  cyc12_015_d8       S:2:0->S:2:0 size=2 h=[1, 4, 0]->[1, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=9 (z=9 ord3=9 J=11 Jdims=[[21, 13, 11, 11, 11], [21, 13, 11, 11, 11]])
+  cyc12_015_d8       S:2:0->S:2:1 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc12_015_d8       S:2:0->S:2:2 size=4 h=[1, 4, 0]->[0, 2, 0] kinds=res,pure aut=False type=undecided-irreducibility lb=2 ub=4 (z=4 ord3=None J=None Jdims=[])
+  cyc12_015_d8       S:2:0->S:2:3 size=2 h=[1, 4, 0]->[0, 4, 0] kinds=res,pure aut=False type=undecided-irreducibility lb=4 ub=8 (z=8 ord3=None J=None Jdims=[])
+  cyc12_015_d8       S:2:0->S:2:4 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc12_015_d8       S:2:0->S:2:7 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc12_015_d8       S:2:2->S:2:0 size=4 h=[0, 2, 0]->[1, 4, 0] kinds=pure,res aut=False type=undecided-irreducibility lb=2 ub=4 (z=4 ord3=None J=None Jdims=[])
+  cyc12_015_d8       S:2:3->S:2:0 size=2 h=[0, 4, 0]->[1, 4, 0] kinds=pure,res aut=False type=undecided-irreducibility lb=4 ub=8 (z=8 ord3=None J=None Jdims=[])
+  cyc12_014_d9       S:1:0->S:1:0 size=6 h=[1, 3, 0]->[1, 3, 0] kinds=res,res aut=True type=aut-nonrigid lb=1 ub=4 (z=4 ord3=4 J=5 Jdims=[[13, 7, 5, 5, 5], [13, 7, 5, 5, 5]])
+  cyc12_014_d9       S:1:0->S:1:4 size=6 h=[1, 3, 0]->[1, 2, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=2 J=3 Jdims=[[10, 6, 3, 3, 3], [10, 6, 3, 3, 3]])
+  cyc8_016_d9        S:3:0->S:3:0 size=2 h=[1, 6, 0]->[1, 6, 0] kinds=res,res aut=True type=aut-nonrigid lb=1 ub=7 (z=7 ord3=None J=8 Jdims=[[43, 13, 8, 8, 8], [43, 13, 8, 8, 8]])
+  cyc8_016_d9        S:3:0->S:3:2 size=4 h=[1, 6, 0]->[1, 5, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=None J=6 Jdims=[[37, 12, 6, 6, 6], [37, 12, 6, 6, 6]])
+  cyc8_016_d9        S:3:0->S:3:4 size=2 h=[1, 6, 0]->[1, 5, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=None J=6 Jdims=[[37, 12, 6, 6, 6], [37, 12, 6, 6, 6]])
+  cyc15_016_d10      S:1:0->S:1:0 size=4 h=[1, 4, 0]->[1, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=1 ub=5 (z=5 ord3=5 J=6 Jdims=[[21, 9, 6, 6, 6], [21, 9, 6, 6, 6]])
+  cyc15_016_d10      S:1:0->S:1:6 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=3 J=4 Jdims=[[17, 8, 4, 4, 4], [17, 8, 4, 4, 4]])
+  cyc15_016_d10      S:2:0->S:2:0 size=4 h=[1, 4, 0]->[1, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=1 ub=5 (z=5 ord3=5 J=6 Jdims=[[21, 9, 6, 6, 6], [21, 9, 6, 6, 6]])
+  cyc15_016_d10      S:2:0->S:2:3 size=4 h=[1, 4, 0]->[0, 2, 0] kinds=res,pure aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=None J=None Jdims=[])
+  cyc15_016_d10      S:2:0->S:2:6 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=3 J=4 Jdims=[[17, 8, 4, 4, 4], [17, 8, 4, 4, 4]])
+  cyc15_016_d10      S:2:0->S:2:9 size=4 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=1 (z=1 ord3=3 J=4 Jdims=[[17, 8, 4, 4, 4], [17, 8, 4, 4, 4]])
+  cyc15_016_d10      S:2:3->S:2:0 size=4 h=[0, 2, 0]->[1, 4, 0] kinds=pure,res aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=None J=None Jdims=[])
+  cyc16_017_d10      S:1:0->S:1:0 size=4 h=[2, 4, 0]->[2, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=10 (z=10 ord3=10 J=13 Jdims=[[28, 18, 13, 13, 13], [28, 18, 13, 13, 13]])
+  cyc16_017_d10      S:1:0->S:1:2 size=16 h=[2, 4, 0]->[2, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=6 J=10 Jdims=[[24, 14, 10, 10, 10], [24, 14, 10, 10, 10]])
+  cyc16_017_d10      S:1:0->S:1:4 size=8 h=[2, 4, 0]->[2, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=6 J=10 Jdims=[[24, 14, 10, 10, 10], [24, 14, 10, 10, 10]])
+  cyc16_017_d10      S:2:0->S:2:0 size=4 h=[1, 4, 0]->[1, 4, 0] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=9 (z=9 ord3=9 J=11 Jdims=[[21, 13, 11, 11, 11], [21, 13, 11, 11, 11]])
+  cyc16_017_d10      S:2:0->S:2:2 size=16 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc16_017_d10      S:2:0->S:2:4 size=8 h=[1, 4, 0]->[1, 3, 0] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=4 (z=4 ord3=6 J=8 Jdims=[[17, 11, 8, 8, 8], [17, 11, 8, 8, 8]])
+  cyc16_017_d10      S:5:0->S:5:0 size=1 h=[1, 4, 1]->[1, 4, 1] kinds=res,res aut=True type=aut-nonrigid lb=2 ub=5 (z=5 ord3=None J=13 Jdims=[[31, 21, 14, 13, 13], [31, 21, 14, 13, 13]])
+  cyc16_017_d10      S:5:0->S:5:1 size=8 h=[1, 4, 1]->[0, 3, 1] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=None J=8 Jdims=[[21, 15, 9, 8, 8], [21, 15, 9, 8, 8]])
+  cyc16_017_d10      S:5:0->S:5:4 size=2 h=[1, 4, 1]->[0, 5, 0] kinds=res,pure aut=False type=undecided-irreducibility lb=5 ub=10 (z=10 ord3=None J=None Jdims=[])
+  cyc16_017_d10      S:5:0->S:5:8 size=1 h=[1, 4, 1]->[1, 3, 1] kinds=res,rigid aut=False type=undecided-irreducibility lb=0 ub=2 (z=2 ord3=None J=10 Jdims=[[26, 18, 11, 10, 10], [26, 18, 11, 10, 10]])
+  cyc16_017_d10      S:5:4->S:5:0 size=2 h=[0, 5, 0]->[1, 4, 1] kinds=pure,res aut=False type=undecided-irreducibility lb=5 ub=10 (z=10 ord3=None J=None Jdims=[])

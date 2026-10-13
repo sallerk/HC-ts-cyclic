@@ -1,0 +1,22 @@
+  DISAGREE cyc8_013_d6 S:1:2->S:1:4 ord3=1 J=0
+  DISAGREE cyc8_013_d6 S:1:4->S:1:2 ord3=1 J=0
+(1) J vs ord3 zero/nonzero agreement on block orbits: agree=119 disagree=2
+(2) identity block cyc3_012_d8 S:4:1 h=(1, 12, 1) J dims by order = [183, 79, 6, 1, 1]  (expect >= 1)
+(2) identity block cyc4_012_d8 S:4:1 h=(1, 10, 1) J dims by order = [133, 45, 4, 1, 1]  (expect >= 1)
+(2) identity block cyc4_013_d10 S:5:1 h=(1, 14, 1) J dims by order = [241, 121, 8, 1, 1]  (expect >= 1)
+(2) identity block cyc5_012_d10 S:5:1 h=(1, 12, 1) J dims by order = [183, 79, 6, 1, 1]  (expect >= 1)
+(2) identity block cyc5_012_d10 S:5:2 h=(1, 12, 1) J dims by order = [183, 79, 6, 1, 1]  (expect >= 1)
+(2) identity block cyc6_013_d10 S:5:1 h=(1, 10, 1) J dims by order = [133, 45, 4, 1, 1]  (expect >= 1)
+(2) identity block cyc9_012_d10 S:5:3 h=(1, 6, 1) J dims by order = [57, 22, 3, 1, 1]  (expect >= 1)
+(2) identity block cyc7_016_d9 S:3:1 h=(2, 6, 0) J dims by order = [52, 13, 1, 1, 1]  (expect >= 1)
+(2) identity block cyc8_017_d10 S:5:1 h=(1, 6, 1) J dims by order = [57, 15, 2, 1, 1]  (expect >= 1)
+(2) identity block cyc8_017_d10 S:5:2 h=(1, 8, 1) J dims by order = [91, 28, 3, 1, 1]  (expect >= 1)
+(2) identity block cyc8_014_d8 S:4:1 h=(1, 5, 0) J dims by order = [31, 6, 1, 1, 1]  (expect >= 1)
+(2) identity block cyc8_014_d8 S:4:6 h=(1, 5, 0) J dims by order = [31, 6, 1, 1, 1]  (expect >= 1)
+(2) identity block cyc6_015_d8 S:4:1 h=(1, 6, 1) J dims by order = [57, 15, 2, 1, 1]  (expect >= 1)
+(2) automorphism block cyc5_014_d6 S:1:1->S:1:4 h=(1, 3, 0) J dims = [13, 4, 1, 1, 1]  (expect >= 1)
+(2) automorphism block cyc5_014_d6 S:1:2->S:1:3 h=(1, 3, 0) J dims = [13, 4, 1, 1, 1]  (expect >= 1)
+(2) automorphism block cyc5_014_d6 S:1:3->S:1:2 h=(1, 3, 0) J dims = [13, 4, 1, 1, 1]  (expect >= 1)
+(2) automorphism block cyc7_016_d8 S:1:1->S:1:6 h=(2, 4, 0) J dims = [28, 9, 1, 1, 1]  (expect >= 1)
+(2) automorphism block cyc7_016_d8 S:1:2->S:1:5 h=(2, 4, 0) J dims = [28, 9, 1, 1, 1]  (expect >= 1)
+(2) automorphism block cyc7_016_d8 S:1:3->S:1:4 h=(2, 4, 0) J dims = [28, 9, 1, 1, 1]  (expect >= 1)

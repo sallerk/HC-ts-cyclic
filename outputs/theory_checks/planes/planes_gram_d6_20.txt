@@ -1,0 +1,79 @@
+6 2 rank 13 planes-only 12 expected 13 dimHdg 76  
+6 3 rank 19 planes-only 18 expected 19 dimHdg 73  
+6 5 rank 30 planes-only 30 expected 30 dimHdg 30 spans 
+6 6 rank 31 planes-only 31 expected 31 dimHdg 717  
+7 2 rank 15 planes-only 14 expected 15 dimHdg 15 spans 
+7 3 rank 22 planes-only 21 expected 22 dimHdg 22 spans 
+7 6 rank 42 planes-only 42 expected 42 dimHdg 42 spans 
+7 7 rank 43 planes-only 43 expected 43 dimHdg 253  
+8 2 rank 17 planes-only 16 expected 17 dimHdg 17 spans 
+8 4 rank 33 planes-only 32 expected 33 dimHdg 81  
+8 7 rank 56 planes-only 56 expected 56 dimHdg 56 spans 
+8 8 rank 57 planes-only 57 expected 57 dimHdg 393  
+9 2 rank 19 planes-only 18 expected 19 dimHdg 19 spans 
+9 3 rank 28 planes-only 27 expected 28 dimHdg 28 spans 
+9 4 rank 37 planes-only 36 expected 37 dimHdg 37 spans 
+9 8 rank 72 planes-only 72 expected 72 dimHdg 72 spans 
+9 9 rank 73 planes-only 73 expected 73 dimHdg 577  
+10 2 rank 21 planes-only 20 expected 21 dimHdg 21 spans 
+10 3 rank 31 planes-only 30 expected 31 dimHdg 31 spans 
+10 5 rank 51 planes-only 50 expected 51 dimHdg 131  
+10 9 rank 90 planes-only 90 expected 90 dimHdg 90 spans 
+10 10 rank 91 planes-only 91 expected 91 dimHdg 811  
+11 2 rank 23 planes-only 22 expected 23 dimHdg 23 spans 
+11 5 rank 56 planes-only 55 expected 56 dimHdg 56 spans 
+11 10 rank 110 planes-only 110 expected 110 dimHdg 110 spans 
+11 11 rank 111 planes-only 111 expected 111 dimHdg 1101  
+12 2 rank 25 planes-only 24 expected 25 dimHdg 25 spans 
+12 3 rank 37 planes-only 36 expected 37 dimHdg 37 spans 
+12 4 rank 49 planes-only 48 expected 49 dimHdg 49 spans 
+12 6 rank 73 planes-only 72 expected 73 dimHdg 193  
+12 11 rank 132 planes-only 132 expected 132 dimHdg 132 spans 
+12 12 rank 133 planes-only 133 expected 133 dimHdg 1453  
+13 2 rank 27 planes-only 26 expected 27 dimHdg 27 spans 
+13 3 rank 40 planes-only 39 expected 40 dimHdg 40 spans 
+13 4 rank 53 planes-only 52 expected 53 dimHdg 53 spans 
+13 6 rank 79 planes-only 78 expected 79 dimHdg 79 spans 
+13 12 rank 156 planes-only 156 expected 156 dimHdg 156 spans 
+13 13 rank 157 planes-only 157 expected 157 dimHdg 1873  
+14 2 rank 29 planes-only 28 expected 29 dimHdg 29 spans 
+14 7 rank 99 planes-only 98 expected 99 dimHdg 267  
+14 13 rank 182 planes-only 182 expected 182 dimHdg 182 spans 
+14 14 rank 183 planes-only 183 expected 183 dimHdg 2367  
+15 2 rank 31 planes-only 30 expected 31 dimHdg 31 spans 
+15 3 rank 46 planes-only 45 expected 46 dimHdg 46 spans 
+15 5 rank 76 planes-only 75 expected 76 dimHdg 76 spans 
+15 7 rank 106 planes-only 105 expected 106 dimHdg 106 spans 
+15 14 rank 210 planes-only 210 expected 210 dimHdg 210 spans 
+15 15 rank 211 planes-only 211 expected 211 dimHdg 2941  
+16 2 rank 33 planes-only 32 expected 33 dimHdg 33 spans 
+16 3 rank 49 planes-only 48 expected 49 dimHdg 49 spans 
+16 4 rank 65 planes-only 64 expected 65 dimHdg 65 spans 
+16 5 rank 81 planes-only 80 expected 81 dimHdg 81 spans 
+16 8 rank 129 planes-only 128 expected 129 dimHdg 353  
+16 15 rank 240 planes-only 240 expected 240 dimHdg 240 spans 
+16 16 rank 241 planes-only 241 expected 241 dimHdg 3601  
+17 2 rank 35 planes-only 34 expected 35 dimHdg 35 spans 
+17 4 rank 69 planes-only 68 expected 69 dimHdg 69 spans 
+17 8 rank 137 planes-only 136 expected 137 dimHdg 137 spans 
+17 16 rank 272 planes-only 272 expected 272 dimHdg 272 spans 
+17 17 rank 273 planes-only 273 expected 273 dimHdg 4353  
+18 2 rank 37 planes-only 36 expected 37 dimHdg 37 spans 
+18 3 rank 55 planes-only 54 expected 55 dimHdg 55 spans 
+18 6 rank 109 planes-only 108 expected 109 dimHdg 109 spans 
+18 9 rank 163 planes-only 162 expected 163 dimHdg 451  
+18 17 rank 306 planes-only 306 expected 306 dimHdg 306 spans 
+18 18 rank 307 planes-only 307 expected 307 dimHdg 5203  
+19 2 rank 39 planes-only 38 expected 39 dimHdg 39 spans 
+19 3 rank 58 planes-only 57 expected 58 dimHdg 58 spans 
+19 6 rank 115 planes-only 114 expected 115 dimHdg 115 spans 
+19 9 rank 172 planes-only 171 expected 172 dimHdg 172 spans 
+19 18 rank 342 planes-only 342 expected 342 dimHdg 342 spans 
+19 19 rank 343 planes-only 343 expected 343 dimHdg 6157  
+20 2 rank 41 planes-only 40 expected 41 dimHdg 41 spans 
+20 4 rank 81 planes-only 80 expected 81 dimHdg 81 spans 
+20 5 rank 101 planes-only 100 expected 101 dimHdg 101 spans 
+20 10 rank 201 planes-only 200 expected 201 dimHdg 561  
+20 19 rank 380 planes-only 380 expected 380 dimHdg 380 spans 
+20 20 rank 381 planes-only 381 expected 381 dimHdg 7221  
+bad 0

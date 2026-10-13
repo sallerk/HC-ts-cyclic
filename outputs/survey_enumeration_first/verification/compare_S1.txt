@@ -1,0 +1,450 @@
+== cyc5_001 d6 [A+B]
+   |S| V1=9 S1=9; moduli V1=[4, 4] S1=[4, 4]; Gmax V1=5 S1=5; perms V1=[] S1=[]
+   pieces: 29 nonzero (V1) vs 29 (S1); Hodge-number mismatches: 0 []
+   Y: V1 25..25 closed=True noIVHS=True | fixed 25..25 closed=True noIVHS=True | S1 25..25 fully_proved_Y=True by_rules=True
+   C: V1 4..4 | fixed 4..4 | S1 4..4 decided=True
+   orbit counts Y: V1 {'rigid': 3, 'pure': 3, 'cm': 0, 'res': 0} S1 {'rigid': 3, 'pure': 3}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 1}
+   Y-blocks: S1 125, V1 125; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 5, ('aut', 'aut'): 20, ('zero', 'zero'): 100}
+   C-blocks: S1 16, V1 16; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 4, ('zero', 'zero'): 12}
+== cyc10_015 d6 [A]
+   |S| V1=5 S1=5; moduli V1=[2, 2] S1=[2, 2]; Gmax V1=10 S1=10; perms V1=[] S1=[]
+   pieces: 53 nonzero (V1) vs 53 (S1); Hodge-number mismatches: 0 []
+   Y: V1 121..121 closed=True noIVHS=True | fixed 121..121 closed=True noIVHS=True | S1 121..121 fully_proved_Y=True by_rules=True
+   C: V1 8..8 | fixed 8..8 | S1 8..8 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 4, 'cm': 0, 'res': 0} S1 {'pure': 4, 'rigid': 5}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 2}
+   Y-blocks: S1 405, V1 405; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 29, ('aut', 'aut'): 36, ('zero', 'zero'): 340}
+   C-blocks: S1 64, V1 64; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 8, ('zero', 'zero'): 56}
+== cyc4_012 d7 [A]
+   |S| V1=10 S1=10; moduli V1=[7, 7] S1=[7, 7]; Gmax V1=4 S1=4; perms V1=[] S1=[]
+   pieces: 28 nonzero (V1) vs 28 (S1); Hodge-number mismatches: 0 []
+   Y: V1 24..24 closed=True noIVHS=True | fixed 24..24 closed=True noIVHS=True | S1 24..24 fully_proved_Y=True by_rules=True
+   C: V1 4..4 | fixed 4..4 | S1 4..4 decided=True
+   orbit counts Y: V1 {'rigid': 3, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 3}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 3} S1 {'residual': 3}
+   Y-blocks: S1 96, V1 96; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 24, ('zero', 'zero'): 72}
+   C-blocks: S1 16, V1 16; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 4, ('zero-IVHS', 'zero-IVHS'): 12}
+== cyc6_001 d7 [A+B]
+   |S| V1=10 S1=10; moduli V1=[5, 5] S1=[5, 5]; Gmax V1=6 S1=6; perms V1=[] S1=[]
+   pieces: 41 nonzero (V1) vs 41 (S1); Hodge-number mismatches: 0 []
+   Y: V1 36..36 closed=True noIVHS=True | fixed 36..36 closed=True noIVHS=True | S1 36..36 fully_proved_Y=True by_rules=True
+   C: V1 5..5 | fixed 5..5 | S1 5..5 decided=True
+   orbit counts Y: V1 {'rigid': 3, 'pure': 1, 'cm': 0, 'res': 0} S1 {'rigid': 3, 'pure': 1}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 2, 'residual': 1}
+   Y-blocks: S1 216, V1 216; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 6, ('aut', 'aut'): 30, ('zero', 'zero'): 180}
+   C-blocks: S1 25, V1 25; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 4, ('aut-IVHS', 'aut-IVHS'): 1, ('zero', 'zero'): 20}
+== cyc6_012 d7 [A]
+   |S| V1=7 S1=7; moduli V1=[4, 4] S1=[4, 4]; Gmax V1=6 S1=6; perms V1=[] S1=[]
+   pieces: 42 nonzero (V1) vs 42 (S1); Hodge-number mismatches: 0 []
+   Y: V1 36..36 closed=True noIVHS=True | fixed 36..36 closed=True noIVHS=True | S1 36..36 fully_proved_Y=True by_rules=True
+   C: V1 6..10 | fixed 6..10 | S1 6..10 decided=False
+   orbit counts Y: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 4}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 2} S1 {'rigid': 2, 'residual': 2}
+   Y-blocks: S1 216, V1 216; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 36, ('zero', 'zero'): 180}
+   C-blocks: S1 36, V1 36; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 3, ('aut-IVHS', 'aut-IVHS'): 3, ('residual', 'residual'): 4, ('zero-IVHS', 'zero-IVHS'): 26}
+== cyc6_023 d7 [A]
+   |S| V1=8 S1=8; moduli V1=[5, 5] S1=[5, 5]; Gmax V1=6 S1=6; perms V1=[] S1=[]
+   pieces: 42 nonzero (V1) vs 42 (S1); Hodge-number mismatches: 0 []
+   Y: V1 36..36 closed=True noIVHS=True | fixed 36..36 closed=True noIVHS=True | S1 36..36 fully_proved_Y=True by_rules=True
+   C: V1 6..6 | fixed 6..6 | S1 6..6 decided=True
+   orbit counts Y: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 4}; C: V1 {'rigid': 3, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 3, 'residual': 1}
+   Y-blocks: S1 216, V1 216; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 36, ('zero', 'zero'): 180}
+   C-blocks: S1 36, V1 36; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 4, ('aut-IVHS', 'aut-IVHS'): 2, ('zero', 'zero'): 12, ('zero-IVHS', 'zero-IVHS'): 18}
+== cyc7_001 d7 [A+B]
+   |S| V1=9 S1=9; moduli V1=[4, 4] S1=[4, 4]; Gmax V1=7 S1=7; perms V1=[] S1=[]
+   pieces: 42 nonzero (V1) vs 42 (S1); Hodge-number mismatches: 0 []
+   Y: V1 246..246 closed=True noIVHS=True | fixed 246..246 closed=True noIVHS=True | S1 246..246 fully_proved_Y=True by_rules=True
+   C: V1 6..6 | fixed 6..6 | S1 6..6 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 1, 'cm': 0, 'res': 0} S1 {'pure': 1, 'rigid': 5}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 1}
+   Y-blocks: S1 216, V1 216; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 6, ('aut', 'aut'): 30, ('zero', 'zero'): 180}
+   C-blocks: S1 36, V1 36; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('zero', 'zero'): 30}
+== cyc12_016 d7 [A]
+   |S| V1=5 S1=5; moduli V1=[2, 2] S1=[2, 2]; Gmax V1=12 S1=12; perms V1=[] S1=[]
+   pieces: 76 nonzero (V1) vs 76 (S1); Hodge-number mismatches: 0 []
+   Y: V1 66..66 closed=True noIVHS=True | fixed 66..66 closed=True noIVHS=True | S1 66..66 fully_proved_Y=True by_rules=True
+   C: V1 10..14 | fixed 10..14 | S1 10..14 decided=False
+   orbit counts Y: V1 {'rigid': 4, 'pure': 1, 'cm': 0, 'res': 0} S1 {'pure': 1, 'rigid': 4}; C: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 4}
+   Y-blocks: S1 726, V1 726; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 6, ('aut', 'aut'): 60, ('zero', 'zero'): 660}
+   C-blocks: S1 100, V1 100; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 10, ('residual', 'residual'): 4, ('zero', 'zero'): 86}
+   V1 blocks closed only by R5/galois_rigid rules: [('S:1:2', 'S:1:3', 24, ['R3'], 'fixed:', ['R3'], 'ub1:', 0), ('S:1:3', 'S:1:2', 24, ['R3'], 'fixed:', ['R3'], 'ub1:', 0)]
+== cyc7_001 d8 [A+B]
+   |S| V1=11 S1=11; moduli V1=[6, 6] S1=[6, 6]; Gmax V1=7 S1=7; perms V1=[] S1=[]
+   pieces: 55 nonzero (V1) vs 55 (S1); Hodge-number mismatches: 0 []
+   Y: V1 49..49 closed=True noIVHS=True | fixed 49..49 closed=True noIVHS=True | S1 49..49 fully_proved_Y=True by_rules=True
+   C: V1 6..6 | fixed 6..6 | S1 6..6 decided=True
+   orbit counts Y: V1 {'rigid': 3, 'pure': 3, 'cm': 0, 'res': 0} S1 {'rigid': 3, 'pure': 3}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 1}
+   Y-blocks: S1 343, V1 343; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 7, ('aut', 'aut'): 42, ('zero', 'zero'): 294}
+   C-blocks: S1 36, V1 36; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('zero', 'zero'): 30}
+== cyc14_017 d8 [A]
+   |S| V1=6 S1=6; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=14 S1=14; perms V1=[] S1=[]
+   pieces: 103 nonzero (V1) vs 103 (S1); Hodge-number mismatches: 0 []
+   Y: V1 91..91 closed=True noIVHS=True | fixed 91..91 closed=True noIVHS=True | S1 91..91 fully_proved_Y=True by_rules=True
+   C: V1 12..12 | fixed 12..12 | S1 12..12 decided=True
+   orbit counts Y: V1 {'rigid': 6, 'pure': 3, 'cm': 0, 'res': 0} S1 {'pure': 3, 'rigid': 6}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 2}
+   Y-blocks: S1 1183, V1 1183; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 7, ('aut', 'aut'): 84, ('zero', 'zero'): 1092}
+   C-blocks: S1 144, V1 144; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 12, ('zero', 'zero'): 132}
+== cyc8_014 d9 [A]
+   |S| V1=9 S1=9; moduli V1=[6, 6] S1=[6, 6]; Gmax V1=8 S1=8; perms V1=[] S1=[]
+   pieces: 72 nonzero (V1) vs 72 (S1); Hodge-number mismatches: 0 []
+   Y: V1 94..94 closed=True noIVHS=True | fixed 94..94 closed=True noIVHS=True | S1 94..94 fully_proved_Y=True by_rules=True
+   C: V1 8..8 | fixed 8..8 | S1 8..8 decided=True
+   orbit counts Y: V1 {'rigid': 7, 'pure': 1, 'cm': 0, 'res': 0} S1 {'rigid': 7, 'pure': 1}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 2} S1 {'rigid': 2, 'residual': 2}
+   Y-blocks: S1 512, V1 512; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 2, ('aut', 'aut'): 62, ('zero', 'zero'): 448}
+   C-blocks: S1 64, V1 64; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 2, ('aut-IVHS', 'aut-IVHS'): 6, ('zero', 'zero-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 54}
+== cyc16_018 d9 [A]
+   |S| V1=6 S1=6; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=16 S1=16; perms V1=[] S1=[]
+   pieces: 134 nonzero (V1) vs 134 (S1); Hodge-number mismatches: 0 []
+   Y: V1 120..120 closed=True noIVHS=True | fixed 120..120 closed=True noIVHS=True | S1 120..120 fully_proved_Y=True by_rules=True
+   C: V1 14..20 | fixed 14..20 | S1 14..20 decided=False
+   orbit counts Y: V1 {'rigid': 6, 'pure': 2, 'cm': 0, 'res': 0} S1 {'pure': 2, 'rigid': 6}; C: V1 {'rigid': 3, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 3}
+   Y-blocks: S1 1800, V1 1800; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 8, ('aut', 'aut'): 112, ('zero', 'zero'): 1680}
+   C-blocks: S1 196, V1 196; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 14, ('residual', 'residual'): 6, ('zero', 'zero'): 176}
+== cyc18_0-1-10 d9 [A]
+   |S| V1=6 S1=6; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=18 S1=18; perms V1=[] S1=[]
+   pieces: 144 nonzero (V1) vs 144 (S1); Hodge-number mismatches: 0 []
+   Y: V1 624..624 closed=True noIVHS=True | fixed 624..624 closed=True noIVHS=True | S1 624..624 fully_proved_Y=True by_rules=True
+   C: V1 16..16 | fixed 16..16 | S1 16..16 decided=True
+   orbit counts Y: V1 {'rigid': 20, 'pure': 4, 'cm': 0, 'res': 0} S1 {'pure': 4, 'rigid': 20}; C: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 4}
+   Y-blocks: S1 2048, V1 2048; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 32, ('aut', 'aut'): 112, ('zero', 'zero'): 1904}
+   C-blocks: S1 256, V1 256; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 16, ('zero', 'zero'): 240}
+== cyc9_001 d10 [A+B]
+   |S| V1=13 S1=13; moduli V1=[8, 8] S1=[8, 8]; Gmax V1=9 S1=9; perms V1=[] S1=[]
+   pieces: 89 nonzero (V1) vs 89 (S1); Hodge-number mismatches: 0 []
+   Y: V1 81..81 closed=True noIVHS=True | fixed 81..81 closed=True noIVHS=True | S1 81..81 fully_proved_Y=True by_rules=True
+   C: V1 8..8 | fixed 8..8 | S1 8..8 decided=True
+   orbit counts Y: V1 {'rigid': 6, 'pure': 3, 'cm': 0, 'res': 0} S1 {'rigid': 6, 'pure': 3}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 1, 'residual': 1}
+   Y-blocks: S1 729, V1 729; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 9, ('aut', 'aut'): 72, ('zero', 'zero'): 648}
+   C-blocks: S1 64, V1 64; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut-IVHS'): 2, ('zero', 'zero'): 54, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc18_019 d10 [A]
+   |S| V1=7 S1=7; moduli V1=[4, 4] S1=[4, 4]; Gmax V1=18 S1=18; perms V1=[] S1=[]
+   pieces: 169 nonzero (V1) vs 169 (S1); Hodge-number mismatches: 0 []
+   Y: V1 231..231 closed=True noIVHS=True | fixed 231..231 closed=True noIVHS=True | S1 231..231 fully_proved_Y=True by_rules=True
+   C: V1 16..16 | fixed 16..16 | S1 16..16 decided=True
+   orbit counts Y: V1 {'rigid': 11, 'pure': 4, 'cm': 0, 'res': 0} S1 {'pure': 4, 'rigid': 11}; C: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 4}
+   Y-blocks: S1 2601, V1 2601; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 17, ('aut', 'aut'): 142, ('zero', 'zero'): 2442}
+   C-blocks: S1 256, V1 256; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 16, ('zero', 'zero'): 240}
+== cyc2_001 d6 [B]
+   |S| V1=16 S1=16; moduli V1=[11, 11] S1=[11, 11]; Gmax V1=2 S1=2; perms V1=[] S1=[]
+   pieces: 12 nonzero (V1) vs 12 (S1); Hodge-number mismatches: 0 []
+   Y: V1 73..73 closed=True noIVHS=False | fixed 73..73 closed=True noIVHS=False | S1 73..73 fully_proved_Y=True by_rules=False
+   C: V1 2..2 | fixed 2..2 | S1 2..2 decided=True
+   orbit counts Y: V1 {'rigid': 4, 'pure': 1, 'cm': 0, 'res': 1} S1 {'residual': 2, 'rigid': 3, 'pure': 1}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:3:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:3:1 [('S:3:1', 50329, [1, 12, 13, 13], None)]
+   Y-blocks: S1 20, V1 20; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero'): 2, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 1, ('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 1, ('aut-IVHS', 'aut-IVHS'): 2, ('zero', 'zero'): 4, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 4, V1 4; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc3_001 d6 [B]
+   |S| V1=12 S1=12; moduli V1=[7, 7] S1=[7, 7]; Gmax V1=3 S1=3; perms V1=[] S1=[]
+   pieces: 18 nonzero (V1) vs 18 (S1); Hodge-number mismatches: 0 []
+   Y: V1 69..69 closed=True noIVHS=False | fixed 69..69 closed=True noIVHS=False | S1 69..69 fully_proved_Y=True by_rules=False
+   C: V1 3..3 | fixed 3..3 | S1 3..3 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 2, 'cm': 0, 'res': 1} S1 {'residual': 3, 'pure': 2, 'rigid': 3}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 1, 'residual': 1}
+   orbit class differs: ['S:1:2', 'S:5:1'].. S1=residual (R1 tests failed) V1=rigid cert=S:1:2 [('S:1:2', 50329, [2, 9, 9, 9], True)]
+   orbit class differs: ['S:2:1', 'S:4:2'].. S1=residual (R1 tests failed) V1=rigid cert=S:2:1 [('S:2:1', 50329, [2, 9, 9, 9], True)]
+   Y-blocks: S1 45, V1 45; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero'): 4, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 3, ('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 4, ('aut-IVHS', 'aut-IVHS'): 2, ('zero', 'zero'): 10, ('zero-IVHS', 'zero'): 12, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 9, V1 9; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 1, ('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 6}
+== cyc6_001 d6 [B]
+   |S| V1=8 S1=8; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=6 S1=6; perms V1=[] S1=[]
+   pieces: 30 nonzero (V1) vs 30 (S1); Hodge-number mismatches: 0 []
+   Y: V1 681..681 closed=True noIVHS=False | fixed 681..681 closed=True noIVHS=False | S1 681..681 fully_proved_Y=True by_rules=False
+   C: V1 35..35 | fixed 35..35 | S1 35..35 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 7, 'cm': 0, 'res': 1} S1 {'pure': 7, 'rigid': 5, 'residual': 1}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 1, 'res': 0} S1 {'CM': 1, 'rigid': 2}
+   Y-blocks: S1 125, V1 125; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero-IVHS'): 8, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 35, ('aut', 'aut'): 10, ('aut-IVHS', 'aut-IVHS'): 2, ('zero', 'zero'): 70}
+   C-blocks: S1 25, V1 25; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('CM', 'NSxNS/CMxCM'): 2, ('aut', 'aut'): 3, ('zero', 'NSxNS/CMxCM'): 2, ('zero', 'zero'): 14, ('zero-IVHS', 'zero'): 4}
+== cyc2_001 d7 [B]
+   |S| V1=20 S1=20; moduli V1=[15, 15] S1=[15, 15]; Gmax V1=2 S1=2; perms V1=[] S1=[]
+   pieces: 14 nonzero (V1) vs 14 (S1); Hodge-number mismatches: 0 []
+   Y: V1 12..12 closed=True noIVHS=True | fixed 12..12 closed=True noIVHS=True | S1 12..12 fully_proved_Y=True by_rules=False
+   C: V1 2..2 | fixed 2..2 | S1 2..2 decided=True
+   orbit counts Y: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'residual': 1, 'rigid': 1}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:2:1', 'S:3:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:1 [('S:4:1', 50177, [1, 16, 18, 18], None)]
+   Y-blocks: S1 24, V1 24; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 6, ('zero-IVHS', 'zero'): 12}
+   C-blocks: S1 4, V1 4; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc3_001 d7 [B]
+   |S| V1=15 S1=15; moduli V1=[10, 10] S1=[10, 10]; Gmax V1=3 S1=3; perms V1=[] S1=[]
+   pieces: 21 nonzero (V1) vs 21 (S1); Hodge-number mismatches: 0 []
+   Y: V1 18..18 closed=True noIVHS=True | fixed 18..18 closed=True noIVHS=True | S1 18..18 fully_proved_Y=True by_rules=False
+   C: V1 3..3 | fixed 3..3 | S1 3..3 decided=True
+   orbit counts Y: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'residual': 1, 'rigid': 1}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:1:2', 'S:2:1'].. S1=residual (R1 tests failed) V1=rigid cert=S:3:2 [('S:3:2', 51241, [1, 11, 12, 12], None)]
+   Y-blocks: S1 54, V1 54; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 12, ('zero-IVHS', 'zero'): 36}
+   C-blocks: S1 9, V1 9; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 3, ('zero-IVHS', 'zero-IVHS'): 6}
+== cyc2_001 d8 [B]
+   |S| V1=25 S1=25; moduli V1=[20, 20] S1=[20, 20]; Gmax V1=2 S1=2; perms V1=[] S1=[]
+   pieces: 16 nonzero (V1) vs 16 (S1); Hodge-number mismatches: 0 []
+   Y: V1 14..14 closed=True noIVHS=False | fixed 14..14 closed=True noIVHS=False | S1 14..14 fully_proved_Y=True by_rules=False
+   C: V1 2..2 | fixed 2..2 | S1 2..2 decided=True
+   orbit counts Y: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 5, 'rigid': 1}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:3:1', 'S:5:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:1 [('S:5:1', 50033, [1, 21, 25, 25], None)]
+   orbit class differs: ['S:4:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:0 [('S:4:0', 50033, [1, 18, 19, 19], None)]
+   orbit class differs: ['S:4:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:1 [('S:4:1', 50033, [2, 22, 24, 24], True)]
+   Y-blocks: S1 28, V1 28; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 4, ('aut-IVHS', 'aut'): 6, ('aut-IVHS', 'aut-IVHS'): 4, ('zero-IVHS', 'zero'): 10, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 4, V1 4; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc4_001 d8 [B]
+   |S| V1=15 S1=15; moduli V1=[10, 10] S1=[10, 10]; Gmax V1=4 S1=4; perms V1=[] S1=[]
+   pieces: 32 nonzero (V1) vs 32 (S1); Hodge-number mismatches: 0 []
+   Y: V1 76..76 closed=True noIVHS=False | fixed 76..76 closed=True noIVHS=False | S1 76..76 fully_proved_Y=True by_rules=False
+   C: V1 4..4 | fixed 4..4 | S1 4..4 decided=True
+   orbit counts Y: V1 {'rigid': 7, 'pure': 1, 'cm': 0, 'res': 3} S1 {'residual': 8, 'pure': 1, 'rigid': 2}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 3} S1 {'residual': 3}
+   orbit class differs: ['S:2:3', 'S:6:1'].. S1=residual (R1 tests failed) V1=rigid cert=S:2:3 [('S:2:3', 50033, [2, 12, 12, 12], True)]
+   orbit class differs: ['S:1:2', 'S:3:2', 'S:5:2'].. S1=residual (R1 tests failed) V1=rigid cert=S:3:2 [('S:3:2', 50033, [2, 12, 12, 12], True)]
+   orbit class differs: ['S:4:1', 'S:4:3'].. S1=residual (R1 tests failed) V1=rigid cert=S:4:1 [('S:4:1', 50033, [2, 12, 12, 12], True)]
+   orbit class differs: ['S:1:1', 'S:3:3', 'S:5:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:3:3 [('S:3:3', 50033, [1, 11, 12, 12], None)]
+   orbit class differs: ['S:4:2'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:2 [('S:4:2', 50033, [1, 11, 12, 12], None)]
+   Y-blocks: S1 112, V1 112; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero'): 6, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 1, ('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 13, ('aut-IVHS', 'aut-IVHS'): 8, ('zero-IVHS', 'zero'): 54, ('zero-IVHS', 'zero-IVHS'): 24}
+   C-blocks: S1 16, V1 16; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 4, ('zero-IVHS', 'zero-IVHS'): 12}
+== cyc8_001 d8 [B]
+   |S| V1=10 S1=10; moduli V1=[5, 5] S1=[5, 5]; Gmax V1=8 S1=8; perms V1=[] S1=[]
+   pieces: 56 nonzero (V1) vs 56 (S1); Hodge-number mismatches: 0 []
+   Y: V1 385..385 closed=True noIVHS=False | fixed 385..385 closed=True noIVHS=False | S1 385..385 fully_proved_Y=True by_rules=False
+   C: V1 7..7 | fixed 7..7 | S1 7..7 decided=True
+   orbit counts Y: V1 {'rigid': 8, 'pure': 3, 'cm': 0, 'res': 4} S1 {'pure': 3, 'rigid': 8, 'residual': 4}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 2, 'residual': 1}
+   Y-blocks: S1 343, V1 343; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero-IVHS'): 28, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 7, ('aut', 'aut'): 28, ('aut-IVHS', 'aut-IVHS'): 14, ('zero', 'zero'): 238, ('zero-IVHS', 'zero'): 8, ('zero-IVHS', 'zero-IVHS'): 20}
+   C-blocks: S1 49, V1 49; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut-IVHS'): 1, ('zero', 'zero'): 42}
+== cyc2_001 d9 [B]
+   |S| V1=30 S1=30; moduli V1=[25, 25] S1=[25, 25]; Gmax V1=2 S1=2; perms V1=[] S1=[]
+   pieces: 18 nonzero (V1) vs 18 (S1); Hodge-number mismatches: 0 []
+   Y: V1 16..16 closed=True noIVHS=False | fixed 16..16 closed=True noIVHS=False | S1 16..16 fully_proved_Y=True by_rules=False
+   C: V1 2..2 | fixed 2..2 | S1 2..2 decided=True
+   orbit counts Y: V1 {'rigid': 3, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 4}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:2:1', 'S:4:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:1 [('S:5:1', 50329, [2, 28, 32, 32], True)]
+   orbit class differs: ['S:1:0', 'S:2:0', 'S:4:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:0 [('S:5:0', 50329, [1, 23, 25, 25], None)]
+   orbit class differs: ['S:3:1', 'S:6:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:1 [('S:6:1', 50329, [1, 26, 32, 32], None)]
+   Y-blocks: S1 32, V1 32; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut'): 14, ('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero'): 16}
+   C-blocks: S1 4, V1 4; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc3_001 d9 [B]
+   |S| V1=22 S1=22; moduli V1=[17, 17] S1=[17, 17]; Gmax V1=3 S1=3; perms V1=[] S1=[]
+   pieces: 27 nonzero (V1) vs 27 (S1); Hodge-number mismatches: 0 []
+   Y: V1 24..24 closed=True noIVHS=False | fixed 24..24 closed=True noIVHS=False | S1 24..24 fully_proved_Y=True by_rules=False
+   C: V1 3..3 | fixed 3..3 | S1 3..3 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 5, 'rigid': 1}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:2', 'S:2:1', 'S:4:2'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:2 [('S:4:2', 50329, [2, 20, 22, 22], True)]
+   orbit class differs: ['S:3:0', 'S:6:0'].. S1=residual (R1 tests failed) V1=rigid cert=S:3:0 [('S:3:0', 50329, [2, 15, 15, 15], True)]
+   orbit class differs: ['S:1:1', 'S:2:2', 'S:4:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:2 [('S:5:2', 50329, [1, 18, 21, 21], None)]
+   orbit class differs: ['S:3:2', 'S:6:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:1 [('S:6:1', 50329, [1, 18, 21, 21], None)]
+   Y-blocks: S1 72, V1 72; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut'): 16, ('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero'): 44, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 9, V1 9; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 3, ('zero-IVHS', 'zero-IVHS'): 6}
+== cyc4_001 d9 [B]
+   |S| V1=18 S1=18; moduli V1=[13, 13] S1=[13, 13]; Gmax V1=4 S1=4; perms V1=[] S1=[]
+   pieces: 36 nonzero (V1) vs 36 (S1); Hodge-number mismatches: 0 []
+   Y: V1 32..32 closed=True noIVHS=False | fixed 32..32 closed=True noIVHS=False | S1 32..32 fully_proved_Y=True by_rules=False
+   C: V1 4..4 | fixed 4..4 | S1 4..4 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 4, 'rigid': 2}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 3} S1 {'residual': 3}
+   orbit class differs: ['S:1:1', 'S:1:3', 'S:2:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:3 [('S:4:3', 50329, [1, 14, 16, 16], None)]
+   orbit class differs: ['S:1:2', 'S:2:2', 'S:4:2'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:2 [('S:5:2', 50329, [1, 14, 16, 16], None)]
+   orbit class differs: ['S:3:1', 'S:3:3', 'S:6:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:1 [('S:6:1', 50329, [1, 14, 16, 16], None)]
+   Y-blocks: S1 128, V1 128; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 8, ('aut-IVHS', 'aut'): 22, ('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero'): 92, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 16, V1 16; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 4, ('zero-IVHS', 'zero-IVHS'): 12}
+== cyc8_001 d9 [B]
+   |S| V1=12 S1=12; moduli V1=[7, 7] S1=[7, 7]; Gmax V1=8 S1=8; perms V1=[] S1=[]
+   pieces: 71 nonzero (V1) vs 71 (S1); Hodge-number mismatches: 0 []
+   Y: V1 64..64 closed=True noIVHS=False | fixed 64..64 closed=True noIVHS=False | S1 64..64 fully_proved_Y=True by_rules=False
+   C: V1 7..7 | fixed 7..7 | S1 7..7 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 2, 'cm': 0, 'res': 1} S1 {'rigid': 5, 'residual': 1, 'pure': 2}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 2, 'residual': 1}
+   Y-blocks: S1 512, V1 512; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero-IVHS'): 8, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 8, ('aut', 'aut'): 52, ('aut-IVHS', 'aut-IVHS'): 4, ('zero', 'zero'): 428, ('zero-IVHS', 'zero'): 8, ('zero-IVHS', 'zero-IVHS'): 4}
+   C-blocks: S1 49, V1 49; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut-IVHS'): 1, ('zero', 'zero'): 42}
+== cyc9_001 d9 [B]
+   |S| V1=11 S1=11; moduli V1=[6, 6] S1=[6, 6]; Gmax V1=9 S1=9; perms V1=[] S1=[]
+   pieces: 72 nonzero (V1) vs 72 (S1); Hodge-number mismatches: 0 []
+   Y: V1 568..568 closed=True noIVHS=False | fixed 568..568 closed=True noIVHS=False | S1 568..568 fully_proved_Y=True by_rules=False
+   C: V1 8..8 | fixed 8..8 | S1 8..8 decided=True
+   orbit counts Y: V1 {'rigid': 9, 'pure': 2, 'cm': 0, 'res': 1} S1 {'pure': 2, 'rigid': 9, 'residual': 1}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 2}
+   Y-blocks: S1 512, V1 512; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero-IVHS'): 12, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 8, ('aut', 'aut'): 50, ('aut-IVHS', 'aut-IVHS'): 6, ('zero', 'zero'): 436}
+   C-blocks: S1 64, V1 64; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 8, ('zero', 'zero'): 56}
+== cyc2_001 d10 [B]
+   |S| V1=36 S1=36; moduli V1=[31, 31] S1=[31, 31]; Gmax V1=2 S1=2; perms V1=[] S1=[]
+   pieces: 20 nonzero (V1) vs 20 (S1); Hodge-number mismatches: 0 []
+   Y: V1 18..18 closed=True noIVHS=False | fixed 18..18 closed=True noIVHS=False | S1 18..18 fully_proved_Y=True by_rules=False
+   C: V1 2..2 | fixed 2..2 | S1 2..2 decided=True
+   orbit counts Y: V1 {'rigid': 4, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 6}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:3:1', 'S:7:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:7:1 [('S:7:1', 50321, [1, 32, 41, 41], None)]
+   orbit class differs: ['S:2:0', 'S:4:0', 'S:6:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:0 [('S:6:0', 50321, [1, 29, 33, 33], None)]
+   orbit class differs: ['S:2:1', 'S:4:1', 'S:6:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:1 [('S:6:1', 50321, [2, 34, 40, 40], True)]
+   orbit class differs: ['S:5:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:0 [('S:5:0', 50321, [2, 30, 32, 32], True)]
+   Y-blocks: S1 36, V1 36; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut'): 13, ('aut-IVHS', 'aut-IVHS'): 5, ('zero-IVHS', 'zero'): 16, ('zero-IVHS', 'zero-IVHS'): 2}
+   C-blocks: S1 4, V1 4; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 2, ('zero-IVHS', 'zero-IVHS'): 2}
+== cyc3_001 d10 [B]
+   |S| V1=26 S1=26; moduli V1=[21, 21] S1=[21, 21]; Gmax V1=3 S1=3; perms V1=[] S1=[]
+   pieces: 30 nonzero (V1) vs 30 (S1); Hodge-number mismatches: 0 []
+   Y: V1 27..27 closed=True noIVHS=False | fixed 27..27 closed=True noIVHS=False | S1 27..27 fully_proved_Y=True by_rules=False
+   C: V1 3..3 | fixed 3..3 | S1 3..3 decided=True
+   orbit counts Y: V1 {'rigid': 5, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 6}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:1:1', 'S:1:2', 'S:3:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:7:1 [('S:7:1', 51001, [1, 22, 27, 27], None)]
+   orbit class differs: ['S:2:1', 'S:2:2', 'S:4:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:2 [('S:6:2', 51001, [1, 22, 27, 27], None)]
+   orbit class differs: ['S:5:1', 'S:5:2'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:2 [('S:5:2', 51001, [2, 24, 27, 27], True)]
+   orbit class differs: ['S:2:0', 'S:4:0', 'S:6:0'].. S1=residual (R1 tests failed) V1=rigid cert=S:4:0 [('S:4:0', 51001, [2, 19, 19, 19], True)]
+   orbit class differs: ['S:5:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:0 [('S:5:0', 51001, [1, 18, 19, 19], None)]
+   Y-blocks: S1 81, V1 81; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut'): 23, ('aut-IVHS', 'aut-IVHS'): 4, ('zero-IVHS', 'zero'): 54}
+   C-blocks: S1 9, V1 9; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 3, ('zero-IVHS', 'zero-IVHS'): 6}
+== cyc5_001 d10 [B]
+   |S| V1=18 S1=18; moduli V1=[13, 13] S1=[13, 13]; Gmax V1=5 S1=5; perms V1=[] S1=[]
+   pieces: 50 nonzero (V1) vs 50 (S1); Hodge-number mismatches: 0 []
+   Y: V1 125..125 closed=True noIVHS=False | fixed 125..125 closed=True noIVHS=False | S1 125..125 fully_proved_Y=True by_rules=False
+   C: V1 5..5 | fixed 5..5 | S1 5..5 decided=True
+   orbit counts Y: V1 {'rigid': 6, 'pure': 1, 'cm': 0, 'res': 5} S1 {'residual': 9, 'pure': 1, 'rigid': 2}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 2}
+   orbit class differs: ['S:2:4', 'S:4:3', 'S:6:2'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:6:2 [('S:6:2', 50321, [1, 14, 16, 16], None)]
+   orbit class differs: ['S:5:1', 'S:5:2', 'S:5:3'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:3 [('S:5:3', 50321, [1, 14, 16, 16], None)]
+   orbit class differs: ['S:2:2', 'S:4:4', 'S:6:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:4 [('S:4:4', 50321, [1, 14, 16, 16], None)]
+   orbit class differs: ['S:1:3', 'S:3:4', 'S:7:1'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:7:1 [('S:7:1', 50321, [1, 14, 16, 16], None)]
+   Y-blocks: S1 225, V1 225; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero'): 8, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 1, ('aut', 'aut'): 8, ('aut-IVHS', 'aut'): 16, ('aut-IVHS', 'aut-IVHS'): 20, ('zero-IVHS', 'zero'): 100, ('zero-IVHS', 'zero-IVHS'): 72}
+   C-blocks: S1 25, V1 25; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 5, ('zero-IVHS', 'zero-IVHS'): 20}
+== cyc10_001 d10 [B]
+   |S| V1=12 S1=12; moduli V1=[7, 7] S1=[7, 7]; Gmax V1=10 S1=10; perms V1=[] S1=[]
+   pieces: 90 nonzero (V1) vs 90 (S1); Hodge-number mismatches: 0 []
+   Y: V1 801..801 closed=True noIVHS=False | fixed 801..801 closed=True noIVHS=False | S1 801..801 fully_proved_Y=True by_rules=False
+   C: V1 9..9 | fixed 9..9 | S1 9..9 decided=True
+   orbit counts Y: V1 {'rigid': 13, 'pure': 3, 'cm': 0, 'res': 5} S1 {'pure': 3, 'rigid': 13, 'residual': 5}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 1} S1 {'rigid': 2, 'residual': 1}
+   Y-blocks: S1 729, V1 729; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero-IVHS'): 40, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 9, ('aut', 'aut'): 52, ('aut-IVHS', 'aut-IVHS'): 20, ('zero', 'zero'): 576, ('zero-IVHS', 'zero-IVHS'): 32}
+   C-blocks: S1 81, V1 81; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 8, ('aut-IVHS', 'aut-IVHS'): 1, ('zero', 'zero'): 72}
+== cyc8_012 d8 [C]
+   |S| V1=7 S1=7; moduli V1=[4, 4] S1=[4, 4]; Gmax V1=8 S1=8; perms V1=['210'] S1=['210']
+   pieces: 64 nonzero (V1) vs 64 (S1); Hodge-number mismatches: 0 []
+   Y: V1 323..323 closed=True noIVHS=False | fixed 323..323 closed=True noIVHS=False | S1 323..323 fully_proved_Y=True by_rules=False
+   C: V1 15..17 | fixed 15..17 | S1 15..17 decided=False
+   orbit counts Y: V1 {'rigid': 14, 'pure': 3, 'cm': 0, 'res': 1} S1 {'residual': 7, 'rigid': 8, 'pure': 3}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 3} S1 {'residual': 3, 'rigid': 1}
+   orbit class differs: ['S:1:6', 'S:3:2', 'S:5:6'].. S1=residual (R1 tests failed) V1=rigid cert=S:1:6 [('S:1:6', 50033, [2, 5, 5, 5], True)]
+   orbit class differs: ['S:1:7', 'S:3:5', 'S:5:3'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:5:3 [('S:5:3', 50033, [1, 5, 7, 7], None)]
+   orbit class differs: ['S:4:1', 'S:4:3', 'S:4:5'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:3 [('S:4:3', 50033, [1, 5, 6, 6], None)]
+   orbit class differs: ['S:2:6', 'S:6:2'].. S1=residual (R1 tests failed) V1=rigid cert=S:2:6 [('S:2:6', 50033, [2, 5, 5, 5], True)]
+   orbit class differs: ['S:1:0', 'S:3:0', 'S:5:0'].. S1=residual (R1 tests failed) V1=rigid cert=S:1:0 [('S:1:0', 50033, [2, 5, 5, 5], True)]
+   orbit class differs: ['S:4:4'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:4:4 [('S:4:4', 50033, [1, 4, 5, 5], None)]
+   Y-blocks: S1 448, V1 448; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS-res', 'zero'): 34, ('NSxNS/CMxCM', 'NSxNS/CMxCM'): 11, ('aut', 'aut'): 56, ('aut-IVHS', 'aut'): 31, ('aut-IVHS', 'aut-IVHS'): 4, ('zero', 'zero'): 240, ('zero-IVHS', 'zero'): 56, ('zero-IVHS', 'zero-IVHS'): 16}
+   C-blocks: S1 64, V1 64; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 4, ('aut-IVHS', 'aut-IVHS'): 9, ('residual', 'residual'): 1, ('zero-IVHS', 'zero-IVHS'): 50}
+== cyc5_012 d6 [D]
+   |S| V1=6 S1=6; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=5 S1=5; perms V1=[] S1=[]
+   pieces: 30 nonzero (V1) vs 30 (S1); Hodge-number mismatches: 0 []
+   Y: V1 49..73 closed=False noIVHS=False | fixed 49..73 closed=False noIVHS=False | S1 49..73 fully_proved_Y=False by_rules=False
+   C: V1 5..9 | fixed 5..9 | S1 5..9 decided=False
+   orbit counts Y: V1 {'rigid': 5, 'pure': 1, 'cm': 0, 'res': 0} S1 {'rigid': 4, 'residual': 1, 'pure': 1}; C: V1 {'rigid': 2, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 2}
+   orbit class differs: ['S:1:0', 'S:5:0'].. S1=residual (R1 tests failed) V1=rigid cert=S:1:0 [('S:1:0', 51001, [2, 5, 5, 5], True)]
+   Y-blocks: S1 125, V1 125; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('NSxNS/CMxCM', 'NSxNS/CMxCM'): 1, ('aut', 'aut'): 22, ('aut-IVHS', 'aut'): 2, ('residual', 'residual'): 24, ('zero', 'zero'): 60, ('zero-IVHS', 'zero'): 16}
+   C-blocks: S1 25, V1 25; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 5, ('residual', 'residual'): 4, ('zero-IVHS', 'zero-IVHS'): 16}
+== cyc7_013 d7 [D]
+   |S| V1=6 S1=6; moduli V1=[3, 3] S1=[3, 3]; Gmax V1=7 S1=7; perms V1=[] S1=[]
+   pieces: 49 nonzero (V1) vs 49 (S1); Hodge-number mismatches: 0 []
+   Y: V1 42..78 closed=False noIVHS=False | fixed 42..78 closed=False noIVHS=False | S1 42..78 fully_proved_Y=False by_rules=False
+   C: V1 7..13 | fixed 7..13 | S1 7..13 decided=False
+   orbit counts Y: V1 {'rigid': 7, 'pure': 0, 'cm': 0, 'res': 0} S1 {'rigid': 7}; C: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 1, 'rigid': 1}
+   Y-blocks: S1 294, V1 294; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 42, ('residual', 'residual'): 36, ('zero', 'zero'): 180, ('zero-IVHS', 'zero-IVHS'): 36}
+   C-blocks: S1 49, V1 49; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut', 'aut'): 6, ('aut-IVHS', 'aut-IVHS'): 1, ('residual', 'residual'): 6, ('zero-IVHS', 'zero-IVHS'): 36}
+== cyc8_017 d8 [ctrl]: not in S1 survey_d8_v4.json (control)
+   V1 Y=323..323 C=15..17
+== cyc1_000 d6 [ctrl]
+   |S| V1=28 S1=28; moduli V1=[19, 19] S1=[19, 19]; Gmax V1=1 S1=1; perms V1=[] S1=[]
+   pieces: 6 nonzero (V1) vs 6 (S1); Hodge-number mismatches: 0 []
+   Y: V1 5..5 closed=True noIVHS=False | fixed 5..5 closed=True noIVHS=False | S1 5..5 fully_proved_Y=True by_rules=False
+   C: V1 1..1 | fixed 1..1 | S1 1..1 decided=True
+   orbit counts Y: V1 {'rigid': 1, 'pure': 0, 'cm': 0, 'res': 2} S1 {'residual': 3}; C: V1 {'rigid': 0, 'pure': 0, 'cm': 0, 'res': 1} S1 {'residual': 1}
+   orbit class differs: ['S:3:0'].. S1=residual (no embedding with h_top in {1,2} and h02=0) V1=rigid cert=S:3:0 [('S:3:0', 50329, [1, 20, 21, 21], None)]
+   Y-blocks: S1 5, V1 5; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut'): 1, ('aut-IVHS', 'aut-IVHS'): 4}
+   C-blocks: S1 1, V1 1; (lb,ub) disagreements: 0; kind cross-tab (S1 kind, V1 kind): {('aut-IVHS', 'aut-IVHS'): 1}
+
+== S1 block kinds and reasons (all compared families), counts:
+     9545  zero         Hodge numbers: source rigid (i): E_(#,#) not <= sum of targets
+     2276  zero         pure vs rigid (rigid orbit has no Hodge classes)
+     2043  zero         Hodge numbers: target rigid (iii): E_(#,#) not covered by its sources
+     1424  aut          
+      976  zero-IVHS    residual orbit involved #> closed by first#order bound ub# = lb = #
+      351  aut-IVHS     automorphism block with non#rigid side (stabilizer span #) #> closed by first#order bound 
+      219  NSxNS        
+      150  NSxNS-res    pure x residual: NS (x) Hdg(residual piece), algebraic
+       92  zero         both orbits simple (End = K, no Galois twist with equal Hodge numbers) and block orbit not
+       82  residual     R#: equal Hodge numbers and Higgs kernels, no automorphism
+       68  zero-IVHS    R#: equal Hodge numbers and Higgs kernels, no automorphism #> closed by first#order bound 
+       12  zero-IVHS    stabilizers incomparable (criterion not applicable) #> closed by first#order bound ub# = l
+        2  residual     residual orbit involved
+        2  zero         R#: Higgs#kernel subspaces differ (both primes)
+        2  CM           CM types agree along the block orbit
+        2  zero         CM types differ along the block orbit
+        1  residual     automorphism block with non#rigid side (stabilizer span #)
+total (lb,ub) block disagreements: 0
+== S1 blocks closed by S1 rule 5 (Higgs-kernel subspaces) or rule 3 (both orbits simple), with V1 classification:
+    ('cyc12_016', 7, ('S:1:2', 'S:1:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:2', 'S:1:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:9', 'S:1:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:9', 'S:1:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:3', 'S:1:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:3', 'S:1:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:10', 'S:1:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:1:10', 'S:1:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:2', 'S:2:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:2', 'S:2:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:3', 'S:2:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:3', 'S:2:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:9', 'S:2:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:9', 'S:2:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:10', 'S:2:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:2:10', 'S:2:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:2', 'S:3:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:2', 'S:3:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:9', 'S:3:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:9', 'S:3:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:3', 'S:3:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:3', 'S:3:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:10', 'S:3:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:3:10', 'S:3:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:2', 'S:4:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:2', 'S:4:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:3', 'S:4:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:3', 'S:4:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:9', 'S:4:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:9', 'S:4:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:10', 'S:4:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:4:10', 'S:4:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:2', 'S:5:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:2', 'S:5:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:3', 'S:5:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:3', 'S:5:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:9', 'S:5:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:9', 'S:5:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:10', 'S:5:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:5:10', 'S:5:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:2', 'S:6:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:2', 'S:6:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:9', 'S:6:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:9', 'S:6:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:3', 'S:6:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:3', 'S:6:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:10', 'S:6:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('S:6:10', 'S:6:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R3', 0, 0, 'V1 fixed:', ('R3', 0, 0), 'V1 zero_rules', ['R3'], ['R3'])
+    ('cyc12_016', 7, ('C:8', 'C:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:8', 'C:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:2', 'C:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:2', 'C:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:3', 'C:8'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:3', 'C:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:3', 'C:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:3', 'C:4'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:9', 'C:8'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:9', 'C:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:9', 'C:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:9', 'C:4'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:10', 'C:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:10', 'C:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:4', 'C:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc12_016', 7, ('C:4', 'C:9'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3'])
+    ('cyc8_014', 9, ('C:0', 'C:4'), 'zero', 'R3: Higgs-kernel subspaces differ (both primes)', 'V1 old:', 'R6:res', 0, 0, 'V1 fixed:', ('R6:res', 0, 0), 'V1 zero_rules', [], [])
+    ('cyc8_014', 9, ('C:4', 'C:0'), 'zero', 'R3: Higgs-kernel subspaces differ (both primes)', 'V1 old:', 'R6:res', 0, 0, 'V1 fixed:', ('R6:res', 0, 0), 'V1 zero_rules', [], [])
+    ('cyc18_0-1-10', 9, ('S:3:4', 'S:3:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:3:3', 'S:3:4'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:3:3', 'S:3:10'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:3:3', 'S:3:16'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:3:10', 'S:3:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:3:16', 'S:3:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:2', 'S:6:15'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:8', 'S:6:15'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:15', 'S:6:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:15', 'S:6:8'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:15', 'S:6:14'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc18_0-1-10', 9, ('S:6:14', 'S:6:15'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:3', 'S:2:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:0', 'S:2:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:0', 'S:2:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:0', 'S:2:4'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:0', 'S:2:1'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:2', 'S:2:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:4', 'S:2:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:2:1', 'S:2:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:4', 'S:4:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:1', 'S:4:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:3', 'S:4:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:0', 'S:4:4'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:0', 'S:4:1'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:0', 'S:4:3'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:0', 'S:4:2'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])
+    ('cyc5_012', 6, ('S:4:2', 'S:4:0'), 'zero', 'both orbits simple (End = K, no Galois twist with equal Hodg', 'V1 old:', 'R2c', 0, 0, 'V1 fixed:', ('R2c', 0, 0), 'V1 zero_rules', ['R2c', 'R3'], ['R2c', 'R3', "R5'"])

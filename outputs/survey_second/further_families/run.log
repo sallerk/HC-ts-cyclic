@@ -1,0 +1,15 @@
+cyc10_015      d=10  Y lb=169 ub=169 closed=True errors=[] 1.1s
+cyc9_013       d=10  Y lb=129 ub=129 closed=True errors=[] 2.3s
+cyc9_016       d=10  Y lb=223 ub=223 closed=True errors=[] 2.3s
+cyc9_012       d= 9  Y lb=136 ub=136 closed=True errors=[] 1.8s
+cyc9_013       d= 9  Y lb=102 ub=102 closed=True errors=[] 1.6s
+cyc8_012       d= 9  Y lb=64 ub=64 closed=True errors=[] 1.9s
+cyc6_014       d= 9  Y lb=48 ub=48 closed=True errors=[] 1.5s
+cyc3_012       d=10  Y lb=27 ub=27 closed=True errors=[] 20.6s
+cyc4_012       d= 9  Y lb=32 ub=32 closed=True errors=[] 2.1s
+cyc7_012       d= 7  Y lb=78 ub=78 closed=True errors=[] 1.0s
+cyc3_012       d= 9  Y lb=24 ub=24 closed=True errors=[] 5.3s
+cyc5_014       d= 7  Y lb=30 ub=30 closed=True errors=[] 0.8s
+cyc6_012       d= 6  Y lb=493 ub=493 closed=True errors=[] 0.1s
+cyc3_012       d= 7  Y lb=18 ub=18 closed=True errors=[] 0.3s
+cyc3_012       d= 6  Y lb=157 ub=157 closed=True errors=[] 0.1s

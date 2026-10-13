@@ -1,0 +1,41 @@
+[cyc5_001 d6 p=60601] Hilbert/Koszul mismatches (deg 0..3d-5, all weights): 0
+[cyc5_001 d6 p=60601] trivial-arc Taylor tests (orders 1-3, all basis classes, surface + curve pieces): 1500 run, 0 failed
+[cyc7_013 d7 p=60089] Hilbert/Koszul mismatches (deg 0..3d-5, all weights): 0
+[cyc7_013 d7 p=60089] trivial-arc Taylor tests (orders 1-3, all basis classes, surface + curve pieces): 2592 run, 0 failed
+[cyc8_017 d8 p=60017] Hilbert/Koszul mismatches (deg 0..3d-5, all weights): 0
+[cyc8_017 d8 p=60017] trivial-arc Taylor tests (orders 1-3, all basis classes, surface + curve pieces): 4116 run, 0 failed
+[cyc2_001 d6 p=60169] Hilbert/Koszul mismatches (deg 0..3d-5, all weights): 0
+[cyc2_001 d6 p=60169] trivial-arc Taylor tests (orders 1-3, all basis classes, surface + curve pieces): 1500 run, 0 failed
+[cyc8_017 d8 full p=60017] u=2 chi=0 h=(2, 3, 0) hull=[2, 5, 5, 5] L4cert(k=2)=True certified_minrank>=2
+[cyc8_017 d8 full p=60017] u=2 chi=1 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=True certified_minrank>=3
+[cyc8_017 d8 full p=60017] u=2 chi=2 h=(1, 4, 0) hull=[1, 4, 5, 5]
+[cyc8_017 d8 full p=60017] u=2 chi=3 h=(1, 5, 0) hull=[1, 5, 6, 6]
+[cyc8_017 d8 full p=60017] u=2 chi=4 h=(0, 4, 0) hull=[0, 0, 0, 0]
+[cyc8_017 d8 full p=60017] u=2 chi=5 h=(1, 5, 0) hull=[1, 5, 6, 6]
+[cyc8_017 d8 full p=60017] u=2 chi=6 h=(1, 4, 0) hull=[1, 4, 5, 5]
+[cyc8_017 d8 full p=60017] u=2 chi=7 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=True certified_minrank>=3
+[cyc8_017 d8 Qs p=60017] u=2 chi=0 h=(2, 3, 0) hull=[2, 5, 5, 5] L4cert(k=2)=False certified_minrank>=1
+[cyc8_017 d8 Qs p=60017] u=2 chi=1 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=False certified_minrank>=2
+[cyc8_017 d8 Qs p=60017] u=2 chi=2 h=(1, 4, 0) hull=[1, 3, 4, 4]
+[cyc8_017 d8 Qs p=60017] u=2 chi=3 h=(1, 5, 0) hull=[1, 3, 3, 3]
+[cyc8_017 d8 Qs p=60017] u=2 chi=4 h=(0, 4, 0) hull=[0, 0, 0, 0]
+[cyc8_017 d8 Qs p=60017] u=2 chi=5 h=(1, 5, 0) hull=[1, 3, 3, 3]
+[cyc8_017 d8 Qs p=60017] u=2 chi=6 h=(1, 4, 0) hull=[1, 3, 4, 4]
+[cyc8_017 d8 Qs p=60017] u=2 chi=7 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=False certified_minrank>=2
+[cyc8_017 d8 full p=60041] u=2 chi=0 h=(2, 3, 0) hull=[2, 5, 5, 5] L4cert(k=2)=True certified_minrank>=2
+[cyc8_017 d8 full p=60041] u=2 chi=1 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=True certified_minrank>=3
+[cyc8_017 d8 full p=60041] u=2 chi=2 h=(1, 4, 0) hull=[1, 4, 5, 5]
+[cyc8_017 d8 full p=60041] u=2 chi=3 h=(1, 5, 0) hull=[1, 5, 6, 6]
+[cyc8_017 d8 full p=60041] u=2 chi=4 h=(0, 4, 0) hull=[0, 0, 0, 0]
+[cyc8_017 d8 full p=60041] u=2 chi=5 h=(1, 5, 0) hull=[1, 5, 6, 6]
+[cyc8_017 d8 full p=60041] u=2 chi=6 h=(1, 4, 0) hull=[1, 4, 5, 5]
+[cyc8_017 d8 full p=60041] u=2 chi=7 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=True certified_minrank>=3
+[cyc8_017 d8 Qs p=60041] u=2 chi=0 h=(2, 3, 0) hull=[2, 5, 5, 5] L4cert(k=2)=False certified_minrank>=1
+[cyc8_017 d8 Qs p=60041] u=2 chi=1 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=False certified_minrank>=2
+[cyc8_017 d8 Qs p=60041] u=2 chi=2 h=(1, 4, 0) hull=[1, 3, 4, 4]
+[cyc8_017 d8 Qs p=60041] u=2 chi=3 h=(1, 5, 0) hull=[1, 3, 3, 3]
+[cyc8_017 d8 Qs p=60041] u=2 chi=4 h=(0, 4, 0) hull=[0, 0, 0, 0]
+[cyc8_017 d8 Qs p=60041] u=2 chi=5 h=(1, 5, 0) hull=[1, 3, 3, 3]
+[cyc8_017 d8 Qs p=60041] u=2 chi=6 h=(1, 4, 0) hull=[1, 3, 4, 4]
+[cyc8_017 d8 Qs p=60041] u=2 chi=7 h=(2, 4, 0) hull=[2, 6, 6, 6] L4cert(k=3)=False certified_minrank>=2
+time 6.1s

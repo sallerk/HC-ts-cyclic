@@ -1,0 +1,753 @@
+c_n closed vs brute (n<=40, D<120): mismatches=0
+Lemma 2.4 monotonicity: failures=0
+Shioda dimension identity checked d=3..40
+d=6 n=2 L=6 Y=73 C=2 dim=76 pure_orbit=1 pure_in_nonpure=[] XU=holds  fails=0
+d=6 n=3 L=6 Y=69 C=3 dim=73 pure_orbit=3 pure_in_nonpure=[] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=6 n=5 L=30 Y=25 C=4 dim=30 pure_orbit=5 pure_in_nonpure=[(1, 4), (2, 3), (2, 4), (3, 2), (3, 3), (4, 1)] XU=holds  fails=0
+d=6 n=6 L=6 Y=681 C=35 dim=717 pure_orbit=13 pure_in_nonpure=[] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=7 n=2 L=14 Y=12 C=2 dim=15 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=7 n=3 L=21 Y=18 C=3 dim=22 pure_orbit=0 pure_in_nonpure=[(3, 0), (4, 0)] XU=holds  fails=0
+d=7 n=6 L=42 Y=36 C=5 dim=42 pure_orbit=6 pure_in_nonpure=[(1, 5), (2, 4), (2, 5), (3, 3), (3, 4), (4, 2)] XU=holds  fails=0
+d=7 n=7 L=7 Y=246 C=6 dim=253 pure_orbit=6 pure_in_nonpure=[(1, 5), (2, 4), (2, 6), (3, 3), (3, 5), (4, 2)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=8 n=2 L=8 Y=14 C=2 dim=17 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=8 n=4 L=8 Y=76 C=4 dim=81 pure_orbit=1 pure_in_nonpure=[(3, 0), (5, 0)] XU=FAILS ex=[(1, 3), (3, 1)] fails=0
+d=8 n=7 L=56 Y=49 C=6 dim=56 pure_orbit=7 pure_in_nonpure=[(1, 6), (2, 5), (2, 6), (3, 4), (3, 5), (4, 3)] XU=holds  fails=0
+d=8 n=8 L=8 Y=385 C=7 dim=393 pure_orbit=7 pure_in_nonpure=[(1, 6), (2, 5), (2, 7), (3, 4), (3, 6), (4, 3)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=9 n=2 L=18 Y=16 C=2 dim=19 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=9 n=3 L=9 Y=24 C=3 dim=28 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=9 n=4 L=36 Y=32 C=4 dim=37 pure_orbit=0 pure_in_nonpure=[(4, 0), (5, 0)] XU=holds  fails=0
+d=9 n=8 L=72 Y=64 C=7 dim=72 pure_orbit=8 pure_in_nonpure=[(1, 7), (2, 6), (2, 7), (3, 5), (3, 6), (4, 4)] XU=holds  fails=0
+d=9 n=9 L=9 Y=568 C=8 dim=577 pure_orbit=8 pure_in_nonpure=[(1, 7), (2, 6), (2, 8), (3, 5), (3, 7), (4, 4)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=10 n=2 L=10 Y=18 C=2 dim=21 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=10 n=3 L=30 Y=27 C=3 dim=31 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=10 n=5 L=10 Y=125 C=5 dim=131 pure_orbit=1 pure_in_nonpure=[(4, 0), (6, 0)] XU=FAILS ex=[(1, 3), (2, 2)] fails=0
+d=10 n=9 L=90 Y=81 C=8 dim=90 pure_orbit=9 pure_in_nonpure=[(1, 8), (2, 7), (2, 8), (3, 6), (3, 7), (4, 5)] XU=holds  fails=0
+d=10 n=10 L=10 Y=801 C=9 dim=811 pure_orbit=9 pure_in_nonpure=[(1, 8), (2, 7), (2, 9), (3, 6), (3, 8), (4, 5)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=11 n=2 L=22 Y=20 C=2 dim=23 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=11 n=5 L=55 Y=50 C=5 dim=56 pure_orbit=0 pure_in_nonpure=[(5, 0), (6, 0)] XU=holds  fails=0
+d=11 n=10 L=110 Y=100 C=9 dim=110 pure_orbit=10 pure_in_nonpure=[(1, 9), (2, 8), (2, 9), (3, 7), (3, 8), (4, 6)] XU=holds  fails=0
+d=11 n=11 L=11 Y=1090 C=10 dim=1101 pure_orbit=10 pure_in_nonpure=[(1, 9), (2, 8), (2, 10), (3, 7), (3, 9), (4, 6)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=12 n=2 L=12 Y=22 C=2 dim=25 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=12 n=3 L=12 Y=33 C=3 dim=37 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=12 n=4 L=12 Y=44 C=4 dim=49 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=12 n=6 L=12 Y=186 C=6 dim=193 pure_orbit=1 pure_in_nonpure=[(5, 0), (7, 0)] XU=FAILS ex=[(1, 3), (3, 1)] fails=0
+d=12 n=11 L=132 Y=121 C=10 dim=132 pure_orbit=11 pure_in_nonpure=[(1, 10), (2, 9), (2, 10), (3, 8), (3, 9), (4, 7)] XU=holds  fails=0
+d=12 n=12 L=12 Y=1441 C=11 dim=1453 pure_orbit=11 pure_in_nonpure=[(1, 10), (2, 9), (2, 11), (3, 8), (3, 10), (4, 7)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=13 n=2 L=26 Y=24 C=2 dim=27 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=13 n=3 L=39 Y=36 C=3 dim=40 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=13 n=4 L=52 Y=48 C=4 dim=53 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=13 n=6 L=78 Y=72 C=6 dim=79 pure_orbit=0 pure_in_nonpure=[(6, 0), (7, 0)] XU=holds  fails=0
+d=13 n=12 L=156 Y=144 C=11 dim=156 pure_orbit=12 pure_in_nonpure=[(1, 11), (2, 10), (2, 11), (3, 9), (3, 10), (4, 8)] XU=holds  fails=0
+d=13 n=13 L=13 Y=1860 C=12 dim=1873 pure_orbit=12 pure_in_nonpure=[(1, 11), (2, 10), (2, 12), (3, 9), (3, 11), (4, 8)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=14 n=2 L=14 Y=26 C=2 dim=29 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=14 n=7 L=14 Y=259 C=7 dim=267 pure_orbit=1 pure_in_nonpure=[(6, 0), (8, 0)] XU=FAILS ex=[(1, 4), (2, 3)] fails=0
+d=14 n=13 L=182 Y=169 C=12 dim=182 pure_orbit=13 pure_in_nonpure=[(1, 12), (2, 11), (2, 12), (3, 10), (3, 11), (4, 9)] XU=holds  fails=0
+d=14 n=14 L=14 Y=2353 C=13 dim=2367 pure_orbit=13 pure_in_nonpure=[(1, 12), (2, 11), (2, 13), (3, 10), (3, 12), (4, 9)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=15 n=2 L=30 Y=28 C=2 dim=31 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=15 n=3 L=15 Y=42 C=3 dim=46 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=15 n=5 L=15 Y=70 C=5 dim=76 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=15 n=7 L=105 Y=98 C=7 dim=106 pure_orbit=0 pure_in_nonpure=[(7, 0), (8, 0)] XU=holds  fails=0
+d=15 n=14 L=210 Y=196 C=13 dim=210 pure_orbit=14 pure_in_nonpure=[(1, 13), (2, 12), (2, 13), (3, 11), (3, 12), (4, 10)] XU=holds  fails=0
+d=15 n=15 L=15 Y=2926 C=14 dim=2941 pure_orbit=14 pure_in_nonpure=[(1, 13), (2, 12), (2, 14), (3, 11), (3, 13), (4, 10)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=16 n=2 L=16 Y=30 C=2 dim=33 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=16 n=3 L=48 Y=45 C=3 dim=49 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=16 n=4 L=16 Y=60 C=4 dim=65 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=16 n=5 L=80 Y=75 C=5 dim=81 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=16 n=8 L=16 Y=344 C=8 dim=353 pure_orbit=1 pure_in_nonpure=[(7, 0), (9, 0)] XU=FAILS ex=[(1, 7), (7, 1)] fails=0
+d=16 n=15 L=240 Y=225 C=14 dim=240 pure_orbit=15 pure_in_nonpure=[(1, 14), (2, 13), (2, 14), (3, 12), (3, 13), (4, 11)] XU=holds  fails=0
+d=16 n=16 L=16 Y=3585 C=15 dim=3601 pure_orbit=15 pure_in_nonpure=[(1, 14), (2, 13), (2, 15), (3, 12), (3, 14), (4, 11)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=17 n=2 L=34 Y=32 C=2 dim=35 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=17 n=4 L=68 Y=64 C=4 dim=69 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=17 n=8 L=136 Y=128 C=8 dim=137 pure_orbit=0 pure_in_nonpure=[(8, 0), (9, 0)] XU=holds  fails=0
+d=17 n=16 L=272 Y=256 C=15 dim=272 pure_orbit=16 pure_in_nonpure=[(1, 15), (2, 14), (2, 15), (3, 13), (3, 14), (4, 12)] XU=holds  fails=0
+d=17 n=17 L=17 Y=4336 C=16 dim=4353 pure_orbit=16 pure_in_nonpure=[(1, 15), (2, 14), (2, 16), (3, 13), (3, 15), (4, 12)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=18 n=2 L=18 Y=34 C=2 dim=37 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=18 n=3 L=18 Y=51 C=3 dim=55 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=18 n=6 L=18 Y=102 C=6 dim=109 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(1, 4), (4, 1)] fails=0
+d=18 n=9 L=18 Y=441 C=9 dim=451 pure_orbit=1 pure_in_nonpure=[(8, 0), (10, 0)] XU=FAILS ex=[(1, 5), (2, 4)] fails=0
+d=18 n=17 L=306 Y=289 C=16 dim=306 pure_orbit=17 pure_in_nonpure=[(1, 16), (2, 15), (2, 16), (3, 14), (3, 15), (4, 13)] XU=holds  fails=0
+d=18 n=18 L=18 Y=5185 C=17 dim=5203 pure_orbit=17 pure_in_nonpure=[(1, 16), (2, 15), (2, 17), (3, 14), (3, 16), (4, 13)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=19 n=2 L=38 Y=36 C=2 dim=39 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=19 n=3 L=57 Y=54 C=3 dim=58 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=19 n=6 L=114 Y=108 C=6 dim=115 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=19 n=9 L=171 Y=162 C=9 dim=172 pure_orbit=0 pure_in_nonpure=[(9, 0), (10, 0)] XU=holds  fails=0
+d=19 n=18 L=342 Y=324 C=17 dim=342 pure_orbit=18 pure_in_nonpure=[(1, 17), (2, 16), (2, 17), (3, 15), (3, 16), (4, 14)] XU=holds  fails=0
+d=19 n=19 L=19 Y=6138 C=18 dim=6157 pure_orbit=18 pure_in_nonpure=[(1, 17), (2, 16), (2, 18), (3, 15), (3, 17), (4, 14)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=20 n=2 L=20 Y=38 C=2 dim=41 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=20 n=4 L=20 Y=76 C=4 dim=81 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=20 n=5 L=20 Y=95 C=5 dim=101 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=20 n=10 L=20 Y=550 C=10 dim=561 pure_orbit=1 pure_in_nonpure=[(9, 0), (11, 0)] XU=FAILS ex=[(1, 3), (3, 1)] fails=0
+d=20 n=19 L=380 Y=361 C=18 dim=380 pure_orbit=19 pure_in_nonpure=[(1, 18), (2, 17), (2, 18), (3, 16), (3, 17), (4, 15)] XU=holds  fails=0
+d=20 n=20 L=20 Y=7201 C=19 dim=7221 pure_orbit=19 pure_in_nonpure=[(1, 18), (2, 17), (2, 19), (3, 16), (3, 18), (4, 15)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=21 n=2 L=42 Y=40 C=2 dim=43 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=21 n=3 L=21 Y=60 C=3 dim=64 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=21 n=4 L=84 Y=80 C=4 dim=85 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=21 n=5 L=105 Y=100 C=5 dim=106 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=21 n=7 L=21 Y=140 C=7 dim=148 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=21 n=10 L=210 Y=200 C=10 dim=211 pure_orbit=0 pure_in_nonpure=[(10, 0), (11, 0)] XU=holds  fails=0
+d=21 n=20 L=420 Y=400 C=19 dim=420 pure_orbit=20 pure_in_nonpure=[(1, 19), (2, 18), (2, 19), (3, 17), (3, 18), (4, 16)] XU=holds  fails=0
+d=21 n=21 L=21 Y=8380 C=20 dim=8401 pure_orbit=20 pure_in_nonpure=[(1, 19), (2, 18), (2, 20), (3, 17), (3, 19), (4, 16)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=22 n=2 L=22 Y=42 C=2 dim=45 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=22 n=3 L=66 Y=63 C=3 dim=67 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=22 n=7 L=154 Y=147 C=7 dim=155 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=22 n=11 L=22 Y=671 C=11 dim=683 pure_orbit=1 pure_in_nonpure=[(10, 0), (12, 0)] XU=FAILS ex=[(1, 6), (2, 5)] fails=0
+d=22 n=21 L=462 Y=441 C=20 dim=462 pure_orbit=21 pure_in_nonpure=[(1, 20), (2, 19), (2, 20), (3, 18), (3, 19), (4, 17)] XU=holds  fails=0
+d=22 n=22 L=22 Y=9681 C=21 dim=9703 pure_orbit=21 pure_in_nonpure=[(1, 20), (2, 19), (2, 21), (3, 18), (3, 20), (4, 17)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=23 n=2 L=46 Y=44 C=2 dim=47 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=23 n=11 L=253 Y=242 C=11 dim=254 pure_orbit=0 pure_in_nonpure=[(11, 0), (12, 0)] XU=holds  fails=0
+d=23 n=22 L=506 Y=484 C=21 dim=506 pure_orbit=22 pure_in_nonpure=[(1, 21), (2, 20), (2, 21), (3, 19), (3, 20), (4, 18)] XU=holds  fails=0
+d=23 n=23 L=23 Y=11110 C=22 dim=11133 pure_orbit=22 pure_in_nonpure=[(1, 21), (2, 20), (2, 22), (3, 19), (3, 21), (4, 18)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=24 n=2 L=24 Y=46 C=2 dim=49 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=24 n=3 L=24 Y=69 C=3 dim=73 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=24 n=4 L=24 Y=92 C=4 dim=97 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=24 n=6 L=24 Y=138 C=6 dim=145 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(1, 5), (5, 1)] fails=0
+d=24 n=8 L=24 Y=184 C=8 dim=193 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=24 n=12 L=24 Y=804 C=12 dim=817 pure_orbit=1 pure_in_nonpure=[(11, 0), (13, 0)] XU=FAILS ex=[(1, 5), (5, 1)] fails=0
+d=24 n=23 L=552 Y=529 C=22 dim=552 pure_orbit=23 pure_in_nonpure=[(1, 22), (2, 21), (2, 22), (3, 20), (3, 21), (4, 19)] XU=holds  fails=0
+d=24 n=24 L=24 Y=12673 C=23 dim=12697 pure_orbit=23 pure_in_nonpure=[(1, 22), (2, 21), (2, 23), (3, 20), (3, 22), (4, 19)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=25 n=2 L=50 Y=48 C=2 dim=51 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=3 L=75 Y=72 C=3 dim=76 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=4 L=100 Y=96 C=4 dim=101 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=5 L=25 Y=120 C=5 dim=126 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=6 L=150 Y=144 C=6 dim=151 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=8 L=200 Y=192 C=8 dim=201 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=25 n=12 L=300 Y=288 C=12 dim=301 pure_orbit=0 pure_in_nonpure=[(12, 0), (13, 0)] XU=holds  fails=0
+d=25 n=24 L=600 Y=576 C=23 dim=600 pure_orbit=24 pure_in_nonpure=[(1, 23), (2, 22), (2, 23), (3, 21), (3, 22), (4, 20)] XU=holds  fails=0
+d=25 n=25 L=25 Y=14376 C=24 dim=14401 pure_orbit=24 pure_in_nonpure=[(1, 23), (2, 22), (2, 24), (3, 21), (3, 23), (4, 20)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=26 n=2 L=26 Y=50 C=2 dim=53 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=26 n=5 L=130 Y=125 C=5 dim=131 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=26 n=13 L=26 Y=949 C=13 dim=963 pure_orbit=1 pure_in_nonpure=[(12, 0), (14, 0)] XU=FAILS ex=[(1, 7), (2, 6)] fails=0
+d=26 n=25 L=650 Y=625 C=24 dim=650 pure_orbit=25 pure_in_nonpure=[(1, 24), (2, 23), (2, 24), (3, 22), (3, 23), (4, 21)] XU=holds  fails=0
+d=26 n=26 L=26 Y=16225 C=25 dim=16251 pure_orbit=25 pure_in_nonpure=[(1, 24), (2, 23), (2, 25), (3, 22), (3, 24), (4, 21)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=27 n=2 L=54 Y=52 C=2 dim=55 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=27 n=3 L=27 Y=78 C=3 dim=82 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=27 n=9 L=27 Y=234 C=9 dim=244 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=27 n=13 L=351 Y=338 C=13 dim=352 pure_orbit=0 pure_in_nonpure=[(13, 0), (14, 0)] XU=holds  fails=0
+d=27 n=26 L=702 Y=676 C=25 dim=702 pure_orbit=26 pure_in_nonpure=[(1, 25), (2, 24), (2, 25), (3, 23), (3, 24), (4, 22)] XU=holds  fails=0
+d=27 n=27 L=27 Y=18226 C=26 dim=18253 pure_orbit=26 pure_in_nonpure=[(1, 25), (2, 24), (2, 26), (3, 23), (3, 25), (4, 22)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=28 n=2 L=28 Y=54 C=2 dim=57 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=28 n=3 L=84 Y=81 C=3 dim=85 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=28 n=4 L=28 Y=108 C=4 dim=113 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=28 n=7 L=28 Y=189 C=7 dim=197 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=28 n=9 L=252 Y=243 C=9 dim=253 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=28 n=14 L=28 Y=1106 C=14 dim=1121 pure_orbit=1 pure_in_nonpure=[(13, 0), (15, 0)] XU=FAILS ex=[(1, 13), (13, 1)] fails=0
+d=28 n=27 L=756 Y=729 C=26 dim=756 pure_orbit=27 pure_in_nonpure=[(1, 26), (2, 25), (2, 26), (3, 24), (3, 25), (4, 23)] XU=holds  fails=0
+d=28 n=28 L=28 Y=20385 C=27 dim=20413 pure_orbit=27 pure_in_nonpure=[(1, 26), (2, 25), (2, 27), (3, 24), (3, 26), (4, 23)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=29 n=2 L=58 Y=56 C=2 dim=59 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=29 n=4 L=116 Y=112 C=4 dim=117 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=29 n=7 L=203 Y=196 C=7 dim=204 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=29 n=14 L=406 Y=392 C=14 dim=407 pure_orbit=0 pure_in_nonpure=[(14, 0), (15, 0)] XU=holds  fails=0
+d=29 n=28 L=812 Y=784 C=27 dim=812 pure_orbit=28 pure_in_nonpure=[(1, 27), (2, 26), (2, 27), (3, 25), (3, 26), (4, 24)] XU=holds  fails=0
+d=29 n=29 L=29 Y=22708 C=28 dim=22737 pure_orbit=28 pure_in_nonpure=[(1, 27), (2, 26), (2, 28), (3, 25), (3, 27), (4, 24)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=30 n=2 L=30 Y=58 C=2 dim=61 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=30 n=3 L=30 Y=87 C=3 dim=91 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=30 n=5 L=30 Y=145 C=5 dim=151 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=30 n=6 L=30 Y=174 C=6 dim=181 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=30 n=10 L=30 Y=290 C=10 dim=301 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=30 n=15 L=30 Y=1275 C=15 dim=1291 pure_orbit=1 pure_in_nonpure=[(14, 0), (16, 0)] XU=FAILS ex=[(1, 8), (2, 7)] fails=0
+d=30 n=29 L=870 Y=841 C=28 dim=870 pure_orbit=29 pure_in_nonpure=[(1, 28), (2, 27), (2, 28), (3, 26), (3, 27), (4, 25)] XU=holds  fails=0
+d=30 n=30 L=30 Y=25201 C=29 dim=25231 pure_orbit=29 pure_in_nonpure=[(1, 28), (2, 27), (2, 29), (3, 26), (3, 28), (4, 25)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=31 n=2 L=62 Y=60 C=2 dim=63 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=31 n=3 L=93 Y=90 C=3 dim=94 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=31 n=5 L=155 Y=150 C=5 dim=156 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=31 n=6 L=186 Y=180 C=6 dim=187 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=31 n=10 L=310 Y=300 C=10 dim=311 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=31 n=15 L=465 Y=450 C=15 dim=466 pure_orbit=0 pure_in_nonpure=[(15, 0), (16, 0)] XU=holds  fails=0
+d=31 n=30 L=930 Y=900 C=29 dim=930 pure_orbit=30 pure_in_nonpure=[(1, 29), (2, 28), (2, 29), (3, 27), (3, 28), (4, 26)] XU=holds  fails=0
+d=31 n=31 L=31 Y=27870 C=30 dim=27901 pure_orbit=30 pure_in_nonpure=[(1, 29), (2, 28), (2, 30), (3, 27), (3, 29), (4, 26)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=32 n=2 L=32 Y=62 C=2 dim=65 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=32 n=4 L=32 Y=124 C=4 dim=129 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=32 n=8 L=32 Y=248 C=8 dim=257 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=32 n=16 L=32 Y=1456 C=16 dim=1473 pure_orbit=1 pure_in_nonpure=[(15, 0), (17, 0)] XU=FAILS ex=[(1, 15), (15, 1)] fails=0
+d=32 n=31 L=992 Y=961 C=30 dim=992 pure_orbit=31 pure_in_nonpure=[(1, 30), (2, 29), (2, 30), (3, 28), (3, 29), (4, 27)] XU=holds  fails=0
+d=32 n=32 L=32 Y=30721 C=31 dim=30753 pure_orbit=31 pure_in_nonpure=[(1, 30), (2, 29), (2, 31), (3, 28), (3, 30), (4, 27)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=33 n=2 L=66 Y=64 C=2 dim=67 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=33 n=3 L=33 Y=96 C=3 dim=100 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=33 n=4 L=132 Y=128 C=4 dim=133 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=33 n=8 L=264 Y=256 C=8 dim=265 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=33 n=11 L=33 Y=352 C=11 dim=364 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=33 n=16 L=528 Y=512 C=16 dim=529 pure_orbit=0 pure_in_nonpure=[(16, 0), (17, 0)] XU=holds  fails=0
+d=33 n=32 L=1056 Y=1024 C=31 dim=1056 pure_orbit=32 pure_in_nonpure=[(1, 31), (2, 30), (2, 31), (3, 29), (3, 30), (4, 28)] XU=holds  fails=0
+d=33 n=33 L=33 Y=33760 C=32 dim=33793 pure_orbit=32 pure_in_nonpure=[(1, 31), (2, 30), (2, 32), (3, 29), (3, 31), (4, 28)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=34 n=2 L=34 Y=66 C=2 dim=69 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=34 n=3 L=102 Y=99 C=3 dim=103 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=34 n=11 L=374 Y=363 C=11 dim=375 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=34 n=17 L=34 Y=1649 C=17 dim=1667 pure_orbit=1 pure_in_nonpure=[(16, 0), (18, 0)] XU=FAILS ex=[(1, 9), (2, 8)] fails=0
+d=34 n=33 L=1122 Y=1089 C=32 dim=1122 pure_orbit=33 pure_in_nonpure=[(1, 32), (2, 31), (2, 32), (3, 30), (3, 31), (4, 29)] XU=holds  fails=0
+d=34 n=34 L=34 Y=36993 C=33 dim=37027 pure_orbit=33 pure_in_nonpure=[(1, 32), (2, 31), (2, 33), (3, 30), (3, 32), (4, 29)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=35 n=2 L=70 Y=68 C=2 dim=71 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=35 n=5 L=35 Y=170 C=5 dim=176 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=35 n=7 L=35 Y=238 C=7 dim=246 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=35 n=17 L=595 Y=578 C=17 dim=596 pure_orbit=0 pure_in_nonpure=[(17, 0), (18, 0)] XU=holds  fails=0
+d=35 n=34 L=1190 Y=1156 C=33 dim=1190 pure_orbit=34 pure_in_nonpure=[(1, 33), (2, 32), (2, 33), (3, 31), (3, 32), (4, 30)] XU=holds  fails=0
+d=35 n=35 L=35 Y=40426 C=34 dim=40461 pure_orbit=34 pure_in_nonpure=[(1, 33), (2, 32), (2, 34), (3, 31), (3, 33), (4, 30)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=36 n=2 L=36 Y=70 C=2 dim=73 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=3 L=36 Y=105 C=3 dim=109 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=4 L=36 Y=140 C=4 dim=145 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=5 L=180 Y=175 C=5 dim=181 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=6 L=36 Y=210 C=6 dim=217 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=7 L=252 Y=245 C=7 dim=253 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=9 L=36 Y=315 C=9 dim=325 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=36 n=12 L=36 Y=420 C=12 dim=433 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(2, 8), (8, 2)] fails=0
+d=36 n=18 L=36 Y=1854 C=18 dim=1873 pure_orbit=1 pure_in_nonpure=[(17, 0), (19, 0)] XU=FAILS ex=[(1, 17), (17, 1)] fails=0
+d=36 n=35 L=1260 Y=1225 C=34 dim=1260 pure_orbit=35 pure_in_nonpure=[(1, 34), (2, 33), (2, 34), (3, 32), (3, 33), (4, 31)] XU=holds  fails=0
+d=36 n=36 L=36 Y=44065 C=35 dim=44101 pure_orbit=35 pure_in_nonpure=[(1, 34), (2, 33), (2, 35), (3, 32), (3, 34), (4, 31)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=37 n=2 L=74 Y=72 C=2 dim=75 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=3 L=111 Y=108 C=3 dim=112 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=4 L=148 Y=144 C=4 dim=149 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=6 L=222 Y=216 C=6 dim=223 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=9 L=333 Y=324 C=9 dim=334 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=12 L=444 Y=432 C=12 dim=445 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=37 n=18 L=666 Y=648 C=18 dim=667 pure_orbit=0 pure_in_nonpure=[(18, 0), (19, 0)] XU=holds  fails=0
+d=37 n=36 L=1332 Y=1296 C=35 dim=1332 pure_orbit=36 pure_in_nonpure=[(1, 35), (2, 34), (2, 35), (3, 33), (3, 34), (4, 32)] XU=holds  fails=0
+d=37 n=37 L=37 Y=47916 C=36 dim=47953 pure_orbit=36 pure_in_nonpure=[(1, 35), (2, 34), (2, 36), (3, 33), (3, 35), (4, 32)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=38 n=2 L=38 Y=74 C=2 dim=77 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=38 n=19 L=38 Y=2071 C=19 dim=2091 pure_orbit=1 pure_in_nonpure=[(18, 0), (20, 0)] XU=FAILS ex=[(1, 10), (2, 9)] fails=0
+d=38 n=37 L=1406 Y=1369 C=36 dim=1406 pure_orbit=37 pure_in_nonpure=[(1, 36), (2, 35), (2, 36), (3, 34), (3, 35), (4, 33)] XU=holds  fails=0
+d=38 n=38 L=38 Y=51985 C=37 dim=52023 pure_orbit=37 pure_in_nonpure=[(1, 36), (2, 35), (2, 37), (3, 34), (3, 36), (4, 33)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=39 n=2 L=78 Y=76 C=2 dim=79 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=39 n=3 L=39 Y=114 C=3 dim=118 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=39 n=13 L=39 Y=494 C=13 dim=508 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=39 n=19 L=741 Y=722 C=19 dim=742 pure_orbit=0 pure_in_nonpure=[(19, 0), (20, 0)] XU=holds  fails=0
+d=39 n=38 L=1482 Y=1444 C=37 dim=1482 pure_orbit=38 pure_in_nonpure=[(1, 37), (2, 36), (2, 37), (3, 35), (3, 36), (4, 34)] XU=holds  fails=0
+d=39 n=39 L=39 Y=56278 C=38 dim=56317 pure_orbit=38 pure_in_nonpure=[(1, 37), (2, 36), (2, 38), (3, 35), (3, 37), (4, 34)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=40 n=2 L=40 Y=78 C=2 dim=81 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=3 L=120 Y=117 C=3 dim=121 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=4 L=40 Y=156 C=4 dim=161 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=5 L=40 Y=195 C=5 dim=201 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=8 L=40 Y=312 C=8 dim=321 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=10 L=40 Y=390 C=10 dim=401 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=13 L=520 Y=507 C=13 dim=521 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=40 n=20 L=40 Y=2300 C=20 dim=2321 pure_orbit=1 pure_in_nonpure=[(19, 0), (21, 0)] XU=FAILS ex=[(1, 19), (19, 1)] fails=0
+d=40 n=39 L=1560 Y=1521 C=38 dim=1560 pure_orbit=39 pure_in_nonpure=[(1, 38), (2, 37), (2, 38), (3, 36), (3, 37), (4, 35)] XU=holds  fails=0
+d=40 n=40 L=40 Y=60801 C=39 dim=60841 pure_orbit=39 pure_in_nonpure=[(1, 38), (2, 37), (2, 39), (3, 36), (3, 38), (4, 35)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=41 n=2 L=82 Y=80 C=2 dim=83 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=41 n=4 L=164 Y=160 C=4 dim=165 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=41 n=5 L=205 Y=200 C=5 dim=206 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=41 n=8 L=328 Y=320 C=8 dim=329 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=41 n=10 L=410 Y=400 C=10 dim=411 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=41 n=20 L=820 Y=800 C=20 dim=821 pure_orbit=0 pure_in_nonpure=[(20, 0), (21, 0)] XU=holds  fails=0
+d=41 n=40 L=1640 Y=1600 C=39 dim=1640 pure_orbit=40 pure_in_nonpure=[(1, 39), (2, 38), (2, 39), (3, 37), (3, 38), (4, 36)] XU=holds  fails=0
+d=41 n=41 L=41 Y=65560 C=40 dim=65601 pure_orbit=40 pure_in_nonpure=[(1, 39), (2, 38), (2, 40), (3, 37), (3, 39), (4, 36)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=42 n=2 L=42 Y=82 C=2 dim=85 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=42 n=3 L=42 Y=123 C=3 dim=127 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=42 n=6 L=42 Y=246 C=6 dim=253 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=42 n=7 L=42 Y=287 C=7 dim=295 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=42 n=14 L=42 Y=574 C=14 dim=589 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=42 n=21 L=42 Y=2541 C=21 dim=2563 pure_orbit=1 pure_in_nonpure=[(20, 0), (22, 0)] XU=FAILS ex=[(1, 11), (2, 10)] fails=0
+d=42 n=41 L=1722 Y=1681 C=40 dim=1722 pure_orbit=41 pure_in_nonpure=[(1, 40), (2, 39), (2, 40), (3, 38), (3, 39), (4, 37)] XU=holds  fails=0
+d=42 n=42 L=42 Y=70561 C=41 dim=70603 pure_orbit=41 pure_in_nonpure=[(1, 40), (2, 39), (2, 41), (3, 38), (3, 40), (4, 37)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=43 n=2 L=86 Y=84 C=2 dim=87 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=43 n=3 L=129 Y=126 C=3 dim=130 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=43 n=6 L=258 Y=252 C=6 dim=259 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=43 n=7 L=301 Y=294 C=7 dim=302 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=43 n=14 L=602 Y=588 C=14 dim=603 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=43 n=21 L=903 Y=882 C=21 dim=904 pure_orbit=0 pure_in_nonpure=[(21, 0), (22, 0)] XU=holds  fails=0
+d=43 n=42 L=1806 Y=1764 C=41 dim=1806 pure_orbit=42 pure_in_nonpure=[(1, 41), (2, 40), (2, 41), (3, 39), (3, 40), (4, 38)] XU=holds  fails=0
+d=43 n=43 L=43 Y=75810 C=42 dim=75853 pure_orbit=42 pure_in_nonpure=[(1, 41), (2, 40), (2, 42), (3, 39), (3, 41), (4, 38)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=44 n=2 L=44 Y=86 C=2 dim=89 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=44 n=4 L=44 Y=172 C=4 dim=177 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=44 n=11 L=44 Y=473 C=11 dim=485 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=44 n=22 L=44 Y=2794 C=22 dim=2817 pure_orbit=1 pure_in_nonpure=[(21, 0), (23, 0)] XU=FAILS ex=[(1, 21), (21, 1)] fails=0
+d=44 n=43 L=1892 Y=1849 C=42 dim=1892 pure_orbit=43 pure_in_nonpure=[(1, 42), (2, 41), (2, 42), (3, 40), (3, 41), (4, 39)] XU=holds  fails=0
+d=44 n=44 L=44 Y=81313 C=43 dim=81357 pure_orbit=43 pure_in_nonpure=[(1, 42), (2, 41), (2, 43), (3, 40), (3, 42), (4, 39)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=45 n=2 L=90 Y=88 C=2 dim=91 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=3 L=45 Y=132 C=3 dim=136 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=4 L=180 Y=176 C=4 dim=181 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=5 L=45 Y=220 C=5 dim=226 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=9 L=45 Y=396 C=9 dim=406 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=11 L=495 Y=484 C=11 dim=496 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=15 L=45 Y=660 C=15 dim=676 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=45 n=22 L=990 Y=968 C=22 dim=991 pure_orbit=0 pure_in_nonpure=[(22, 0), (23, 0)] XU=holds  fails=0
+d=45 n=44 L=1980 Y=1936 C=43 dim=1980 pure_orbit=44 pure_in_nonpure=[(1, 43), (2, 42), (2, 43), (3, 41), (3, 42), (4, 40)] XU=holds  fails=0
+d=45 n=45 L=45 Y=87076 C=44 dim=87121 pure_orbit=44 pure_in_nonpure=[(1, 43), (2, 42), (2, 44), (3, 41), (3, 43), (4, 40)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=46 n=2 L=46 Y=90 C=2 dim=93 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=46 n=3 L=138 Y=135 C=3 dim=139 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=46 n=5 L=230 Y=225 C=5 dim=231 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=46 n=9 L=414 Y=405 C=9 dim=415 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=46 n=15 L=690 Y=675 C=15 dim=691 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=46 n=23 L=46 Y=3059 C=23 dim=3083 pure_orbit=1 pure_in_nonpure=[(22, 0), (24, 0)] XU=FAILS ex=[(1, 12), (2, 11)] fails=0
+d=46 n=45 L=2070 Y=2025 C=44 dim=2070 pure_orbit=45 pure_in_nonpure=[(1, 44), (2, 43), (2, 44), (3, 42), (3, 43), (4, 41)] XU=holds  fails=0
+d=46 n=46 L=46 Y=93105 C=45 dim=93151 pure_orbit=45 pure_in_nonpure=[(1, 44), (2, 43), (2, 45), (3, 42), (3, 44), (4, 41)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=47 n=2 L=94 Y=92 C=2 dim=95 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=47 n=23 L=1081 Y=1058 C=23 dim=1082 pure_orbit=0 pure_in_nonpure=[(23, 0), (24, 0)] XU=holds  fails=0
+d=47 n=46 L=2162 Y=2116 C=45 dim=2162 pure_orbit=46 pure_in_nonpure=[(1, 45), (2, 44), (2, 45), (3, 43), (3, 44), (4, 42)] XU=holds  fails=0
+d=47 n=47 L=47 Y=99406 C=46 dim=99453 pure_orbit=46 pure_in_nonpure=[(1, 45), (2, 44), (2, 46), (3, 43), (3, 45), (4, 42)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=48 n=2 L=48 Y=94 C=2 dim=97 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=3 L=48 Y=141 C=3 dim=145 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=4 L=48 Y=188 C=4 dim=193 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=6 L=48 Y=282 C=6 dim=289 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=8 L=48 Y=376 C=8 dim=385 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=12 L=48 Y=564 C=12 dim=577 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(2, 10), (10, 2)] fails=0
+d=48 n=16 L=48 Y=752 C=16 dim=769 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=48 n=24 L=48 Y=3336 C=24 dim=3361 pure_orbit=1 pure_in_nonpure=[(23, 0), (25, 0)] XU=FAILS ex=[(1, 23), (23, 1)] fails=0
+d=48 n=47 L=2256 Y=2209 C=46 dim=2256 pure_orbit=47 pure_in_nonpure=[(1, 46), (2, 45), (2, 46), (3, 44), (3, 45), (4, 43)] XU=holds  fails=0
+d=48 n=48 L=48 Y=105985 C=47 dim=106033 pure_orbit=47 pure_in_nonpure=[(1, 46), (2, 45), (2, 47), (3, 44), (3, 46), (4, 43)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=49 n=2 L=98 Y=96 C=2 dim=99 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=3 L=147 Y=144 C=3 dim=148 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=4 L=196 Y=192 C=4 dim=197 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=6 L=294 Y=288 C=6 dim=295 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=7 L=49 Y=336 C=7 dim=344 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=8 L=392 Y=384 C=8 dim=393 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=12 L=588 Y=576 C=12 dim=589 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=16 L=784 Y=768 C=16 dim=785 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=49 n=24 L=1176 Y=1152 C=24 dim=1177 pure_orbit=0 pure_in_nonpure=[(24, 0), (25, 0)] XU=holds  fails=0
+d=49 n=48 L=2352 Y=2304 C=47 dim=2352 pure_orbit=48 pure_in_nonpure=[(1, 47), (2, 46), (2, 47), (3, 45), (3, 46), (4, 44)] XU=holds  fails=0
+d=49 n=49 L=49 Y=112848 C=48 dim=112897 pure_orbit=48 pure_in_nonpure=[(1, 47), (2, 46), (2, 48), (3, 45), (3, 47), (4, 44)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=50 n=2 L=50 Y=98 C=2 dim=101 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=50 n=5 L=50 Y=245 C=5 dim=251 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=50 n=7 L=350 Y=343 C=7 dim=351 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=50 n=10 L=50 Y=490 C=10 dim=501 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=50 n=25 L=50 Y=3625 C=25 dim=3651 pure_orbit=1 pure_in_nonpure=[(24, 0), (26, 0)] XU=FAILS ex=[(1, 13), (2, 12)] fails=0
+d=50 n=49 L=2450 Y=2401 C=48 dim=2450 pure_orbit=49 pure_in_nonpure=[(1, 48), (2, 47), (2, 48), (3, 46), (3, 47), (4, 45)] XU=holds  fails=0
+d=50 n=50 L=50 Y=120001 C=49 dim=120051 pure_orbit=49 pure_in_nonpure=[(1, 48), (2, 47), (2, 49), (3, 46), (3, 48), (4, 45)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=51 n=2 L=102 Y=100 C=2 dim=103 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=51 n=3 L=51 Y=150 C=3 dim=154 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=51 n=5 L=255 Y=250 C=5 dim=256 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=51 n=10 L=510 Y=500 C=10 dim=511 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=51 n=17 L=51 Y=850 C=17 dim=868 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=51 n=25 L=1275 Y=1250 C=25 dim=1276 pure_orbit=0 pure_in_nonpure=[(25, 0), (26, 0)] XU=holds  fails=0
+d=51 n=50 L=2550 Y=2500 C=49 dim=2550 pure_orbit=50 pure_in_nonpure=[(1, 49), (2, 48), (2, 49), (3, 47), (3, 48), (4, 46)] XU=holds  fails=0
+d=51 n=51 L=51 Y=127450 C=50 dim=127501 pure_orbit=50 pure_in_nonpure=[(1, 49), (2, 48), (2, 50), (3, 47), (3, 49), (4, 46)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=52 n=2 L=52 Y=102 C=2 dim=105 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=52 n=3 L=156 Y=153 C=3 dim=157 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=52 n=4 L=52 Y=204 C=4 dim=209 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=52 n=13 L=52 Y=663 C=13 dim=677 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=52 n=17 L=884 Y=867 C=17 dim=885 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=52 n=26 L=52 Y=3926 C=26 dim=3953 pure_orbit=1 pure_in_nonpure=[(25, 0), (27, 0)] XU=FAILS ex=[(1, 25), (25, 1)] fails=0
+d=52 n=51 L=2652 Y=2601 C=50 dim=2652 pure_orbit=51 pure_in_nonpure=[(1, 50), (2, 49), (2, 50), (3, 48), (3, 49), (4, 47)] XU=holds  fails=0
+d=52 n=52 L=52 Y=135201 C=51 dim=135253 pure_orbit=51 pure_in_nonpure=[(1, 50), (2, 49), (2, 51), (3, 48), (3, 50), (4, 47)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=53 n=2 L=106 Y=104 C=2 dim=107 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=53 n=4 L=212 Y=208 C=4 dim=213 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=53 n=13 L=689 Y=676 C=13 dim=690 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=53 n=26 L=1378 Y=1352 C=26 dim=1379 pure_orbit=0 pure_in_nonpure=[(26, 0), (27, 0)] XU=holds  fails=0
+d=53 n=52 L=2756 Y=2704 C=51 dim=2756 pure_orbit=52 pure_in_nonpure=[(1, 51), (2, 50), (2, 51), (3, 49), (3, 50), (4, 48)] XU=holds  fails=0
+d=53 n=53 L=53 Y=143260 C=52 dim=143313 pure_orbit=52 pure_in_nonpure=[(1, 51), (2, 50), (2, 52), (3, 49), (3, 51), (4, 48)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=54 n=2 L=54 Y=106 C=2 dim=109 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=54 n=3 L=54 Y=159 C=3 dim=163 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=54 n=6 L=54 Y=318 C=6 dim=325 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=54 n=9 L=54 Y=477 C=9 dim=487 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=54 n=18 L=54 Y=954 C=18 dim=973 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(3, 12), (12, 3)] fails=0
+d=54 n=27 L=54 Y=4239 C=27 dim=4267 pure_orbit=1 pure_in_nonpure=[(26, 0), (28, 0)] XU=FAILS ex=[(1, 14), (2, 13)] fails=0
+d=54 n=53 L=2862 Y=2809 C=52 dim=2862 pure_orbit=53 pure_in_nonpure=[(1, 52), (2, 51), (2, 52), (3, 50), (3, 51), (4, 49)] XU=holds  fails=0
+d=54 n=54 L=54 Y=151633 C=53 dim=151687 pure_orbit=53 pure_in_nonpure=[(1, 52), (2, 51), (2, 53), (3, 50), (3, 52), (4, 49)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=55 n=2 L=110 Y=108 C=2 dim=111 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=3 L=165 Y=162 C=3 dim=166 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=5 L=55 Y=270 C=5 dim=276 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=6 L=330 Y=324 C=6 dim=331 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=9 L=495 Y=486 C=9 dim=496 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=11 L=55 Y=594 C=11 dim=606 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=18 L=990 Y=972 C=18 dim=991 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=55 n=27 L=1485 Y=1458 C=27 dim=1486 pure_orbit=0 pure_in_nonpure=[(27, 0), (28, 0)] XU=holds  fails=0
+d=55 n=54 L=2970 Y=2916 C=53 dim=2970 pure_orbit=54 pure_in_nonpure=[(1, 53), (2, 52), (2, 53), (3, 51), (3, 52), (4, 50)] XU=holds  fails=0
+d=55 n=55 L=55 Y=160326 C=54 dim=160381 pure_orbit=54 pure_in_nonpure=[(1, 53), (2, 52), (2, 54), (3, 51), (3, 53), (4, 50)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=56 n=2 L=56 Y=110 C=2 dim=113 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=4 L=56 Y=220 C=4 dim=225 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=5 L=280 Y=275 C=5 dim=281 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=7 L=56 Y=385 C=7 dim=393 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=8 L=56 Y=440 C=8 dim=449 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=11 L=616 Y=605 C=11 dim=617 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=14 L=56 Y=770 C=14 dim=785 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=56 n=28 L=56 Y=4564 C=28 dim=4593 pure_orbit=1 pure_in_nonpure=[(27, 0), (29, 0)] XU=FAILS ex=[(1, 27), (27, 1)] fails=0
+d=56 n=55 L=3080 Y=3025 C=54 dim=3080 pure_orbit=55 pure_in_nonpure=[(1, 54), (2, 53), (2, 54), (3, 52), (3, 53), (4, 51)] XU=holds  fails=0
+d=56 n=56 L=56 Y=169345 C=55 dim=169401 pure_orbit=55 pure_in_nonpure=[(1, 54), (2, 53), (2, 55), (3, 52), (3, 54), (4, 51)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=57 n=2 L=114 Y=112 C=2 dim=115 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=3 L=57 Y=168 C=3 dim=172 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=4 L=228 Y=224 C=4 dim=229 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=7 L=399 Y=392 C=7 dim=400 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=8 L=456 Y=448 C=8 dim=457 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=14 L=798 Y=784 C=14 dim=799 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=19 L=57 Y=1064 C=19 dim=1084 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=57 n=28 L=1596 Y=1568 C=28 dim=1597 pure_orbit=0 pure_in_nonpure=[(28, 0), (29, 0)] XU=holds  fails=0
+d=57 n=56 L=3192 Y=3136 C=55 dim=3192 pure_orbit=56 pure_in_nonpure=[(1, 55), (2, 54), (2, 55), (3, 53), (3, 54), (4, 52)] XU=holds  fails=0
+d=57 n=57 L=57 Y=178696 C=56 dim=178753 pure_orbit=56 pure_in_nonpure=[(1, 55), (2, 54), (2, 56), (3, 53), (3, 55), (4, 52)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=58 n=2 L=58 Y=114 C=2 dim=117 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=58 n=3 L=174 Y=171 C=3 dim=175 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=58 n=19 L=1102 Y=1083 C=19 dim=1103 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=58 n=29 L=58 Y=4901 C=29 dim=4931 pure_orbit=1 pure_in_nonpure=[(28, 0), (30, 0)] XU=FAILS ex=[(1, 15), (2, 14)] fails=0
+d=58 n=57 L=3306 Y=3249 C=56 dim=3306 pure_orbit=57 pure_in_nonpure=[(1, 56), (2, 55), (2, 56), (3, 54), (3, 55), (4, 53)] XU=holds  fails=0
+d=58 n=58 L=58 Y=188385 C=57 dim=188443 pure_orbit=57 pure_in_nonpure=[(1, 56), (2, 55), (2, 57), (3, 54), (3, 56), (4, 53)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=59 n=2 L=118 Y=116 C=2 dim=119 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=59 n=29 L=1711 Y=1682 C=29 dim=1712 pure_orbit=0 pure_in_nonpure=[(29, 0), (30, 0)] XU=holds  fails=0
+d=59 n=58 L=3422 Y=3364 C=57 dim=3422 pure_orbit=58 pure_in_nonpure=[(1, 57), (2, 56), (2, 57), (3, 55), (3, 56), (4, 54)] XU=holds  fails=0
+d=59 n=59 L=59 Y=198418 C=58 dim=198477 pure_orbit=58 pure_in_nonpure=[(1, 57), (2, 56), (2, 58), (3, 55), (3, 57), (4, 54)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=60 n=2 L=60 Y=118 C=2 dim=121 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=3 L=60 Y=177 C=3 dim=181 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=4 L=60 Y=236 C=4 dim=241 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=5 L=60 Y=295 C=5 dim=301 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=6 L=60 Y=354 C=6 dim=361 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=10 L=60 Y=590 C=10 dim=601 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=12 L=60 Y=708 C=12 dim=721 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=15 L=60 Y=885 C=15 dim=901 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=20 L=60 Y=1180 C=20 dim=1201 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=60 n=30 L=60 Y=5250 C=30 dim=5281 pure_orbit=1 pure_in_nonpure=[(29, 0), (31, 0)] XU=FAILS ex=[(1, 11), (11, 1)] fails=0
+d=60 n=59 L=3540 Y=3481 C=58 dim=3540 pure_orbit=59 pure_in_nonpure=[(1, 58), (2, 57), (2, 58), (3, 56), (3, 57), (4, 55)] XU=holds  fails=0
+d=60 n=60 L=60 Y=208801 C=59 dim=208861 pure_orbit=59 pure_in_nonpure=[(1, 58), (2, 57), (2, 59), (3, 56), (3, 58), (4, 55)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=61 n=2 L=122 Y=120 C=2 dim=123 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=3 L=183 Y=180 C=3 dim=184 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=4 L=244 Y=240 C=4 dim=245 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=5 L=305 Y=300 C=5 dim=306 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=6 L=366 Y=360 C=6 dim=367 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=10 L=610 Y=600 C=10 dim=611 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=12 L=732 Y=720 C=12 dim=733 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=15 L=915 Y=900 C=15 dim=916 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=20 L=1220 Y=1200 C=20 dim=1221 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=61 n=30 L=1830 Y=1800 C=30 dim=1831 pure_orbit=0 pure_in_nonpure=[(30, 0), (31, 0)] XU=holds  fails=0
+d=61 n=60 L=3660 Y=3600 C=59 dim=3660 pure_orbit=60 pure_in_nonpure=[(1, 59), (2, 58), (2, 59), (3, 57), (3, 58), (4, 56)] XU=holds  fails=0
+d=61 n=61 L=61 Y=219540 C=60 dim=219601 pure_orbit=60 pure_in_nonpure=[(1, 59), (2, 58), (2, 60), (3, 57), (3, 59), (4, 56)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=62 n=2 L=62 Y=122 C=2 dim=125 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=62 n=31 L=62 Y=5611 C=31 dim=5643 pure_orbit=1 pure_in_nonpure=[(30, 0), (32, 0)] XU=FAILS ex=[(1, 16), (2, 15)] fails=0
+d=62 n=61 L=3782 Y=3721 C=60 dim=3782 pure_orbit=61 pure_in_nonpure=[(1, 60), (2, 59), (2, 60), (3, 58), (3, 59), (4, 57)] XU=holds  fails=0
+d=62 n=62 L=62 Y=230641 C=61 dim=230703 pure_orbit=61 pure_in_nonpure=[(1, 60), (2, 59), (2, 61), (3, 58), (3, 60), (4, 57)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=63 n=2 L=126 Y=124 C=2 dim=127 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=63 n=3 L=63 Y=186 C=3 dim=190 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=63 n=7 L=63 Y=434 C=7 dim=442 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=63 n=9 L=63 Y=558 C=9 dim=568 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=63 n=21 L=63 Y=1302 C=21 dim=1324 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=63 n=31 L=1953 Y=1922 C=31 dim=1954 pure_orbit=0 pure_in_nonpure=[(31, 0), (32, 0)] XU=holds  fails=0
+d=63 n=62 L=3906 Y=3844 C=61 dim=3906 pure_orbit=62 pure_in_nonpure=[(1, 61), (2, 60), (2, 61), (3, 59), (3, 60), (4, 58)] XU=holds  fails=0
+d=63 n=63 L=63 Y=242110 C=62 dim=242173 pure_orbit=62 pure_in_nonpure=[(1, 61), (2, 60), (2, 62), (3, 59), (3, 61), (4, 58)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=64 n=2 L=64 Y=126 C=2 dim=129 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=3 L=192 Y=189 C=3 dim=193 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=4 L=64 Y=252 C=4 dim=257 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=7 L=448 Y=441 C=7 dim=449 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=8 L=64 Y=504 C=8 dim=513 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=9 L=576 Y=567 C=9 dim=577 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=16 L=64 Y=1008 C=16 dim=1025 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=21 L=1344 Y=1323 C=21 dim=1345 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=64 n=32 L=64 Y=5984 C=32 dim=6017 pure_orbit=1 pure_in_nonpure=[(31, 0), (33, 0)] XU=FAILS ex=[(1, 31), (31, 1)] fails=0
+d=64 n=63 L=4032 Y=3969 C=62 dim=4032 pure_orbit=63 pure_in_nonpure=[(1, 62), (2, 61), (2, 62), (3, 60), (3, 61), (4, 59)] XU=holds  fails=0
+d=64 n=64 L=64 Y=253953 C=63 dim=254017 pure_orbit=63 pure_in_nonpure=[(1, 62), (2, 61), (2, 63), (3, 60), (3, 62), (4, 59)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=65 n=2 L=130 Y=128 C=2 dim=131 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=4 L=260 Y=256 C=4 dim=261 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=5 L=65 Y=320 C=5 dim=326 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=8 L=520 Y=512 C=8 dim=521 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=13 L=65 Y=832 C=13 dim=846 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=16 L=1040 Y=1024 C=16 dim=1041 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=65 n=32 L=2080 Y=2048 C=32 dim=2081 pure_orbit=0 pure_in_nonpure=[(32, 0), (33, 0)] XU=holds  fails=0
+d=65 n=64 L=4160 Y=4096 C=63 dim=4160 pure_orbit=64 pure_in_nonpure=[(1, 63), (2, 62), (2, 63), (3, 61), (3, 62), (4, 60)] XU=holds  fails=0
+d=65 n=65 L=65 Y=266176 C=64 dim=266241 pure_orbit=64 pure_in_nonpure=[(1, 63), (2, 62), (2, 64), (3, 61), (3, 63), (4, 60)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=66 n=2 L=66 Y=130 C=2 dim=133 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=3 L=66 Y=195 C=3 dim=199 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=5 L=330 Y=325 C=5 dim=331 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=6 L=66 Y=390 C=6 dim=397 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=11 L=66 Y=715 C=11 dim=727 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=13 L=858 Y=845 C=13 dim=859 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=22 L=66 Y=1430 C=22 dim=1453 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=66 n=33 L=66 Y=6369 C=33 dim=6403 pure_orbit=1 pure_in_nonpure=[(32, 0), (34, 0)] XU=FAILS ex=[(1, 17), (2, 16)] fails=0
+d=66 n=65 L=4290 Y=4225 C=64 dim=4290 pure_orbit=65 pure_in_nonpure=[(1, 64), (2, 63), (2, 64), (3, 62), (3, 63), (4, 61)] XU=holds  fails=0
+d=66 n=66 L=66 Y=278785 C=65 dim=278851 pure_orbit=65 pure_in_nonpure=[(1, 64), (2, 63), (2, 65), (3, 62), (3, 64), (4, 61)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=67 n=2 L=134 Y=132 C=2 dim=135 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=67 n=3 L=201 Y=198 C=3 dim=202 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=67 n=6 L=402 Y=396 C=6 dim=403 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=67 n=11 L=737 Y=726 C=11 dim=738 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=67 n=22 L=1474 Y=1452 C=22 dim=1475 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=67 n=33 L=2211 Y=2178 C=33 dim=2212 pure_orbit=0 pure_in_nonpure=[(33, 0), (34, 0)] XU=holds  fails=0
+d=67 n=66 L=4422 Y=4356 C=65 dim=4422 pure_orbit=66 pure_in_nonpure=[(1, 65), (2, 64), (2, 65), (3, 63), (3, 64), (4, 62)] XU=holds  fails=0
+d=67 n=67 L=67 Y=291786 C=66 dim=291853 pure_orbit=66 pure_in_nonpure=[(1, 65), (2, 64), (2, 66), (3, 63), (3, 65), (4, 62)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=68 n=2 L=68 Y=134 C=2 dim=137 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=68 n=4 L=68 Y=268 C=4 dim=273 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=68 n=17 L=68 Y=1139 C=17 dim=1157 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=68 n=34 L=68 Y=6766 C=34 dim=6801 pure_orbit=1 pure_in_nonpure=[(33, 0), (35, 0)] XU=FAILS ex=[(1, 33), (33, 1)] fails=0
+d=68 n=67 L=4556 Y=4489 C=66 dim=4556 pure_orbit=67 pure_in_nonpure=[(1, 66), (2, 65), (2, 66), (3, 64), (3, 65), (4, 63)] XU=holds  fails=0
+d=68 n=68 L=68 Y=305185 C=67 dim=305253 pure_orbit=67 pure_in_nonpure=[(1, 66), (2, 65), (2, 67), (3, 64), (3, 66), (4, 63)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=69 n=2 L=138 Y=136 C=2 dim=139 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=69 n=3 L=69 Y=204 C=3 dim=208 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=69 n=4 L=276 Y=272 C=4 dim=277 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=69 n=17 L=1173 Y=1156 C=17 dim=1174 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=69 n=23 L=69 Y=1564 C=23 dim=1588 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=69 n=34 L=2346 Y=2312 C=34 dim=2347 pure_orbit=0 pure_in_nonpure=[(34, 0), (35, 0)] XU=holds  fails=0
+d=69 n=68 L=4692 Y=4624 C=67 dim=4692 pure_orbit=68 pure_in_nonpure=[(1, 67), (2, 66), (2, 67), (3, 65), (3, 66), (4, 64)] XU=holds  fails=0
+d=69 n=69 L=69 Y=318988 C=68 dim=319057 pure_orbit=68 pure_in_nonpure=[(1, 67), (2, 66), (2, 68), (3, 65), (3, 67), (4, 64)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=70 n=2 L=70 Y=138 C=2 dim=141 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=3 L=210 Y=207 C=3 dim=211 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=5 L=70 Y=345 C=5 dim=351 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=7 L=70 Y=483 C=7 dim=491 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=10 L=70 Y=690 C=10 dim=701 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=14 L=70 Y=966 C=14 dim=981 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=23 L=1610 Y=1587 C=23 dim=1611 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=70 n=35 L=70 Y=7175 C=35 dim=7211 pure_orbit=1 pure_in_nonpure=[(34, 0), (36, 0)] XU=FAILS ex=[(1, 18), (2, 17)] fails=0
+d=70 n=69 L=4830 Y=4761 C=68 dim=4830 pure_orbit=69 pure_in_nonpure=[(1, 68), (2, 67), (2, 68), (3, 66), (3, 67), (4, 65)] XU=holds  fails=0
+d=70 n=70 L=70 Y=333201 C=69 dim=333271 pure_orbit=69 pure_in_nonpure=[(1, 68), (2, 67), (2, 69), (3, 66), (3, 68), (4, 65)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=71 n=2 L=142 Y=140 C=2 dim=143 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=71 n=5 L=355 Y=350 C=5 dim=356 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=71 n=7 L=497 Y=490 C=7 dim=498 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=71 n=10 L=710 Y=700 C=10 dim=711 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=71 n=14 L=994 Y=980 C=14 dim=995 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=71 n=35 L=2485 Y=2450 C=35 dim=2486 pure_orbit=0 pure_in_nonpure=[(35, 0), (36, 0)] XU=holds  fails=0
+d=71 n=70 L=4970 Y=4900 C=69 dim=4970 pure_orbit=70 pure_in_nonpure=[(1, 69), (2, 68), (2, 69), (3, 67), (3, 68), (4, 66)] XU=holds  fails=0
+d=71 n=71 L=71 Y=347830 C=70 dim=347901 pure_orbit=70 pure_in_nonpure=[(1, 69), (2, 68), (2, 70), (3, 67), (3, 69), (4, 66)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=72 n=2 L=72 Y=142 C=2 dim=145 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=3 L=72 Y=213 C=3 dim=217 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=4 L=72 Y=284 C=4 dim=289 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=6 L=72 Y=426 C=6 dim=433 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=8 L=72 Y=568 C=8 dim=577 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=9 L=72 Y=639 C=9 dim=649 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=12 L=72 Y=852 C=12 dim=865 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=72 n=18 L=72 Y=1278 C=18 dim=1297 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(3, 15), (15, 3)] fails=0
+d=72 n=24 L=72 Y=1704 C=24 dim=1729 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(3, 16), (15, 4)] fails=0
+d=72 n=36 L=72 Y=7596 C=36 dim=7633 pure_orbit=1 pure_in_nonpure=[(35, 0), (37, 0)] XU=FAILS ex=[(1, 35), (35, 1)] fails=0
+d=72 n=71 L=5112 Y=5041 C=70 dim=5112 pure_orbit=71 pure_in_nonpure=[(1, 70), (2, 69), (2, 70), (3, 68), (3, 69), (4, 67)] XU=holds  fails=0
+d=72 n=72 L=72 Y=362881 C=71 dim=362953 pure_orbit=71 pure_in_nonpure=[(1, 70), (2, 69), (2, 71), (3, 68), (3, 70), (4, 67)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=73 n=2 L=146 Y=144 C=2 dim=147 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=3 L=219 Y=216 C=3 dim=220 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=4 L=292 Y=288 C=4 dim=293 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=6 L=438 Y=432 C=6 dim=439 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=8 L=584 Y=576 C=8 dim=585 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=9 L=657 Y=648 C=9 dim=658 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=12 L=876 Y=864 C=12 dim=877 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=18 L=1314 Y=1296 C=18 dim=1315 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=24 L=1752 Y=1728 C=24 dim=1753 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=73 n=36 L=2628 Y=2592 C=36 dim=2629 pure_orbit=0 pure_in_nonpure=[(36, 0), (37, 0)] XU=holds  fails=0
+d=73 n=72 L=5256 Y=5184 C=71 dim=5256 pure_orbit=72 pure_in_nonpure=[(1, 71), (2, 70), (2, 71), (3, 69), (3, 70), (4, 68)] XU=holds  fails=0
+d=73 n=73 L=73 Y=378360 C=72 dim=378433 pure_orbit=72 pure_in_nonpure=[(1, 71), (2, 70), (2, 72), (3, 69), (3, 71), (4, 68)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=74 n=2 L=74 Y=146 C=2 dim=149 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=74 n=37 L=74 Y=8029 C=37 dim=8067 pure_orbit=1 pure_in_nonpure=[(36, 0), (38, 0)] XU=FAILS ex=[(1, 19), (2, 18)] fails=0
+d=74 n=73 L=5402 Y=5329 C=72 dim=5402 pure_orbit=73 pure_in_nonpure=[(1, 72), (2, 71), (2, 72), (3, 70), (3, 71), (4, 69)] XU=holds  fails=0
+d=74 n=74 L=74 Y=394273 C=73 dim=394347 pure_orbit=73 pure_in_nonpure=[(1, 72), (2, 71), (2, 73), (3, 70), (3, 72), (4, 69)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=75 n=2 L=150 Y=148 C=2 dim=151 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=75 n=3 L=75 Y=222 C=3 dim=226 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=75 n=5 L=75 Y=370 C=5 dim=376 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=75 n=15 L=75 Y=1110 C=15 dim=1126 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=75 n=25 L=75 Y=1850 C=25 dim=1876 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=75 n=37 L=2775 Y=2738 C=37 dim=2776 pure_orbit=0 pure_in_nonpure=[(37, 0), (38, 0)] XU=holds  fails=0
+d=75 n=74 L=5550 Y=5476 C=73 dim=5550 pure_orbit=74 pure_in_nonpure=[(1, 73), (2, 72), (2, 73), (3, 71), (3, 72), (4, 70)] XU=holds  fails=0
+d=75 n=75 L=75 Y=410626 C=74 dim=410701 pure_orbit=74 pure_in_nonpure=[(1, 73), (2, 72), (2, 74), (3, 71), (3, 73), (4, 70)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=76 n=2 L=76 Y=150 C=2 dim=153 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=3 L=228 Y=225 C=3 dim=229 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=4 L=76 Y=300 C=4 dim=305 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=5 L=380 Y=375 C=5 dim=381 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=15 L=1140 Y=1125 C=15 dim=1141 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=19 L=76 Y=1425 C=19 dim=1445 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=25 L=1900 Y=1875 C=25 dim=1901 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=76 n=38 L=76 Y=8474 C=38 dim=8513 pure_orbit=1 pure_in_nonpure=[(37, 0), (39, 0)] XU=FAILS ex=[(1, 37), (37, 1)] fails=0
+d=76 n=75 L=5700 Y=5625 C=74 dim=5700 pure_orbit=75 pure_in_nonpure=[(1, 74), (2, 73), (2, 74), (3, 72), (3, 73), (4, 71)] XU=holds  fails=0
+d=76 n=76 L=76 Y=427425 C=75 dim=427501 pure_orbit=75 pure_in_nonpure=[(1, 74), (2, 73), (2, 75), (3, 72), (3, 74), (4, 71)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=77 n=2 L=154 Y=152 C=2 dim=155 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=77 n=4 L=308 Y=304 C=4 dim=309 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=77 n=7 L=77 Y=532 C=7 dim=540 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=77 n=11 L=77 Y=836 C=11 dim=848 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=77 n=19 L=1463 Y=1444 C=19 dim=1464 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=77 n=38 L=2926 Y=2888 C=38 dim=2927 pure_orbit=0 pure_in_nonpure=[(38, 0), (39, 0)] XU=holds  fails=0
+d=77 n=76 L=5852 Y=5776 C=75 dim=5852 pure_orbit=76 pure_in_nonpure=[(1, 75), (2, 74), (2, 75), (3, 73), (3, 74), (4, 72)] XU=holds  fails=0
+d=77 n=77 L=77 Y=444676 C=76 dim=444753 pure_orbit=76 pure_in_nonpure=[(1, 75), (2, 74), (2, 76), (3, 73), (3, 75), (4, 72)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=78 n=2 L=78 Y=154 C=2 dim=157 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=3 L=78 Y=231 C=3 dim=235 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=6 L=78 Y=462 C=6 dim=469 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=7 L=546 Y=539 C=7 dim=547 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=11 L=858 Y=847 C=11 dim=859 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=13 L=78 Y=1001 C=13 dim=1015 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=26 L=78 Y=2002 C=26 dim=2029 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=78 n=39 L=78 Y=8931 C=39 dim=8971 pure_orbit=1 pure_in_nonpure=[(38, 0), (40, 0)] XU=FAILS ex=[(1, 20), (2, 19)] fails=0
+d=78 n=77 L=6006 Y=5929 C=76 dim=6006 pure_orbit=77 pure_in_nonpure=[(1, 76), (2, 75), (2, 76), (3, 74), (3, 75), (4, 73)] XU=holds  fails=0
+d=78 n=78 L=78 Y=462385 C=77 dim=462463 pure_orbit=77 pure_in_nonpure=[(1, 76), (2, 75), (2, 77), (3, 74), (3, 76), (4, 73)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=79 n=2 L=158 Y=156 C=2 dim=159 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=79 n=3 L=237 Y=234 C=3 dim=238 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=79 n=6 L=474 Y=468 C=6 dim=475 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=79 n=13 L=1027 Y=1014 C=13 dim=1028 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=79 n=26 L=2054 Y=2028 C=26 dim=2055 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=79 n=39 L=3081 Y=3042 C=39 dim=3082 pure_orbit=0 pure_in_nonpure=[(39, 0), (40, 0)] XU=holds  fails=0
+d=79 n=78 L=6162 Y=6084 C=77 dim=6162 pure_orbit=78 pure_in_nonpure=[(1, 77), (2, 76), (2, 77), (3, 75), (3, 76), (4, 74)] XU=holds  fails=0
+d=79 n=79 L=79 Y=480558 C=78 dim=480637 pure_orbit=78 pure_in_nonpure=[(1, 77), (2, 76), (2, 78), (3, 75), (3, 77), (4, 74)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=80 n=2 L=80 Y=158 C=2 dim=161 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=4 L=80 Y=316 C=4 dim=321 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=5 L=80 Y=395 C=5 dim=401 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=8 L=80 Y=632 C=8 dim=641 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=10 L=80 Y=790 C=10 dim=801 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=16 L=80 Y=1264 C=16 dim=1281 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=20 L=80 Y=1580 C=20 dim=1601 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=80 n=40 L=80 Y=9400 C=40 dim=9441 pure_orbit=1 pure_in_nonpure=[(39, 0), (41, 0)] XU=FAILS ex=[(1, 39), (39, 1)] fails=0
+d=80 n=79 L=6320 Y=6241 C=78 dim=6320 pure_orbit=79 pure_in_nonpure=[(1, 78), (2, 77), (2, 78), (3, 76), (3, 77), (4, 75)] XU=holds  fails=0
+d=80 n=80 L=80 Y=499201 C=79 dim=499281 pure_orbit=79 pure_in_nonpure=[(1, 78), (2, 77), (2, 79), (3, 76), (3, 78), (4, 75)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=81 n=2 L=162 Y=160 C=2 dim=163 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=3 L=81 Y=240 C=3 dim=244 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=4 L=324 Y=320 C=4 dim=325 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=5 L=405 Y=400 C=5 dim=406 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=8 L=648 Y=640 C=8 dim=649 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=9 L=81 Y=720 C=9 dim=730 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=10 L=810 Y=800 C=10 dim=811 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=16 L=1296 Y=1280 C=16 dim=1297 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=20 L=1620 Y=1600 C=20 dim=1621 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=27 L=81 Y=2160 C=27 dim=2188 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=81 n=40 L=3240 Y=3200 C=40 dim=3241 pure_orbit=0 pure_in_nonpure=[(40, 0), (41, 0)] XU=holds  fails=0
+d=81 n=80 L=6480 Y=6400 C=79 dim=6480 pure_orbit=80 pure_in_nonpure=[(1, 79), (2, 78), (2, 79), (3, 77), (3, 78), (4, 76)] XU=holds  fails=0
+d=81 n=81 L=81 Y=518320 C=80 dim=518401 pure_orbit=80 pure_in_nonpure=[(1, 79), (2, 78), (2, 80), (3, 77), (3, 79), (4, 76)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=82 n=2 L=82 Y=162 C=2 dim=165 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=82 n=3 L=246 Y=243 C=3 dim=247 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=82 n=9 L=738 Y=729 C=9 dim=739 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=82 n=27 L=2214 Y=2187 C=27 dim=2215 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=82 n=41 L=82 Y=9881 C=41 dim=9923 pure_orbit=1 pure_in_nonpure=[(40, 0), (42, 0)] XU=FAILS ex=[(1, 21), (2, 20)] fails=0
+d=82 n=81 L=6642 Y=6561 C=80 dim=6642 pure_orbit=81 pure_in_nonpure=[(1, 80), (2, 79), (2, 80), (3, 78), (3, 79), (4, 77)] XU=holds  fails=0
+d=82 n=82 L=82 Y=537921 C=81 dim=538003 pure_orbit=81 pure_in_nonpure=[(1, 80), (2, 79), (2, 81), (3, 78), (3, 80), (4, 77)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=83 n=2 L=166 Y=164 C=2 dim=167 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=83 n=41 L=3403 Y=3362 C=41 dim=3404 pure_orbit=0 pure_in_nonpure=[(41, 0), (42, 0)] XU=holds  fails=0
+d=83 n=82 L=6806 Y=6724 C=81 dim=6806 pure_orbit=82 pure_in_nonpure=[(1, 81), (2, 80), (2, 81), (3, 79), (3, 80), (4, 78)] XU=holds  fails=0
+d=83 n=83 L=83 Y=558010 C=82 dim=558093 pure_orbit=82 pure_in_nonpure=[(1, 81), (2, 80), (2, 82), (3, 79), (3, 81), (4, 78)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=84 n=2 L=84 Y=166 C=2 dim=169 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=3 L=84 Y=249 C=3 dim=253 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=4 L=84 Y=332 C=4 dim=337 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=6 L=84 Y=498 C=6 dim=505 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=7 L=84 Y=581 C=7 dim=589 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=12 L=84 Y=996 C=12 dim=1009 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=14 L=84 Y=1162 C=14 dim=1177 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=21 L=84 Y=1743 C=21 dim=1765 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=28 L=84 Y=2324 C=28 dim=2353 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=84 n=42 L=84 Y=10374 C=42 dim=10417 pure_orbit=1 pure_in_nonpure=[(41, 0), (43, 0)] XU=FAILS ex=[(1, 41), (41, 1)] fails=0
+d=84 n=83 L=6972 Y=6889 C=82 dim=6972 pure_orbit=83 pure_in_nonpure=[(1, 82), (2, 81), (2, 82), (3, 80), (3, 81), (4, 79)] XU=holds  fails=0
+d=84 n=84 L=84 Y=578593 C=83 dim=578677 pure_orbit=83 pure_in_nonpure=[(1, 82), (2, 81), (2, 83), (3, 80), (3, 82), (4, 79)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=85 n=2 L=170 Y=168 C=2 dim=171 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=3 L=255 Y=252 C=3 dim=256 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=4 L=340 Y=336 C=4 dim=341 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=5 L=85 Y=420 C=5 dim=426 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=6 L=510 Y=504 C=6 dim=511 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=7 L=595 Y=588 C=7 dim=596 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=12 L=1020 Y=1008 C=12 dim=1021 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=14 L=1190 Y=1176 C=14 dim=1191 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=17 L=85 Y=1428 C=17 dim=1446 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=21 L=1785 Y=1764 C=21 dim=1786 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=28 L=2380 Y=2352 C=28 dim=2381 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=85 n=42 L=3570 Y=3528 C=42 dim=3571 pure_orbit=0 pure_in_nonpure=[(42, 0), (43, 0)] XU=holds  fails=0
+d=85 n=84 L=7140 Y=7056 C=83 dim=7140 pure_orbit=84 pure_in_nonpure=[(1, 83), (2, 82), (2, 83), (3, 81), (3, 82), (4, 80)] XU=holds  fails=0
+d=85 n=85 L=85 Y=599676 C=84 dim=599761 pure_orbit=84 pure_in_nonpure=[(1, 83), (2, 82), (2, 84), (3, 81), (3, 83), (4, 80)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=86 n=2 L=86 Y=170 C=2 dim=173 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=86 n=5 L=430 Y=425 C=5 dim=431 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=86 n=17 L=1462 Y=1445 C=17 dim=1463 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=86 n=43 L=86 Y=10879 C=43 dim=10923 pure_orbit=1 pure_in_nonpure=[(42, 0), (44, 0)] XU=FAILS ex=[(1, 22), (2, 21)] fails=0
+d=86 n=85 L=7310 Y=7225 C=84 dim=7310 pure_orbit=85 pure_in_nonpure=[(1, 84), (2, 83), (2, 84), (3, 82), (3, 83), (4, 81)] XU=holds  fails=0
+d=86 n=86 L=86 Y=621265 C=85 dim=621351 pure_orbit=85 pure_in_nonpure=[(1, 84), (2, 83), (2, 85), (3, 82), (3, 84), (4, 81)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=87 n=2 L=174 Y=172 C=2 dim=175 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=87 n=3 L=87 Y=258 C=3 dim=262 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=87 n=29 L=87 Y=2494 C=29 dim=2524 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=87 n=43 L=3741 Y=3698 C=43 dim=3742 pure_orbit=0 pure_in_nonpure=[(43, 0), (44, 0)] XU=holds  fails=0
+d=87 n=86 L=7482 Y=7396 C=85 dim=7482 pure_orbit=86 pure_in_nonpure=[(1, 85), (2, 84), (2, 85), (3, 83), (3, 84), (4, 82)] XU=holds  fails=0
+d=87 n=87 L=87 Y=643366 C=86 dim=643453 pure_orbit=86 pure_in_nonpure=[(1, 85), (2, 84), (2, 86), (3, 83), (3, 85), (4, 82)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=88 n=2 L=88 Y=174 C=2 dim=177 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=3 L=264 Y=261 C=3 dim=265 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=4 L=88 Y=348 C=4 dim=353 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=8 L=88 Y=696 C=8 dim=705 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=11 L=88 Y=957 C=11 dim=969 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=22 L=88 Y=1914 C=22 dim=1937 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=29 L=2552 Y=2523 C=29 dim=2553 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=88 n=44 L=88 Y=11396 C=44 dim=11441 pure_orbit=1 pure_in_nonpure=[(43, 0), (45, 0)] XU=FAILS ex=[(1, 43), (43, 1)] fails=0
+d=88 n=87 L=7656 Y=7569 C=86 dim=7656 pure_orbit=87 pure_in_nonpure=[(1, 86), (2, 85), (2, 86), (3, 84), (3, 85), (4, 83)] XU=holds  fails=0
+d=88 n=88 L=88 Y=665985 C=87 dim=666073 pure_orbit=87 pure_in_nonpure=[(1, 86), (2, 85), (2, 87), (3, 84), (3, 86), (4, 83)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=89 n=2 L=178 Y=176 C=2 dim=179 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=89 n=4 L=356 Y=352 C=4 dim=357 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=89 n=8 L=712 Y=704 C=8 dim=713 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=89 n=11 L=979 Y=968 C=11 dim=980 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=89 n=22 L=1958 Y=1936 C=22 dim=1959 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=89 n=44 L=3916 Y=3872 C=44 dim=3917 pure_orbit=0 pure_in_nonpure=[(44, 0), (45, 0)] XU=holds  fails=0
+d=89 n=88 L=7832 Y=7744 C=87 dim=7832 pure_orbit=88 pure_in_nonpure=[(1, 87), (2, 86), (2, 87), (3, 85), (3, 86), (4, 84)] XU=holds  fails=0
+d=89 n=89 L=89 Y=689128 C=88 dim=689217 pure_orbit=88 pure_in_nonpure=[(1, 87), (2, 86), (2, 88), (3, 85), (3, 87), (4, 84)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=90 n=2 L=90 Y=178 C=2 dim=181 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=3 L=90 Y=267 C=3 dim=271 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=5 L=90 Y=445 C=5 dim=451 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=6 L=90 Y=534 C=6 dim=541 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=9 L=90 Y=801 C=9 dim=811 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=10 L=90 Y=890 C=10 dim=901 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=15 L=90 Y=1335 C=15 dim=1351 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=18 L=90 Y=1602 C=18 dim=1621 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=90 n=30 L=90 Y=2670 C=30 dim=2701 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(3, 20), (18, 5)] fails=0
+d=90 n=45 L=90 Y=11925 C=45 dim=11971 pure_orbit=1 pure_in_nonpure=[(44, 0), (46, 0)] XU=FAILS ex=[(1, 23), (2, 22)] fails=0
+d=90 n=89 L=8010 Y=7921 C=88 dim=8010 pure_orbit=89 pure_in_nonpure=[(1, 88), (2, 87), (2, 88), (3, 86), (3, 87), (4, 85)] XU=holds  fails=0
+d=90 n=90 L=90 Y=712801 C=89 dim=712891 pure_orbit=89 pure_in_nonpure=[(1, 88), (2, 87), (2, 89), (3, 86), (3, 88), (4, 85)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=91 n=2 L=182 Y=180 C=2 dim=183 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=3 L=273 Y=270 C=3 dim=274 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=5 L=455 Y=450 C=5 dim=456 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=6 L=546 Y=540 C=6 dim=547 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=7 L=91 Y=630 C=7 dim=638 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=9 L=819 Y=810 C=9 dim=820 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=10 L=910 Y=900 C=10 dim=911 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=13 L=91 Y=1170 C=13 dim=1184 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=15 L=1365 Y=1350 C=15 dim=1366 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=18 L=1638 Y=1620 C=18 dim=1639 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=30 L=2730 Y=2700 C=30 dim=2731 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=91 n=45 L=4095 Y=4050 C=45 dim=4096 pure_orbit=0 pure_in_nonpure=[(45, 0), (46, 0)] XU=holds  fails=0
+d=91 n=90 L=8190 Y=8100 C=89 dim=8190 pure_orbit=90 pure_in_nonpure=[(1, 89), (2, 88), (2, 89), (3, 87), (3, 88), (4, 86)] XU=holds  fails=0
+d=91 n=91 L=91 Y=737010 C=90 dim=737101 pure_orbit=90 pure_in_nonpure=[(1, 89), (2, 88), (2, 90), (3, 87), (3, 89), (4, 86)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=92 n=2 L=92 Y=182 C=2 dim=185 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=92 n=4 L=92 Y=364 C=4 dim=369 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=92 n=7 L=644 Y=637 C=7 dim=645 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=92 n=13 L=1196 Y=1183 C=13 dim=1197 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=92 n=23 L=92 Y=2093 C=23 dim=2117 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=92 n=46 L=92 Y=12466 C=46 dim=12513 pure_orbit=1 pure_in_nonpure=[(45, 0), (47, 0)] XU=FAILS ex=[(1, 45), (45, 1)] fails=0
+d=92 n=91 L=8372 Y=8281 C=90 dim=8372 pure_orbit=91 pure_in_nonpure=[(1, 90), (2, 89), (2, 90), (3, 88), (3, 89), (4, 87)] XU=holds  fails=0
+d=92 n=92 L=92 Y=761761 C=91 dim=761853 pure_orbit=91 pure_in_nonpure=[(1, 90), (2, 89), (2, 91), (3, 88), (3, 90), (4, 87)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=93 n=2 L=186 Y=184 C=2 dim=187 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=93 n=3 L=93 Y=276 C=3 dim=280 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=93 n=4 L=372 Y=368 C=4 dim=373 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=93 n=23 L=2139 Y=2116 C=23 dim=2140 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=93 n=31 L=93 Y=2852 C=31 dim=2884 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=93 n=46 L=4278 Y=4232 C=46 dim=4279 pure_orbit=0 pure_in_nonpure=[(46, 0), (47, 0)] XU=holds  fails=0
+d=93 n=92 L=8556 Y=8464 C=91 dim=8556 pure_orbit=92 pure_in_nonpure=[(1, 91), (2, 90), (2, 91), (3, 89), (3, 90), (4, 88)] XU=holds  fails=0
+d=93 n=93 L=93 Y=787060 C=92 dim=787153 pure_orbit=92 pure_in_nonpure=[(1, 91), (2, 90), (2, 92), (3, 89), (3, 91), (4, 88)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=94 n=2 L=94 Y=186 C=2 dim=189 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=94 n=3 L=282 Y=279 C=3 dim=283 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=94 n=31 L=2914 Y=2883 C=31 dim=2915 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=94 n=47 L=94 Y=13019 C=47 dim=13067 pure_orbit=1 pure_in_nonpure=[(46, 0), (48, 0)] XU=FAILS ex=[(1, 24), (2, 23)] fails=0
+d=94 n=93 L=8742 Y=8649 C=92 dim=8742 pure_orbit=93 pure_in_nonpure=[(1, 92), (2, 91), (2, 92), (3, 90), (3, 91), (4, 89)] XU=holds  fails=0
+d=94 n=94 L=94 Y=812913 C=93 dim=813007 pure_orbit=93 pure_in_nonpure=[(1, 92), (2, 91), (2, 93), (3, 90), (3, 92), (4, 89)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=95 n=2 L=190 Y=188 C=2 dim=191 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=95 n=5 L=95 Y=470 C=5 dim=476 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=95 n=19 L=95 Y=1786 C=19 dim=1806 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=95 n=47 L=4465 Y=4418 C=47 dim=4466 pure_orbit=0 pure_in_nonpure=[(47, 0), (48, 0)] XU=holds  fails=0
+d=95 n=94 L=8930 Y=8836 C=93 dim=8930 pure_orbit=94 pure_in_nonpure=[(1, 93), (2, 92), (2, 93), (3, 91), (3, 92), (4, 90)] XU=holds  fails=0
+d=95 n=95 L=95 Y=839326 C=94 dim=839421 pure_orbit=94 pure_in_nonpure=[(1, 93), (2, 92), (2, 94), (3, 91), (3, 93), (4, 90)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=96 n=2 L=96 Y=190 C=2 dim=193 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=3 L=96 Y=285 C=3 dim=289 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=4 L=96 Y=380 C=4 dim=385 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=5 L=480 Y=475 C=5 dim=481 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=6 L=96 Y=570 C=6 dim=577 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=8 L=96 Y=760 C=8 dim=769 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=12 L=96 Y=1140 C=12 dim=1153 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=16 L=96 Y=1520 C=16 dim=1537 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=19 L=1824 Y=1805 C=19 dim=1825 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=24 L=96 Y=2280 C=24 dim=2305 pure_orbit=0 pure_in_nonpure=[] XU=FAILS ex=[(4, 20), (20, 4)] fails=0
+d=96 n=32 L=96 Y=3040 C=32 dim=3073 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=96 n=48 L=96 Y=13584 C=48 dim=13633 pure_orbit=1 pure_in_nonpure=[(47, 0), (49, 0)] XU=FAILS ex=[(1, 47), (47, 1)] fails=0
+d=96 n=95 L=9120 Y=9025 C=94 dim=9120 pure_orbit=95 pure_in_nonpure=[(1, 94), (2, 93), (2, 94), (3, 92), (3, 93), (4, 91)] XU=holds  fails=0
+d=96 n=96 L=96 Y=866305 C=95 dim=866401 pure_orbit=95 pure_in_nonpure=[(1, 94), (2, 93), (2, 95), (3, 92), (3, 94), (4, 91)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=97 n=2 L=194 Y=192 C=2 dim=195 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=3 L=291 Y=288 C=3 dim=292 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=4 L=388 Y=384 C=4 dim=389 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=6 L=582 Y=576 C=6 dim=583 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=8 L=776 Y=768 C=8 dim=777 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=12 L=1164 Y=1152 C=12 dim=1165 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=16 L=1552 Y=1536 C=16 dim=1553 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=24 L=2328 Y=2304 C=24 dim=2329 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=32 L=3104 Y=3072 C=32 dim=3105 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=97 n=48 L=4656 Y=4608 C=48 dim=4657 pure_orbit=0 pure_in_nonpure=[(48, 0), (49, 0)] XU=holds  fails=0
+d=97 n=96 L=9312 Y=9216 C=95 dim=9312 pure_orbit=96 pure_in_nonpure=[(1, 95), (2, 94), (2, 95), (3, 93), (3, 94), (4, 92)] XU=holds  fails=0
+d=97 n=97 L=97 Y=893856 C=96 dim=893953 pure_orbit=96 pure_in_nonpure=[(1, 95), (2, 94), (2, 96), (3, 93), (3, 95), (4, 92)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=98 n=2 L=98 Y=194 C=2 dim=197 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=98 n=7 L=98 Y=679 C=7 dim=687 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=98 n=14 L=98 Y=1358 C=14 dim=1373 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=98 n=49 L=98 Y=14161 C=49 dim=14211 pure_orbit=1 pure_in_nonpure=[(48, 0), (50, 0)] XU=FAILS ex=[(1, 25), (2, 24)] fails=0
+d=98 n=97 L=9506 Y=9409 C=96 dim=9506 pure_orbit=97 pure_in_nonpure=[(1, 96), (2, 95), (2, 96), (3, 94), (3, 95), (4, 93)] XU=holds  fails=0
+d=98 n=98 L=98 Y=921985 C=97 dim=922083 pure_orbit=97 pure_in_nonpure=[(1, 96), (2, 95), (2, 97), (3, 94), (3, 96), (4, 93)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=99 n=2 L=198 Y=196 C=2 dim=199 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=3 L=99 Y=294 C=3 dim=298 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=7 L=693 Y=686 C=7 dim=694 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=9 L=99 Y=882 C=9 dim=892 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=11 L=99 Y=1078 C=11 dim=1090 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=14 L=1386 Y=1372 C=14 dim=1387 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=33 L=99 Y=3234 C=33 dim=3268 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=99 n=49 L=4851 Y=4802 C=49 dim=4852 pure_orbit=0 pure_in_nonpure=[(49, 0), (50, 0)] XU=holds  fails=0
+d=99 n=98 L=9702 Y=9604 C=97 dim=9702 pure_orbit=98 pure_in_nonpure=[(1, 97), (2, 96), (2, 97), (3, 95), (3, 96), (4, 94)] XU=holds  fails=0
+d=99 n=99 L=99 Y=950698 C=98 dim=950797 pure_orbit=98 pure_in_nonpure=[(1, 97), (2, 96), (2, 98), (3, 95), (3, 97), (4, 94)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+d=100 n=2 L=100 Y=198 C=2 dim=201 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=3 L=300 Y=297 C=3 dim=301 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=4 L=100 Y=396 C=4 dim=401 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=5 L=100 Y=495 C=5 dim=501 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=9 L=900 Y=891 C=9 dim=901 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=10 L=100 Y=990 C=10 dim=1001 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=11 L=1100 Y=1089 C=11 dim=1101 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=20 L=100 Y=1980 C=20 dim=2001 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=25 L=100 Y=2475 C=25 dim=2501 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=33 L=3300 Y=3267 C=33 dim=3301 pure_orbit=0 pure_in_nonpure=[] XU=holds  fails=0
+d=100 n=50 L=100 Y=14750 C=50 dim=14801 pure_orbit=1 pure_in_nonpure=[(49, 0), (51, 0)] XU=FAILS ex=[(1, 49), (49, 1)] fails=0
+d=100 n=99 L=9900 Y=9801 C=98 dim=9900 pure_orbit=99 pure_in_nonpure=[(1, 98), (2, 97), (2, 98), (3, 96), (3, 97), (4, 95)] XU=holds  fails=0
+d=100 n=100 L=100 Y=980001 C=99 dim=980101 pure_orbit=99 pure_in_nonpure=[(1, 98), (2, 97), (2, 99), (3, 96), (3, 98), (4, 95)] XU=FAILS ex=[(1, 2), (2, 1)] fails=0
+TOTAL pairs=747 failures=0
+XU fails at 152 pairs; n=d: 95, n=d/2: 48, other: [(18, 6), (24, 6), (36, 12), (48, 12), (54, 18), (72, 18), (72, 24), (90, 30), (96, 24)]
+all n=d fail: True ; all n=d/2 fail: True

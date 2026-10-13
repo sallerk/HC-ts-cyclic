@@ -1,0 +1,6 @@
+# Z1 triage started Tue Oct 13 11:05:00 2026 on 4 families
+cyc5_012       d=6 |S|=6 perms=[] Y=49..73 closed=False orb={'rigid': 5, 'pure': 1, 'res': 0} certs={'hull3+L4p': 1, 'comm': 16, 'hull3': 8} open={'equal-invariants': 24} conflicts=0 rules={'R4:aut': 24, 'R2c': 32, 'R6:res': 24, 'R2': 36, 'R1:NSxNS': 1, 'R1:pure-rigid': 8} t=0.0s
+cyc4_013       d=6 |S|=8 perms=[] Y=243..247 closed=False orb={'rigid': 6, 'pure': 3, 'res': 0} certs={'hull3+L4p': 2, 'comm': 15, 'hull3': 6} open={'equal-invariants': 4} conflicts=0 rules={'R4:aut': 15, 'R2c': 16, 'R2': 12, 'R3b': 4, 'R1:pure-rigid': 18, 'R6:res': 4, 'R1:NSxNS': 11} t=0.0s
+cyc12_017      d=6 |S|=4 perms=['021'] Y=1009..1041 closed=False orb={'rigid': 6, 'pure': 13, 'res': 1} certs={'hull3': 8, 'comm': 16} open={'equal-invariants': 28, 'aut-nonrigid': 2} conflicts=0 rules={'R1:NSxNS': 212, 'R1:pure-rigid': 196, 'R1:pure-res': 20, 'R4:aut': 24, 'R6:res+split': 28, 'R2': 18, 'R6:aut-res+split': 2} t=0.0s
+cyc5_014       d=6 |S|=6 perms=['021'] Y=359..327 closed=False orb={'rigid': 4, 'pure': 1, 'res': 1} certs={'hull3+L4p': 1, 'comm': 15, 'hull3': 7} open={'equal-invariants': 16, 'undecided-irreducibility': 16} conflicts=0 rules={'R4:aut': 35, 'R2c': 16, 'R6:res': 16, 'split': 2, 'R6:res+split': 16, 'R2': 16, 'R1:pure-rigid': 8, 'R1:NSxNS': 16} t=0.2s
+# finished Tue Oct 13 11:05:00 2026

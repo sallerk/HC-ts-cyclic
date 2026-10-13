@@ -1,0 +1,28 @@
+cyc5_012 d=6 i=0 p=30241: cyc5_012 d=6 i=0 p=30241 seed=0 narcs=8 order=3 small=False | dimA=6 dimB=15 |basis|=6 G=mu_5 w=(0, 1, 2) (reduction consistency check passed; setup 0.1s)
+   block sigma=4 Delta=2 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc5_012 d=6 i=0 p=30841: cyc5_012 d=6 i=0 p=30841 seed=1 narcs=8 order=3 small=False | dimA=6 dimB=15 |basis|=6 G=mu_5 w=(0, 1, 2) (reduction consistency check passed; setup 0.1s)
+   block sigma=4 Delta=2 c[1, 1] phibar[3, 3] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc6_013 d=6 i=1 p=30097: cyc6_013 d=6 i=1 p=30097 seed=0 narcs=8 order=3 small=False | dimA=3 dimB=18 |basis|=7 G=mu_6 w=(0, 1, 3) (reduction consistency check passed; setup 0.1s)
+   block sigma=3 Delta=4 c[1, 1] phibar[4, 4] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=1 Delta=2 c[1, 1] phibar[4, 4] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc6_013 d=6 i=1 p=30169: cyc6_013 d=6 i=1 p=30169 seed=1 narcs=8 order=3 small=False | dimA=3 dimB=18 |basis|=7 G=mu_6 w=(0, 1, 3) (reduction consistency check passed; setup 0.1s)
+   block sigma=3 Delta=4 c[1, 1] phibar[4, 4] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=1 Delta=2 c[1, 1] phibar[4, 4] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc12_017 d=6 i=0 p=30097: cyc12_017 d=6 i=0 p=30097 seed=0 narcs=8 order=3 small=False | dimA=6 dimB=15 |basis|=4 G=mu_12 w=(0, 1, 7) (reduction consistency check passed; setup 0.1s)
+   block sigma=8 Delta=4 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+   block sigma=0 Delta=8 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+cyc12_017 d=6 i=0 p=30169: cyc12_017 d=6 i=0 p=30169 seed=1 narcs=8 order=3 small=False | dimA=6 dimB=15 |basis|=4 G=mu_12 w=(0, 1, 7) (reduction consistency check passed; setup 0.1s)
+   block sigma=8 Delta=4 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+   block sigma=0 Delta=8 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+cyc14_018 d=7 i=0 p=30241: cyc14_018 d=7 i=0 p=30241 seed=0 narcs=8 order=3 small=False | dimA=10 dimB=21 |basis|=5 G=mu_14 w=(0, 1, 8) (reduction consistency check passed; setup 0.2s)
+   block sigma=9 Delta=6 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+   block sigma=1 Delta=8 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+cyc14_018 d=7 i=0 p=30577: cyc14_018 d=7 i=0 p=30577 seed=1 narcs=8 order=3 small=False | dimA=10 dimB=21 |basis|=5 G=mu_14 w=(0, 1, 8) (reduction consistency check passed; setup 0.2s)
+   block sigma=9 Delta=6 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+   block sigma=1 Delta=8 c[1, 1] phibar[1, 1] | c-proj o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1
+cyc6_015 d=8 i=1 p=30097: cyc6_015 d=8 i=1 p=30097 seed=0 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=9 G=mu_6 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=4 Delta=4 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=2 Delta=2 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+cyc6_015 d=8 i=1 p=30169: cyc6_015 d=8 i=1 p=30169 seed=1 narcs=8 order=3 small=False | dimA=10 dimB=33 |basis|=9 G=mu_6 w=(0, 1, 5) (reduction consistency check passed; setup 0.4s)
+   block sigma=4 Delta=4 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+   block sigma=2 Delta=2 c[1, 1] phibar[5, 5] | c-proj o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0

@@ -1,0 +1,149 @@
+# w2xu.py DMAX=30
+# d n class nfail_unordered predicted_nonempty sigma_crit_agrees extra
+6 2 n|d m=3 0 False True 
+6 3 n|d m=2 4 True True  half: nolift=0 bothlift=2
+6 5 n|d-1 0 False - 
+6 6 n|d m=1 8 True -  SWAPCOUNT 8 16 KR_ordered=16 swap_ordered=8 nonswap=8
+7 2 n|d-1 0 False - 
+7 3 n|d-1 0 False - 
+7 6 n|d-1 0 False - 
+7 7 n|d m=1 12 True -  KR_ordered=24 swap_ordered=24 nonswap=0
+8 2 n|d m=4 0 False True 
+8 4 n|d m=2 4 True True  half: nolift=0 bothlift=2
+8 7 n|d-1 0 False - 
+8 8 n|d m=1 42 True -  KR_ordered=84 swap_ordered=36 nonswap=48
+9 2 n|d-1 0 False - 
+9 3 n|d m=3 0 False True 
+9 4 n|d-1 0 False - 
+9 8 n|d-1 0 False - 
+9 9 n|d m=1 48 True -  KR_ordered=96 swap_ordered=48 nonswap=48
+10 2 n|d m=5 0 False True 
+10 3 n|d-1 0 False - 
+10 5 n|d m=2 12 True True  half: nolift=0 bothlift=8
+10 9 n|d-1 0 False - 
+10 10 n|d m=1 104 True -  KR_ordered=208 swap_ordered=64 nonswap=144
+11 2 n|d-1 0 False - 
+11 5 n|d-1 0 False - 
+11 10 n|d-1 0 False - 
+11 11 n|d m=1 40 True -  KR_ordered=80 swap_ordered=80 nonswap=0
+12 2 n|d m=6 0 False True 
+12 3 n|d m=4 0 False True 
+12 4 n|d m=3 0 False True 
+12 6 n|d m=2 29 True True  half: nolift=0 bothlift=21
+12 11 n|d-1 0 False - 
+12 12 n|d m=1 206 True -  KR_ordered=412 swap_ordered=100 nonswap=312
+13 2 n|d-1 0 False - 
+13 3 n|d-1 0 False - 
+13 4 n|d-1 0 False - 
+13 6 n|d-1 0 False - 
+13 12 n|d-1 0 False - 
+13 13 n|d m=1 60 True -  KR_ordered=120 swap_ordered=120 nonswap=0
+14 2 n|d m=7 0 False True 
+14 7 n|d m=2 18 True True  half: nolift=0 bothlift=12
+14 13 n|d-1 0 False - 
+14 14 n|d m=1 240 True -  KR_ordered=480 swap_ordered=144 nonswap=336
+15 2 n|d-1 0 False - 
+15 3 n|d m=5 0 False True 
+15 5 n|d m=3 0 False True 
+15 7 n|d-1 0 False - 
+15 14 n|d-1 0 False - 
+15 15 n|d m=1 228 True -  KR_ordered=456 swap_ordered=168 nonswap=288
+16 2 n|d m=8 0 False True 
+16 3 n|d-1 0 False - 
+16 4 n|d m=4 0 False True 
+16 5 n|d-1 0 False - 
+16 8 n|d m=2 16 True True  half: nolift=0 bothlift=10
+16 15 n|d-1 0 False - 
+16 16 n|d m=1 218 True -  KR_ordered=436 swap_ordered=196 nonswap=240
+17 2 n|d-1 0 False - 
+17 4 n|d-1 0 False - 
+17 8 n|d-1 0 False - 
+17 16 n|d-1 0 False - 
+17 17 n|d m=1 112 True -  KR_ordered=224 swap_ordered=224 nonswap=0
+18 2 n|d m=9 0 False True 
+18 3 n|d m=6 0 False True 
+18 6 n|d m=3 20 True True 
+18 9 n|d m=2 34 True True  half: nolift=0 bothlift=26
+18 17 n|d-1 0 False - 
+18 18 n|d m=1 548 True -  KR_ordered=1096 swap_ordered=256 nonswap=840
+19 2 n|d-1 0 False - 
+19 3 n|d-1 0 False - 
+19 6 n|d-1 0 False - 
+19 9 n|d-1 0 False - 
+19 18 n|d-1 0 False - 
+19 19 n|d m=1 144 True -  KR_ordered=288 swap_ordered=288 nonswap=0
+20 2 n|d m=10 0 False True 
+20 4 n|d m=5 0 False True 
+20 5 n|d m=4 0 False True 
+20 10 n|d m=2 72 True True  half: nolift=0 bothlift=56
+20 19 n|d-1 0 False - 
+20 20 n|d m=1 642 True -  KR_ordered=1284 swap_ordered=324 nonswap=960
+21 2 n|d-1 0 False - 
+21 3 n|d m=7 0 False True 
+21 4 n|d-1 0 False - 
+21 5 n|d-1 0 False - 
+21 7 n|d m=3 0 False True 
+21 10 n|d-1 0 False - 
+21 20 n|d-1 0 False - 
+21 21 n|d m=1 396 True -  KR_ordered=792 swap_ordered=360 nonswap=432
+22 2 n|d m=11 0 False True 
+22 3 n|d-1 0 False - 
+22 7 n|d-1 0 False - 
+22 11 n|d m=2 30 True True  half: nolift=0 bothlift=20
+22 21 n|d-1 0 False - 
+22 22 n|d m=1 440 True -  KR_ordered=880 swap_ordered=400 nonswap=480
+23 2 n|d-1 0 False - 
+23 11 n|d-1 0 False - 
+23 22 n|d-1 0 False - 
+23 23 n|d m=1 220 True -  KR_ordered=440 swap_ordered=440 nonswap=0
+24 2 n|d m=12 0 False True 
+24 3 n|d m=8 0 False True 
+24 4 n|d m=6 0 False True 
+24 6 n|d m=4 12 True True 
+24 8 n|d m=3 0 False True 
+24 12 n|d m=2 117 True True  half: nolift=0 bothlift=95
+24 23 n|d-1 0 False - 
+24 24 n|d m=1 1022 True -  KR_ordered=2044 swap_ordered=484 nonswap=1560
+25 2 n|d-1 0 False - 
+25 3 n|d-1 0 False - 
+25 4 n|d-1 0 False - 
+25 5 n|d m=5 0 False True 
+25 6 n|d-1 0 False - 
+25 8 n|d-1 0 False - 
+25 12 n|d-1 0 False - 
+25 24 n|d-1 0 False - 
+25 25 n|d m=1 264 True -  KR_ordered=528 swap_ordered=528 nonswap=0
+26 2 n|d m=13 0 False True 
+26 5 n|d-1 0 False - 
+26 13 n|d m=2 36 True True  half: nolift=0 bothlift=24
+26 25 n|d-1 0 False - 
+26 26 n|d m=1 576 True -  KR_ordered=1152 swap_ordered=576 nonswap=576
+27 2 n|d-1 0 False - 
+27 3 n|d m=9 0 False True 
+27 9 n|d m=3 0 False True 
+27 13 n|d-1 0 False - 
+27 26 n|d-1 0 False - 
+27 27 n|d m=1 408 True -  KR_ordered=816 swap_ordered=624 nonswap=192
+28 2 n|d m=14 0 False True 
+28 3 n|d-1 0 False - 
+28 4 n|d m=7 0 False True 
+28 7 n|d m=4 0 False True 
+28 9 n|d-1 0 False - 
+28 14 n|d m=2 42 True True  half: nolift=0 bothlift=30
+28 27 n|d-1 0 False - 
+28 28 n|d m=1 770 True -  KR_ordered=1540 swap_ordered=676 nonswap=864
+29 2 n|d-1 0 False - 
+29 4 n|d-1 0 False - 
+29 7 n|d-1 0 False - 
+29 14 n|d-1 0 False - 
+29 28 n|d-1 0 False - 
+29 29 n|d m=1 364 True -  KR_ordered=728 swap_ordered=728 nonswap=0
+30 2 n|d m=15 0 False True 
+30 3 n|d m=10 0 False True 
+30 5 n|d m=6 0 False True 
+30 6 n|d m=5 0 False True 
+30 10 n|d m=3 0 False True 
+30 15 n|d m=2 64 True True  half: nolift=0 bothlift=50
+30 29 n|d-1 0 False - 
+30 30 n|d m=1 1988 True -  KR_ordered=3976 swap_ordered=784 nonswap=3192
+# DONE bad=1

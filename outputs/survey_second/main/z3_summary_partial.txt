@@ -1,0 +1,3 @@
+cyc9_013       d= 7  Y lb=60 ub=60 closed=True errors=[] 0.7s
+cyc8_013       d= 6  Y lb=477 ub=477 closed=True errors=[] 0.5s
+cyc5_014       d= 6  Y lb=295 ub=295 closed=True errors=[] 0.6s

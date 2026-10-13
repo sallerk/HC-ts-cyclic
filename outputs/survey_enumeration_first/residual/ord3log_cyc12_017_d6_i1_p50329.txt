@@ -1,0 +1,12 @@
+cyc12_017 d=6 i=1 p=50329 seed=0 narcs=8 order=3 small=False | dimA=3 dimB=18 |basis|=4 G=mu_12 w=(0, 1, 7) (reduction consistency check passed; setup 0.1s)
+W computed (0.1s)
+sigma=0 Delta=0 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=0 Delta=1 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0
+sigma=0 Delta=7 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0
+sigma=1 Delta=0 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=1 Delta=6 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=1 Delta=11 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0
+sigma=7 Delta=0 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=7 Delta=5 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=0
+sigma=7 Delta=6 c 1x1 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+done 0.1s

@@ -1,0 +1,199 @@
+{'d': 111, 'n': 2, 'NF': 0, 'P': 220, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 223, 'closed': 223, 'dim_ok': True, 'sec': 0.0}
+{'d': 111, 'n': 3, 'NF': 0, 'P': 330, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 333, 'closed': 333, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 111, 'n': 5, 'NF': 0, 'P': 550, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 553, 'closed': 553, 'dim_ok': True, 'sec': 0.01}
+{'d': 111, 'n': 10, 'NF': 0, 'P': 1100, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1103, 'closed': 1103, 'dim_ok': True, 'sec': 0.01}
+{'d': 111, 'n': 11, 'NF': 0, 'P': 1210, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1213, 'closed': 1213, 'dim_ok': True, 'sec': 0.02}
+{'d': 111, 'n': 22, 'NF': 0, 'P': 2420, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2423, 'closed': 2423, 'dim_ok': True, 'sec': 0.03}
+{'d': 111, 'n': 37, 'NF': 0, 'P': 4070, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 4073, 'closed': 4073, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 111, 'n': 55, 'NF': 0, 'P': 6050, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 6053, 'closed': 6053, 'dim_ok': True, 'sec': 0.17}
+{'d': 111, 'n': 110, 'NF': 110, 'P': 11990, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 24313, 'closed': 24313, 'dim_ok': True, 'sec': 0.32}
+{'d': 111, 'n': 111, 'NF': 12100, 'P': 11990, 'nfail': 12744, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 11880, 'swaps_in_KR': True, 'kappa': 864, 'swapformula': True, 'dimHdg': 146458937, 'closed': 146458937, 'dim_ok': True, 'sec': 0.29}
+{'d': 112, 'n': 2, 'NF': 0, 'P': 222, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 225, 'closed': 225, 'dim_ok': True, 'sec': 0.0}
+{'d': 112, 'n': 3, 'NF': 0, 'P': 333, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 336, 'closed': 336, 'dim_ok': True, 'sec': 0.0}
+{'d': 112, 'n': 4, 'NF': 0, 'P': 444, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 447, 'closed': 447, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 112, 'n': 7, 'NF': 0, 'P': 777, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 780, 'closed': 780, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 112, 'n': 8, 'NF': 0, 'P': 888, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 891, 'closed': 891, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 112, 'n': 14, 'NF': 0, 'P': 1554, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1557, 'closed': 1557, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 112, 'n': 16, 'NF': 0, 'P': 1776, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1779, 'closed': 1779, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 112, 'n': 28, 'NF': 0, 'P': 3108, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3111, 'closed': 3111, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 112, 'n': 37, 'NF': 0, 'P': 4107, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 4110, 'closed': 4110, 'dim_ok': True, 'sec': 0.08}
+{'d': 112, 'n': 56, 'NF': 111, 'P': 6215, 'nfail': 332, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 18761, 'closed': 18761, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 112, 'n': 111, 'NF': 111, 'P': 12210, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 24756, 'closed': 24756, 'dim_ok': True, 'sec': 0.38}
+{'d': 112, 'n': 112, 'NF': 12321, 'P': 12210, 'nfail': 14932, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 12100, 'swaps_in_KR': True, 'kappa': 2832, 'swapformula': True, 'dimHdg': 151858828, 'closed': 151858828, 'dim_ok': True, 'sec': 0.2}
+{'d': 113, 'n': 2, 'NF': 0, 'P': 224, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 227, 'closed': 227, 'dim_ok': True, 'sec': 0.0}
+{'d': 113, 'n': 4, 'NF': 0, 'P': 448, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 451, 'closed': 451, 'dim_ok': True, 'sec': 0.0}
+{'d': 113, 'n': 7, 'NF': 0, 'P': 784, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 787, 'closed': 787, 'dim_ok': True, 'sec': 0.01}
+{'d': 113, 'n': 8, 'NF': 0, 'P': 896, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 899, 'closed': 899, 'dim_ok': True, 'sec': 0.01}
+{'d': 113, 'n': 14, 'NF': 0, 'P': 1568, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1571, 'closed': 1571, 'dim_ok': True, 'sec': 0.02}
+{'d': 113, 'n': 16, 'NF': 0, 'P': 1792, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1795, 'closed': 1795, 'dim_ok': True, 'sec': 0.02}
+{'d': 113, 'n': 28, 'NF': 0, 'P': 3136, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 3139, 'closed': 3139, 'dim_ok': True, 'sec': 0.05}
+{'d': 113, 'n': 56, 'NF': 0, 'P': 6272, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 6275, 'closed': 6275, 'dim_ok': True, 'sec': 0.17}
+{'d': 113, 'n': 112, 'NF': 112, 'P': 12432, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 25203, 'closed': 25203, 'dim_ok': True, 'sec': 0.6}
+{'d': 113, 'n': 113, 'NF': 12544, 'P': 12432, 'nfail': 12320, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 12320, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 157401779, 'closed': 157401779, 'dim_ok': True, 'sec': 0.42}
+{'d': 114, 'n': 2, 'NF': 0, 'P': 226, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 229, 'closed': 229, 'dim_ok': True, 'sec': 0.0}
+{'d': 114, 'n': 3, 'NF': 0, 'P': 339, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 342, 'closed': 342, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 114, 'n': 6, 'NF': 0, 'P': 678, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 681, 'closed': 681, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 114, 'n': 19, 'NF': 0, 'P': 2147, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2150, 'closed': 2150, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 114, 'n': 38, 'NF': 0, 'P': 4294, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 4297, 'closed': 4297, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 114, 'n': 57, 'NF': 113, 'P': 6440, 'nfail': 332, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 19438, 'closed': 19438, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 114, 'n': 113, 'NF': 113, 'P': 12656, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 25654, 'closed': 25654, 'dim_ok': True, 'sec': 0.45}
+{'d': 114, 'n': 114, 'NF': 12769, 'P': 12656, 'nfail': 16024, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 12544, 'swaps_in_KR': True, 'kappa': 3480, 'swapformula': True, 'dimHdg': 163101582, 'closed': 163101582, 'dim_ok': True, 'sec': 0.17}
+{'d': 115, 'n': 2, 'NF': 0, 'P': 228, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 231, 'closed': 231, 'dim_ok': True, 'sec': 0.0}
+{'d': 115, 'n': 3, 'NF': 0, 'P': 342, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 345, 'closed': 345, 'dim_ok': True, 'sec': 0.0}
+{'d': 115, 'n': 5, 'NF': 0, 'P': 570, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 573, 'closed': 573, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 115, 'n': 6, 'NF': 0, 'P': 684, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 687, 'closed': 687, 'dim_ok': True, 'sec': 0.0}
+{'d': 115, 'n': 19, 'NF': 0, 'P': 2166, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2169, 'closed': 2169, 'dim_ok': True, 'sec': 0.04}
+{'d': 115, 'n': 23, 'NF': 0, 'P': 2622, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2625, 'closed': 2625, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 115, 'n': 38, 'NF': 0, 'P': 4332, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 4335, 'closed': 4335, 'dim_ok': True, 'sec': 0.07}
+{'d': 115, 'n': 57, 'NF': 0, 'P': 6498, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 6501, 'closed': 6501, 'dim_ok': True, 'sec': 0.2}
+{'d': 115, 'n': 114, 'NF': 114, 'P': 12882, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 26109, 'closed': 26109, 'dim_ok': True, 'sec': 0.37}
+{'d': 115, 'n': 115, 'NF': 12996, 'P': 12882, 'nfail': 12768, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 12768, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 168947661, 'closed': 168947661, 'dim_ok': True, 'sec': 0.36}
+{'d': 116, 'n': 2, 'NF': 0, 'P': 230, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 233, 'closed': 233, 'dim_ok': True, 'sec': 0.0}
+{'d': 116, 'n': 4, 'NF': 0, 'P': 460, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 463, 'closed': 463, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 116, 'n': 5, 'NF': 0, 'P': 575, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 578, 'closed': 578, 'dim_ok': True, 'sec': 0.0}
+{'d': 116, 'n': 23, 'NF': 0, 'P': 2645, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2648, 'closed': 2648, 'dim_ok': True, 'sec': 0.04}
+{'d': 116, 'n': 29, 'NF': 0, 'P': 3335, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3338, 'closed': 3338, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 116, 'n': 58, 'NF': 115, 'P': 6669, 'nfail': 336, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 20127, 'closed': 20127, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 116, 'n': 115, 'NF': 115, 'P': 13110, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 26568, 'closed': 26568, 'dim_ok': True, 'sec': 0.58}
+{'d': 116, 'n': 116, 'NF': 13225, 'P': 13110, 'nfail': 15684, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 12996, 'swaps_in_KR': True, 'kappa': 2688, 'swapformula': True, 'dimHdg': 174955872, 'closed': 174955872, 'dim_ok': True, 'sec': 0.24}
+{'d': 117, 'n': 2, 'NF': 0, 'P': 232, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 235, 'closed': 235, 'dim_ok': True, 'sec': 0.0}
+{'d': 117, 'n': 3, 'NF': 0, 'P': 348, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 351, 'closed': 351, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 117, 'n': 4, 'NF': 0, 'P': 464, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 467, 'closed': 467, 'dim_ok': True, 'sec': 0.0}
+{'d': 117, 'n': 9, 'NF': 0, 'P': 1044, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1047, 'closed': 1047, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 117, 'n': 13, 'NF': 0, 'P': 1508, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1511, 'closed': 1511, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 117, 'n': 29, 'NF': 0, 'P': 3364, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 3367, 'closed': 3367, 'dim_ok': True, 'sec': 0.08}
+{'d': 117, 'n': 39, 'NF': 0, 'P': 4524, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 4527, 'closed': 4527, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 117, 'n': 58, 'NF': 0, 'P': 6728, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 6731, 'closed': 6731, 'dim_ok': True, 'sec': 0.14}
+{'d': 117, 'n': 116, 'NF': 116, 'P': 13340, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 27031, 'closed': 27031, 'dim_ok': True, 'sec': 0.48}
+{'d': 117, 'n': 117, 'NF': 13456, 'P': 13340, 'nfail': 14136, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 13224, 'swaps_in_KR': True, 'kappa': 912, 'swapformula': True, 'dimHdg': 181118327, 'closed': 181118327, 'dim_ok': True, 'sec': 0.31}
+{'d': 118, 'n': 2, 'NF': 0, 'P': 234, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 237, 'closed': 237, 'dim_ok': True, 'sec': 0.0}
+{'d': 118, 'n': 3, 'NF': 0, 'P': 351, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 354, 'closed': 354, 'dim_ok': True, 'sec': 0.0}
+{'d': 118, 'n': 9, 'NF': 0, 'P': 1053, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1056, 'closed': 1056, 'dim_ok': True, 'sec': 0.01}
+{'d': 118, 'n': 13, 'NF': 0, 'P': 1521, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1524, 'closed': 1524, 'dim_ok': True, 'sec': 0.02}
+{'d': 118, 'n': 39, 'NF': 0, 'P': 4563, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 4566, 'closed': 4566, 'dim_ok': True, 'sec': 0.07}
+{'d': 118, 'n': 59, 'NF': 117, 'P': 6902, 'nfail': 348, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 20828, 'closed': 20828, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 118, 'n': 117, 'NF': 117, 'P': 13572, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 27498, 'closed': 27498, 'dim_ok': True, 'sec': 0.51}
+{'d': 118, 'n': 118, 'NF': 13689, 'P': 13572, 'nfail': 16240, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 13456, 'swaps_in_KR': True, 'kappa': 2784, 'swapformula': True, 'dimHdg': 187445914, 'closed': 187445914, 'dim_ok': True, 'sec': 0.26}
+{'d': 119, 'n': 2, 'NF': 0, 'P': 236, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 239, 'closed': 239, 'dim_ok': True, 'sec': 0.0}
+{'d': 119, 'n': 7, 'NF': 0, 'P': 826, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 829, 'closed': 829, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 119, 'n': 17, 'NF': 0, 'P': 2006, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2009, 'closed': 2009, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 119, 'n': 59, 'NF': 0, 'P': 6962, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 6965, 'closed': 6965, 'dim_ok': True, 'sec': 0.38}
+{'d': 119, 'n': 118, 'NF': 118, 'P': 13806, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 27969, 'closed': 27969, 'dim_ok': True, 'sec': 0.69}
+{'d': 119, 'n': 119, 'NF': 13924, 'P': 13806, 'nfail': 13688, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 13688, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 193933121, 'closed': 193933121, 'dim_ok': True, 'sec': 0.42}
+{'d': 120, 'n': 2, 'NF': 0, 'P': 238, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 241, 'closed': 241, 'dim_ok': True, 'sec': 0.0}
+{'d': 120, 'n': 3, 'NF': 0, 'P': 357, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 360, 'closed': 360, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 4, 'NF': 0, 'P': 476, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 479, 'closed': 479, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 5, 'NF': 0, 'P': 595, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 598, 'closed': 598, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 6, 'NF': 0, 'P': 714, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 717, 'closed': 717, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 7, 'NF': 0, 'P': 833, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 836, 'closed': 836, 'dim_ok': True, 'sec': 0.0}
+{'d': 120, 'n': 8, 'NF': 0, 'P': 952, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 955, 'closed': 955, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 10, 'NF': 0, 'P': 1190, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1193, 'closed': 1193, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 12, 'NF': 0, 'P': 1428, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1431, 'closed': 1431, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 15, 'NF': 0, 'P': 1785, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1788, 'closed': 1788, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 120, 'n': 17, 'NF': 0, 'P': 2023, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2026, 'closed': 2026, 'dim_ok': True, 'sec': 0.01}
+{'d': 120, 'n': 20, 'NF': 0, 'P': 2380, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2383, 'closed': 2383, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 120, 'n': 24, 'NF': 0, 'P': 2856, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2859, 'closed': 2859, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 120, 'n': 30, 'NF': 0, 'P': 3570, 'nfail': 56, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3573, 'closed': 3573, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 120, 'n': 40, 'NF': 0, 'P': 4760, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 4763, 'closed': 4763, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 120, 'n': 60, 'NF': 119, 'P': 7139, 'nfail': 1450, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 21541, 'closed': 21541, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.03}
+{'d': 120, 'n': 119, 'NF': 119, 'P': 14042, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 28444, 'closed': 28444, 'dim_ok': True, 'sec': 0.39}
+{'d': 120, 'n': 120, 'NF': 14161, 'P': 14042, 'nfail': 28588, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 13924, 'swaps_in_KR': True, 'kappa': 14664, 'swapformula': True, 'dimHdg': 200604876, 'closed': 200604876, 'dim_ok': True, 'sec': 0.18}
+{'d': 121, 'n': 2, 'NF': 0, 'P': 240, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 243, 'closed': 243, 'dim_ok': True, 'sec': 0.0}
+{'d': 121, 'n': 3, 'NF': 0, 'P': 360, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 363, 'closed': 363, 'dim_ok': True, 'sec': 0.01}
+{'d': 121, 'n': 4, 'NF': 0, 'P': 480, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 483, 'closed': 483, 'dim_ok': True, 'sec': 0.0}
+{'d': 121, 'n': 5, 'NF': 0, 'P': 600, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 603, 'closed': 603, 'dim_ok': True, 'sec': 0.01}
+{'d': 121, 'n': 6, 'NF': 0, 'P': 720, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 723, 'closed': 723, 'dim_ok': True, 'sec': 0.0}
+{'d': 121, 'n': 8, 'NF': 0, 'P': 960, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 963, 'closed': 963, 'dim_ok': True, 'sec': 0.01}
+{'d': 121, 'n': 10, 'NF': 0, 'P': 1200, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1203, 'closed': 1203, 'dim_ok': True, 'sec': 0.01}
+{'d': 121, 'n': 11, 'NF': 0, 'P': 1320, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1323, 'closed': 1323, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 121, 'n': 12, 'NF': 0, 'P': 1440, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1443, 'closed': 1443, 'dim_ok': True, 'sec': 0.01}
+{'d': 121, 'n': 15, 'NF': 0, 'P': 1800, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1803, 'closed': 1803, 'dim_ok': True, 'sec': 0.02}
+{'d': 121, 'n': 20, 'NF': 0, 'P': 2400, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2403, 'closed': 2403, 'dim_ok': True, 'sec': 0.03}
+{'d': 121, 'n': 24, 'NF': 0, 'P': 2880, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2883, 'closed': 2883, 'dim_ok': True, 'sec': 0.03}
+{'d': 121, 'n': 30, 'NF': 0, 'P': 3600, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 3603, 'closed': 3603, 'dim_ok': True, 'sec': 0.04}
+{'d': 121, 'n': 40, 'NF': 0, 'P': 4800, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 4803, 'closed': 4803, 'dim_ok': True, 'sec': 0.09}
+{'d': 121, 'n': 60, 'NF': 0, 'P': 7200, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 7203, 'closed': 7203, 'dim_ok': True, 'sec': 0.13}
+{'d': 121, 'n': 120, 'NF': 120, 'P': 14280, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 28923, 'closed': 28923, 'dim_ok': True, 'sec': 0.46}
+{'d': 121, 'n': 121, 'NF': 14400, 'P': 14280, 'nfail': 14160, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 14160, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 207417243, 'closed': 207417243, 'dim_ok': True, 'sec': 0.48}
+{'d': 122, 'n': 2, 'NF': 0, 'P': 242, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 245, 'closed': 245, 'dim_ok': True, 'sec': 0.0}
+{'d': 122, 'n': 11, 'NF': 0, 'P': 1331, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1334, 'closed': 1334, 'dim_ok': True, 'sec': 0.02}
+{'d': 122, 'n': 61, 'NF': 121, 'P': 7380, 'nfail': 360, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 22266, 'closed': 22266, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.03}
+{'d': 122, 'n': 121, 'NF': 121, 'P': 14520, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 29406, 'closed': 29406, 'dim_ok': True, 'sec': 0.85}
+{'d': 122, 'n': 122, 'NF': 14641, 'P': 14520, 'nfail': 17280, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 14400, 'swaps_in_KR': True, 'kappa': 2880, 'swapformula': True, 'dimHdg': 214419966, 'closed': 214419966, 'dim_ok': True, 'sec': 0.29}
+{'d': 123, 'n': 2, 'NF': 0, 'P': 244, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 247, 'closed': 247, 'dim_ok': True, 'sec': 0.0}
+{'d': 123, 'n': 3, 'NF': 0, 'P': 366, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 369, 'closed': 369, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 123, 'n': 41, 'NF': 0, 'P': 5002, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 5005, 'closed': 5005, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 123, 'n': 61, 'NF': 0, 'P': 7442, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 7445, 'closed': 7445, 'dim_ok': True, 'sec': 0.33}
+{'d': 123, 'n': 122, 'NF': 122, 'P': 14762, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 29893, 'closed': 29893, 'dim_ok': True, 'sec': 0.62}
+{'d': 123, 'n': 123, 'NF': 14884, 'P': 14762, 'nfail': 15600, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 14640, 'swaps_in_KR': True, 'kappa': 960, 'swapformula': True, 'dimHdg': 221593589, 'closed': 221593589, 'dim_ok': True, 'sec': 0.37}
+{'d': 124, 'n': 2, 'NF': 0, 'P': 246, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 249, 'closed': 249, 'dim_ok': True, 'sec': 0.0}
+{'d': 124, 'n': 3, 'NF': 0, 'P': 369, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 372, 'closed': 372, 'dim_ok': True, 'sec': 0.0}
+{'d': 124, 'n': 4, 'NF': 0, 'P': 492, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 495, 'closed': 495, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 124, 'n': 31, 'NF': 0, 'P': 3813, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3816, 'closed': 3816, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 124, 'n': 41, 'NF': 0, 'P': 5043, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 5046, 'closed': 5046, 'dim_ok': True, 'sec': 0.12}
+{'d': 124, 'n': 62, 'NF': 123, 'P': 7625, 'nfail': 360, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 23003, 'closed': 23003, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 124, 'n': 123, 'NF': 123, 'P': 15006, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 30384, 'closed': 30384, 'dim_ok': True, 'sec': 0.64}
+{'d': 124, 'n': 124, 'NF': 15129, 'P': 15006, 'nfail': 17764, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 14884, 'swaps_in_KR': True, 'kappa': 2880, 'swapformula': True, 'dimHdg': 228949672, 'closed': 228949672, 'dim_ok': True, 'sec': 0.3}
+{'d': 125, 'n': 2, 'NF': 0, 'P': 248, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 251, 'closed': 251, 'dim_ok': True, 'sec': 0.0}
+{'d': 125, 'n': 4, 'NF': 0, 'P': 496, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 499, 'closed': 499, 'dim_ok': True, 'sec': 0.0}
+{'d': 125, 'n': 5, 'NF': 0, 'P': 620, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 623, 'closed': 623, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 125, 'n': 25, 'NF': 0, 'P': 3100, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3103, 'closed': 3103, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 125, 'n': 31, 'NF': 0, 'P': 3844, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 3847, 'closed': 3847, 'dim_ok': True, 'sec': 0.12}
+{'d': 125, 'n': 62, 'NF': 0, 'P': 7688, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 7691, 'closed': 7691, 'dim_ok': True, 'sec': 0.22}
+{'d': 125, 'n': 124, 'NF': 124, 'P': 15252, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 30879, 'closed': 30879, 'dim_ok': True, 'sec': 0.8}
+{'d': 125, 'n': 125, 'NF': 15376, 'P': 15252, 'nfail': 15128, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 15128, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 236482511, 'closed': 236482511, 'dim_ok': True, 'sec': 0.47}
+{'d': 126, 'n': 2, 'NF': 0, 'P': 250, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 253, 'closed': 253, 'dim_ok': True, 'sec': 0.01}
+{'d': 126, 'n': 3, 'NF': 0, 'P': 375, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 378, 'closed': 378, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 126, 'n': 5, 'NF': 0, 'P': 625, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 628, 'closed': 628, 'dim_ok': True, 'sec': 0.0}
+{'d': 126, 'n': 6, 'NF': 0, 'P': 750, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 753, 'closed': 753, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 126, 'n': 7, 'NF': 0, 'P': 875, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 878, 'closed': 878, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 126, 'n': 9, 'NF': 0, 'P': 1125, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1128, 'closed': 1128, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 126, 'n': 14, 'NF': 0, 'P': 1750, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1753, 'closed': 1753, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 126, 'n': 18, 'NF': 0, 'P': 2250, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2253, 'closed': 2253, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 126, 'n': 21, 'NF': 0, 'P': 2625, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2628, 'closed': 2628, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 126, 'n': 25, 'NF': 0, 'P': 3125, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 3128, 'closed': 3128, 'dim_ok': True, 'sec': 0.03}
+{'d': 126, 'n': 42, 'NF': 0, 'P': 5250, 'nfail': 40, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 5253, 'closed': 5253, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 126, 'n': 63, 'NF': 125, 'P': 7874, 'nfail': 488, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 23752, 'closed': 23752, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 126, 'n': 125, 'NF': 125, 'P': 15500, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 31378, 'closed': 31378, 'dim_ok': True, 'sec': 0.5}
+{'d': 126, 'n': 126, 'NF': 15625, 'P': 15500, 'nfail': 23992, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 15376, 'swaps_in_KR': True, 'kappa': 8616, 'swapformula': True, 'dimHdg': 244211370, 'closed': 244211370, 'dim_ok': True, 'sec': 0.21}
+{'d': 127, 'n': 2, 'NF': 0, 'P': 252, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 255, 'closed': 255, 'dim_ok': True, 'sec': 0.0}
+{'d': 127, 'n': 3, 'NF': 0, 'P': 378, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 381, 'closed': 381, 'dim_ok': True, 'sec': 0.01}
+{'d': 127, 'n': 6, 'NF': 0, 'P': 756, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 759, 'closed': 759, 'dim_ok': True, 'sec': 0.0}
+{'d': 127, 'n': 7, 'NF': 0, 'P': 882, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 885, 'closed': 885, 'dim_ok': True, 'sec': 0.01}
+{'d': 127, 'n': 9, 'NF': 0, 'P': 1134, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1137, 'closed': 1137, 'dim_ok': True, 'sec': 0.02}
+{'d': 127, 'n': 14, 'NF': 0, 'P': 1764, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1767, 'closed': 1767, 'dim_ok': True, 'sec': 0.02}
+{'d': 127, 'n': 18, 'NF': 0, 'P': 2268, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2271, 'closed': 2271, 'dim_ok': True, 'sec': 0.02}
+{'d': 127, 'n': 21, 'NF': 0, 'P': 2646, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2649, 'closed': 2649, 'dim_ok': True, 'sec': 0.05}
+{'d': 127, 'n': 42, 'NF': 0, 'P': 5292, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 5295, 'closed': 5295, 'dim_ok': True, 'sec': 0.08}
+{'d': 127, 'n': 63, 'NF': 0, 'P': 7938, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 7941, 'closed': 7941, 'dim_ok': True, 'sec': 0.33}
+{'d': 127, 'n': 126, 'NF': 126, 'P': 15750, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 31881, 'closed': 31881, 'dim_ok': True, 'sec': 0.64}
+{'d': 127, 'n': 127, 'NF': 15876, 'P': 15750, 'nfail': 15624, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 15624, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 252110505, 'closed': 252110505, 'dim_ok': True, 'sec': 0.59}
+{'d': 128, 'n': 2, 'NF': 0, 'P': 254, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 257, 'closed': 257, 'dim_ok': True, 'sec': 0.0}
+{'d': 128, 'n': 4, 'NF': 0, 'P': 508, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 511, 'closed': 511, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 128, 'n': 8, 'NF': 0, 'P': 1016, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1019, 'closed': 1019, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 128, 'n': 16, 'NF': 0, 'P': 2032, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 2035, 'closed': 2035, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 128, 'n': 32, 'NF': 0, 'P': 4064, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 4067, 'closed': 4067, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 128, 'n': 64, 'NF': 127, 'P': 8127, 'nfail': 368, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 24513, 'closed': 24513, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.03}
+{'d': 128, 'n': 127, 'NF': 127, 'P': 16002, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 32388, 'closed': 32388, 'dim_ok': True, 'sec': 1.11}
+{'d': 128, 'n': 128, 'NF': 16129, 'P': 16002, 'nfail': 18804, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 15876, 'swaps_in_KR': True, 'kappa': 2928, 'swapformula': True, 'dimHdg': 260211708, 'closed': 260211708, 'dim_ok': True, 'sec': 0.33}
+{'d': 129, 'n': 2, 'NF': 0, 'P': 256, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 259, 'closed': 259, 'dim_ok': True, 'sec': 0.0}
+{'d': 129, 'n': 3, 'NF': 0, 'P': 384, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 387, 'closed': 387, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 129, 'n': 4, 'NF': 0, 'P': 512, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 515, 'closed': 515, 'dim_ok': True, 'sec': 0.0}
+{'d': 129, 'n': 8, 'NF': 0, 'P': 1024, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 1027, 'closed': 1027, 'dim_ok': True, 'sec': 0.01}
+{'d': 129, 'n': 16, 'NF': 0, 'P': 2048, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 2051, 'closed': 2051, 'dim_ok': True, 'sec': 0.02}
+{'d': 129, 'n': 32, 'NF': 0, 'P': 4096, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 4099, 'closed': 4099, 'dim_ok': True, 'sec': 0.06}
+{'d': 129, 'n': 43, 'NF': 0, 'P': 5504, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 5507, 'closed': 5507, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 129, 'n': 64, 'NF': 0, 'P': 8192, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 8195, 'closed': 8195, 'dim_ok': True, 'sec': 0.2}
+{'d': 129, 'n': 128, 'NF': 128, 'P': 16256, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 32899, 'closed': 32899, 'dim_ok': True, 'sec': 0.77}
+{'d': 129, 'n': 129, 'NF': 16384, 'P': 16256, 'nfail': 17136, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 16128, 'swaps_in_KR': True, 'kappa': 1008, 'swapformula': True, 'dimHdg': 268501619, 'closed': 268501619, 'dim_ok': True, 'sec': 0.42}
+{'d': 130, 'n': 2, 'NF': 0, 'P': 258, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 261, 'closed': 261, 'dim_ok': True, 'sec': 0.0}
+{'d': 130, 'n': 3, 'NF': 0, 'P': 387, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 390, 'closed': 390, 'dim_ok': True, 'sec': 0.0}
+{'d': 130, 'n': 5, 'NF': 0, 'P': 645, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 648, 'closed': 648, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 130, 'n': 10, 'NF': 0, 'P': 1290, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1293, 'closed': 1293, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 130, 'n': 13, 'NF': 0, 'P': 1677, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 1680, 'closed': 1680, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 130, 'n': 26, 'NF': 0, 'P': 3354, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 3357, 'closed': 3357, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.01}
+{'d': 130, 'n': 43, 'NF': 0, 'P': 5547, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 5550, 'closed': 5550, 'dim_ok': True, 'sec': 0.11}
+{'d': 130, 'n': 65, 'NF': 129, 'P': 8384, 'nfail': 384, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 25286, 'closed': 25286, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.02}
+{'d': 130, 'n': 129, 'NF': 129, 'P': 16512, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 33414, 'closed': 33414, 'dim_ok': True, 'sec': 0.58}
+{'d': 130, 'n': 130, 'NF': 16641, 'P': 16512, 'nfail': 19408, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 16384, 'swaps_in_KR': True, 'kappa': 3024, 'swapformula': True, 'dimHdg': 276992086, 'closed': 276992086, 'dim_ok': True, 'sec': 0.27}
+DONE

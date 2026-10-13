@@ -1,0 +1,84 @@
+cyc20_0-1-11 d=10 i=1 p=50441 seed=1 narcs=8 order=3 small=False | dimA=21 dimB=52 |basis|=6 G=mu_20 w=(0, 1, 11) (reduction consistency check passed; setup 1.6s)
+W computed (1.6s)
+sigma=0 Delta=0 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=0 Delta=1 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=0 Delta=2 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=0 Delta=3 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=0 Delta=4 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=0 Delta=5 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=0 Delta=11 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=0 Delta=12 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=0 Delta=13 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=0 Delta=14 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=0 Delta=15 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=1 Delta=0 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=1 Delta=1 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=1 Delta=2 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=1 Delta=3 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=1 Delta=4 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=1 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=1 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=1  c-basis(last)=[[0, 1, 0]]
+sigma=1 Delta=10 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=1 Delta=11 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=1 Delta=12 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=1 Delta=13 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=1 Delta=14 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=6  c-basis(last)=[[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+sigma=1 Delta=19 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=2 Delta=0 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1, 0, 0, 1]]
+sigma=2 Delta=1 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=2 Delta=2 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=2 Delta=3 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=2 Delta=11 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=2 Delta=12 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=2 Delta=13 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=3 Delta=0 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1, 0, 0, 1]]
+sigma=3 Delta=1 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=3 Delta=2 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=3 Delta=10 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=3 Delta=11 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=3 Delta=12 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=3 Delta=19 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=4 Delta=0 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=49 V1o3=97 V3o2=1 V3o3=1
+sigma=4 Delta=1 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+sigma=4 Delta=11 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+sigma=5 Delta=0 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=49 V1o3=97 V3o2=1 V3o3=1
+sigma=5 Delta=10 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+sigma=5 Delta=19 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+sigma=11 Delta=0 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=11 Delta=1 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=11 Delta=2 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=11 Delta=3 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=11 Delta=4 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=1 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=1 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=1  c-basis(last)=[[0, 1, 0]]
+sigma=11 Delta=9 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=11 Delta=10 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=11 Delta=11 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=11 Delta=12 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=11 Delta=13 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=11 Delta=14 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=6  c-basis(last)=[[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+sigma=12 Delta=0 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1]]
+sigma=12 Delta=1 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=12 Delta=2 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=12 Delta=3 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=12 Delta=8 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=12 Delta=9 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=12 Delta=10 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=12 Delta=11 c 2x1 phibar 2x3 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0
+sigma=12 Delta=12 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=3 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=6  c-basis(last)=[[1, 0, 0], [0, 1, 0], [0, 0, 1]]
+sigma=12 Delta=13 c 3x1 phibar 1x3 | c-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | (c,phibar)-proj: o1=3 V1o2=3 V1o3=3 V3o2=3 V3o3=0 | full: o1=3 V1o2=19 V1o3=35 V3o2=6 V3o3=0
+sigma=12 Delta=19 c 1x1 phibar 3x3 | c-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0 | full: o1=1 V1o2=0 V1o3=0 V3o2=0 V3o3=0
+sigma=13 Delta=0 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1, 0, 0, 1]]
+sigma=13 Delta=1 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=13 Delta=2 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=13 Delta=9 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=13 Delta=10 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=13 Delta=11 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=13 Delta=12 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=14 Delta=0 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1  c-basis(last)=[[1, 0, 0, 1]]
+sigma=14 Delta=1 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=14 Delta=8 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=14 Delta=9 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=14 Delta=10 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=14 Delta=11 c 3x2 phibar 1x2 | c-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=2 V1o2=2 V1o3=2 V3o2=0 V3o3=0 | full: o1=2 V1o2=34 V1o3=66 V3o2=0 V3o3=0
+sigma=14 Delta=19 c 2x2 phibar 2x2 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0
+sigma=15 Delta=0 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=1 V3o3=1 | full: o1=1 V1o2=49 V1o3=97 V3o2=1 V3o3=1
+sigma=15 Delta=9 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+sigma=15 Delta=10 c 3x3 phibar 1x1 | c-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | (c,phibar)-proj: o1=1 V1o2=1 V1o3=1 V3o2=0 V3o3=0 | full: o1=1 V1o2=49 V1o3=97 V3o2=0 V3o3=0
+done 1.8s

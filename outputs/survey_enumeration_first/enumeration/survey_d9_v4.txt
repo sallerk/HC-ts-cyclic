@@ -1,0 +1,441 @@
+cyc1_000       d=9 |S|=55 moduli=46 |C|=9 |Gmax|=1 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=7s
+   Y orbits: rigid 0 pure 0 residual 2 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: no | Y Hodge dim: lb 8 ub None
+   C orbits: rigid 0 CM 0 residual 1 | End_Hdg(H^1(C_F)) dim: lb 1 ub 1 (decided)
+   a=0: lb 1 ub 1 residual 0/1 {'aut-IVHS': 1}
+   a=1: lb 1 ub None residual 1/1 {'residual': 1}
+   a=2: lb 1 ub None residual 1/1 {'residual': 1}
+   a=3: lb 1 ub None residual 1/1 {'residual': 1}
+   a=4: lb 1 ub None residual 1/1 {'residual': 1}
+   a=5: lb 1 ub None residual 1/1 {'residual': 1}
+   a=6: lb 1 ub None residual 1/1 {'residual': 1}
+   a=7: lb 1 ub None residual 1/1 {'residual': 1}
+   a=8: lb 1 ub None residual 1/1 {'residual': 1}
+   residual orbit 0 (w1): (0,0)[28, 28]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,0)[0, 36, 21] (7,0)[0, 42, 15] (5,0)[3, 48, 6] (4,0)[6, 48, 3] (2,0)[15, 42, 0] (1,0)[21, 36, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 2 (w2): (6,0)[1, 46, 10] (3,0)[10, 46, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   RES a=1 (1,0)[21, 36, 0] -> (1,0)[21, 36, 0] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=2 (2,0)[15, 42, 0] -> (2,0)[15, 42, 0] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=3 (3,0)[10, 46, 1] -> (3,0)[10, 46, 1] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=4 (4,0)[6, 48, 3] -> (4,0)[6, 48, 3] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=5 (5,0)[3, 48, 6] -> (5,0)[3, 48, 6] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=6 (6,0)[1, 46, 10] -> (6,0)[1, 46, 10] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=7 (7,0)[0, 42, 15] -> (7,0)[0, 42, 15] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=8 (8,0)[0, 36, 21] -> (8,0)[0, 36, 21] cls=['residual', 'residual'] lb=1 ub1=None : automorphism block with non-rigid side (stabilizer span 1)
+cyc2_001       d=9 |S|=30 moduli=25 |C|=18 |Gmax|=2 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=9s
+   Y orbits: rigid 0 pure 0 residual 4 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 16 ub 16
+   C orbits: rigid 0 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 2 ub 2 (decided)
+   a=0: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=1: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=2: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=3: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=4: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=5: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=6: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=7: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   a=8: lb 2 ub 2 residual 0/4 {'aut-IVHS': 2, 'zero-IVHS': 2}
+   residual orbit 0 (w1): (0,0)[12, 12]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,1)[0, 20, 12] (4,1)[4, 26, 2] (2,1)[9, 23, 0] (7,1)[0, 23, 9] (5,1)[2, 26, 4] (1,1)[12, 20, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 2 (w2): (7,0)[0, 19, 6] (5,0)[1, 22, 2] (1,0)[9, 16, 0] (8,0)[0, 16, 9] (4,0)[2, 22, 1] (2,0)[6, 19, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 3 (w2): (6,1)[1, 25, 6] (3,1)[6, 25, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 4 (w2): (3,0)[4, 21, 0] (6,0)[0, 21, 4]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 5 (w1): (0,1)[16, 16]  why: no embedding with h_top in {1,2}
+cyc2_011       d=9 |S|=25  not smooth (3 random members singular mod p)
+cyc3_001       d=9 |S|=22 moduli=17 |C|=27 |Gmax|=3 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=3s
+   Y orbits: rigid 1 pure 0 residual 5 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 24 ub 24
+   C orbits: rigid 0 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 3 ub 3 (decided)
+   a=0: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=1: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   a=2: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   a=3: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=4: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   a=5: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   a=6: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=7: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   a=8: lb 3 ub 3 residual 0/9 {'aut-IVHS': 2, 'zero-IVHS': 6, 'aut': 1}
+   residual orbit 0 (w1): (0,0)[7, 7]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,1)[0, 15, 7] (7,2)[0, 15, 7] (5,1)[2, 18, 2] (4,2)[2, 18, 2] (2,1)[7, 15, 0] (1,2)[7, 15, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 2 (w2): (6,0)[0, 13, 2] (3,0)[2, 13, 0]  why: R1 tests failed ns1=0
+   residual orbit 4 (w2): (7,1)[0, 16, 5] (4,1)[3, 17, 1] (1,1)[9, 12, 0] (5,2)[1, 17, 3] (2,2)[5, 16, 0] (8,2)[0, 12, 9]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 5 (w2): (6,2)[0, 16, 5] (3,1)[5, 16, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 6 (w2): (3,2)[3, 17, 1] (6,1)[1, 17, 3]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 7 (w1): (0,2)[9, 12] (0,1)[12, 9]  why: no embedding with h_top in {1,2}
+cyc3_012       d=9 |S|=19 moduli=16 |C|=27 |Gmax|=3 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=2s
+   Y orbits: rigid 0 pure 0 residual 6 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 24 ub 24
+   C orbits: rigid 0 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 3 ub 3 (decided)
+   a=0: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=1: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=2: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=3: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=4: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=5: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=6: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=7: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   a=8: lb 3 ub 3 residual 0/9 {'aut-IVHS': 3, 'zero-IVHS': 6}
+   residual orbit 0 (w1): (0,0)[10, 10]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,2)[0, 12, 7] (7,1)[0, 14, 5] (5,2)[1, 16, 2] (4,1)[2, 16, 1] (2,2)[5, 14, 0] (1,1)[7, 12, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 2 (w2): (6,0)[1, 16, 4] (3,0)[4, 16, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 3 (w2): (8,1)[0, 12, 7] (5,1)[1, 16, 2] (2,1)[5, 14, 0] (7,2)[0, 14, 5] (4,2)[2, 16, 1] (1,2)[7, 12, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 4 (w2): (7,0)[0, 14, 5] (4,0)[2, 16, 1] (1,0)[7, 12, 0] (5,0)[1, 16, 2] (2,0)[5, 14, 0] (8,0)[0, 12, 7]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 5 (w2): (6,2)[0, 15, 3] (3,1)[3, 15, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 6 (w2): (3,2)[3, 15, 0] (6,1)[0, 15, 3]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 7 (w1): (0,2)[9, 9] (0,1)[9, 9]  why: no embedding with h_top in {1,2}
+cyc4_001       d=9 |S|=18 moduli=13 |C|=36 |Gmax|=4 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 2 pure 0 residual 4 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 32 ub 32
+   C orbits: rigid 0 CM 0 residual 3 | End_Hdg(H^1(C_F)) dim: lb 4 ub 4 (decided)
+   a=0: lb 4 ub 4 residual 0/16 {'aut-IVHS': 4, 'zero-IVHS': 12}
+   a=1: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   a=2: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=3: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=4: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=5: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   a=6: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=7: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=8: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   residual orbit 0 (w1): (0,0)[4, 4]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,1)[0, 12, 4] (4,1)[3, 13, 0] (2,3)[3, 13, 0] (7,3)[0, 10, 6] (5,1)[2, 13, 1] (1,1)[8, 8, 0] ...  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 2 (w2): (7,2)[0, 12, 4] (8,2)[0, 10, 6] (4,2)[2, 13, 1] (5,2)[1, 13, 2] (1,2)[6, 10, 0] (2,2)[4, 12, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 3 (w2): (6,3)[0, 12, 4] (3,3)[2, 13, 1] (6,1)[1, 13, 2] (3,1)[4, 12, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 5 (w2): (3,2)[3, 13, 0] (6,2)[0, 13, 3]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 6 (w1): (0,1)[10, 6] (0,3)[6, 10]  why: no embedding with h_top in {1,2}
+   residual orbit 8 (w1): (0,2)[8, 8]  why: no embedding with h_top in {1,2}
+cyc4_011       d=9 |S|=15  not smooth (3 random members singular mod p)
+cyc4_012       d=9 |S|=15 moduli=12 |C|=36 |Gmax|=4 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 2 pure 0 residual 4 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 32 ub 32
+   C orbits: rigid 0 CM 0 residual 3 | End_Hdg(H^1(C_F)) dim: lb 4 ub 4 (decided)
+   a=0: lb 4 ub 4 residual 0/16 {'aut-IVHS': 4, 'zero-IVHS': 12}
+   a=1: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=2: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   a=3: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=4: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   a=5: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=6: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   a=7: lb 4 ub 4 residual 0/16 {'aut-IVHS': 3, 'zero-IVHS': 12, 'aut': 1}
+   a=8: lb 4 ub 4 residual 0/16 {'aut': 1, 'zero-IVHS': 12, 'aut-IVHS': 3}
+   residual orbit 0 (w1): (0,0)[6, 6]  why: no embedding with h_top in {1,2}
+   residual orbit 2 (w2): (7,0)[0, 10, 3] (5,0)[1, 11, 1] (1,0)[5, 8, 0] (8,0)[0, 8, 5] (4,0)[1, 11, 1] (2,0)[3, 10, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 4 (w2): (3,0)[2, 11, 0] (6,0)[0, 11, 2]  why: R1 tests failed ns1=0
+   residual orbit 5 (w1): (0,2)[6, 6]  why: no embedding with h_top in {1,2}
+   residual orbit 6 (w2): (8,1)[0, 10, 6] (7,3)[0, 12, 4] (5,3)[1, 13, 2] (4,1)[2, 13, 1] (2,1)[4, 12, 0] (1,3)[6, 10, 0] ...  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 7 (w2): (6,1)[0, 13, 3] (3,3)[3, 13, 0] (6,3)[1, 12, 3] (3,1)[3, 12, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 8 (w1): (0,1)[8, 8] (0,3)[8, 8]  why: no embedding with h_top in {1,2}
+cyc4_013       d=9 |S|=13  not smooth (3 random members singular mod p)
+cyc5_001       d=9 |S|=15  singular at a coordinate point
+cyc5_011       d=9 |S|=7  singular at a coordinate point
+cyc5_012       d=9 |S|=11  singular at a coordinate point
+cyc5_014       d=9 |S|=11  singular at a coordinate point
+cyc6_001       d=9 |S|=14  singular at a coordinate point
+cyc6_011       d=9 |S|=8  singular at a coordinate point
+cyc6_012       d=9 |S|=10  singular at a coordinate point
+cyc6_013       d=9 |S|=10  singular at a coordinate point
+cyc6_014       d=9 |S|=12 moduli=9 |C|=54 |Gmax|=6 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 7 pure 0 residual 5 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 48 ub 48
+   C orbits: rigid 0 CM 0 residual 4 | End_Hdg(H^1(C_F)) dim: lb 6 ub 6 (decided)
+   a=0: lb 6 ub 6 residual 0/36 {'aut-IVHS': 6, 'zero-IVHS': 30}
+   a=1: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   a=2: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   a=3: lb 6 ub 6 residual 0/36 {'aut': 4, 'zero': 12, 'zero-IVHS': 18, 'aut-IVHS': 2}
+   a=4: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   a=5: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   a=6: lb 6 ub 6 residual 0/36 {'aut': 4, 'zero': 12, 'zero-IVHS': 18, 'aut-IVHS': 2}
+   a=7: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   a=8: lb 6 ub 6 residual 0/36 {'aut': 3, 'zero': 8, 'zero-IVHS': 22, 'aut-IVHS': 3}
+   residual orbit 0 (w1): (0,0)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 5 (w1): (0,3)[4, 4]  why: no embedding with h_top in {1,2}
+   residual orbit 6 (w2): (8,0)[0, 7, 3] (5,0)[1, 8, 1] (2,0)[3, 7, 0] (7,0)[0, 7, 3] (4,0)[1, 8, 1] (1,0)[3, 7, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 10 (w1): (0,2)[5, 4] (0,4)[4, 5]  why: no embedding with h_top in {1,2}
+   residual orbit 11 (w2): (7,1)[0, 9, 3] (4,1)[2, 9, 1] (1,1)[5, 7, 0] (5,5)[1, 9, 2] (2,5)[3, 9, 0] (8,5)[0, 7, 5]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 12 (w2): (6,5)[1, 9, 2] (3,1)[2, 9, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 13 (w2): (5,3)[1, 10, 1] (2,3)[4, 8, 0] (8,3)[0, 8, 4] (4,3)[1, 10, 1] (1,3)[4, 8, 0] (7,3)[0, 8, 4]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 14 (w2): (3,5)[3, 9, 0] (6,1)[0, 9, 3]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 15 (w1): (0,5)[7, 5] (0,1)[5, 7]  why: no embedding with h_top in {1,2}
+cyc6_015       d=9 |S|=9  singular at a coordinate point
+cyc7_001       d=9 |S|=13  singular at a coordinate point
+cyc7_011       d=9 |S|=9  singular at a coordinate point
+cyc7_012       d=9 |S|=8  singular at a coordinate point
+cyc7_013       d=9 |S|=8  singular at a coordinate point
+cyc7_016       d=9 |S|=9 moduli=6 |C|=63 |Gmax|=7 perms=['012'] hilbert_mismatch=0 primes=[30241, 31249] time=0s
+   Y orbits: rigid 2 pure 0 residual 2 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: no | Y Hodge dim: lb 56 ub 68
+   C orbits: rigid 0 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 7 ub 7 (decided)
+   a=0: lb 7 ub 7 residual 0/49 {'aut-IVHS': 7, 'zero-IVHS': 42}
+   a=1: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 36, 'zero-IVHS': 6, 'aut-IVHS': 1}
+   a=2: lb 7 ub 7 residual 0/49 {'aut-IVHS': 1, 'zero': 36, 'aut': 6, 'zero-IVHS': 6}
+   a=3: lb 7 ub 13 residual 6/49 {'aut': 6, 'residual': 6, 'zero': 36, 'aut-IVHS': 1}
+   a=4: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 36, 'zero-IVHS': 6, 'aut-IVHS': 1}
+   a=5: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 36, 'zero-IVHS': 6, 'aut-IVHS': 1}
+   a=6: lb 7 ub 13 residual 6/49 {'aut': 6, 'zero': 36, 'residual': 6, 'aut-IVHS': 1}
+   a=7: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 36, 'zero-IVHS': 6, 'aut-IVHS': 1}
+   a=8: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 36, 'zero-IVHS': 6, 'aut-IVHS': 1}
+   residual orbit 0 (w1): (0,0)[4, 4]  why: no embedding with h_top in {1,2}
+   residual orbit 3 (w2): (2,0)[3, 6, 0] (4,0)[2, 6, 1] (8,0)[0, 6, 3] (1,0)[3, 6, 0] (5,0)[1, 6, 2] (7,0)[0, 6, 3]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 4 (w1): (0,5)[4, 4] (0,3)[4, 4] (0,1)[4, 4] (0,6)[4, 4] (0,4)[4, 4] (0,2)[4, 4]  why: no embedding with h_top in {1,2}
+   residual orbit 5 (w2): (6,0)[1, 6, 2] (3,0)[2, 6, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   RES a=3 (3,1)[2, 6, 0] -> (3,6)[2, 6, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=3 (3,4)[1, 7, 0] -> (3,3)[1, 7, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=3 (3,2)[1, 7, 0] -> (3,5)[1, 7, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=6 (6,4)[0, 7, 1] -> (6,3)[0, 7, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=6 (6,2)[0, 7, 1] -> (6,5)[0, 7, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=6 (6,1)[0, 6, 2] -> (6,6)[0, 6, 2] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+cyc8_001       d=9 |S|=12 moduli=7 |C|=72 |Gmax|=8 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=0s
+   Y orbits: rigid 5 pure 2 residual 1 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 64 ub 64
+   C orbits: rigid 2 CM 0 residual 1 | End_Hdg(H^1(C_F)) dim: lb 7 ub 7 (decided)
+   a=0: lb 7 ub 7 residual 0/49 {'aut': 6, 'zero': 42, 'aut-IVHS': 1}
+   a=1: lb 8 ub 8 residual 0/64 {'NSxNS': 1, 'zero': 56, 'aut': 7}
+   a=2: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   a=3: lb 8 ub 8 residual 0/64 {'aut-IVHS': 2, 'zero': 46, 'NSxNS-res': 4, 'zero-IVHS': 6, 'aut': 5, 'NSxNS': 1}
+   a=4: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   a=5: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   a=6: lb 8 ub 8 residual 0/64 {'aut': 5, 'zero': 46, 'zero-IVHS': 6, 'aut-IVHS': 2, 'NSxNS-res': 4, 'NSxNS': 1}
+   a=7: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   a=8: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   residual orbit 4 (w2): (3,6)[0, 8, 0] (6,6)[0, 5, 3] (3,2)[3, 5, 0] (6,2)[0, 8, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 10 (w1): (0,4)[4, 4]  why: no embedding with h_top in {1,2}
+cyc8_011       d=9 |S|=10  not smooth (3 random members singular mod p)
+cyc8_012       d=9 |S|=8 moduli=5 |C|=72 |Gmax|=8 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 6 pure 0 residual 2 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 64 ub 64
+   C orbits: rigid 0 CM 0 residual 4 | End_Hdg(H^1(C_F)) dim: lb 8 ub 10 (ub = first order, [inf])
+   a=0: lb 8 ub 10 residual 2/64 {'aut-IVHS': 8, 'zero-IVHS': 54, 'residual': 2}
+   a=1: lb 8 ub 8 residual 0/64 {'aut-IVHS': 1, 'zero': 56, 'aut': 7}
+   a=2: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=3: lb 8 ub 8 residual 0/64 {'aut': 6, 'zero-IVHS': 10, 'zero': 46, 'aut-IVHS': 2}
+   a=4: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=5: lb 8 ub 8 residual 0/64 {'aut-IVHS': 1, 'zero': 56, 'aut': 7}
+   a=6: lb 8 ub 8 residual 0/64 {'aut-IVHS': 2, 'zero-IVHS': 10, 'zero': 46, 'aut': 6}
+   a=7: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=8: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   residual orbit 0 (w1): (0,0)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 3 (w2): (6,6)[0, 6, 0] (3,6)[2, 4, 0] (6,2)[0, 4, 2] (3,2)[0, 6, 0]  why: R1 tests failed ns1=0
+   residual orbit 4 (w2): (5,0)[0, 7, 0] (1,0)[3, 4, 0] (2,0)[2, 5, 0] (7,0)[0, 5, 2] (8,0)[0, 4, 3] (4,0)[0, 7, 0]  why: R1 tests failed ns1=0
+   residual orbit 6 (w1): (0,2)[3, 3] (0,6)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 8 (w1): (0,4)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 11 (w1): (0,1)[4, 4] (0,3)[4, 4] (0,5)[4, 4] (0,7)[4, 4]  why: no embedding with h_top in {1,2}
+   RES a=0 (0,2)[3, 3] -> (0,6)[3, 3] cls=['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+cyc8_013       d=9 |S|=7  not smooth (3 random members singular mod p)
+cyc8_014       d=9 |S|=9 moduli=6 |C|=72 |Gmax|=8 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=0s
+   Y orbits: rigid 7 pure 1 residual 0 | FULLY PROVED (Y) by R1-R3: YES, with IVHS closure: YES | Y Hodge dim: lb 94 ub 94
+   C orbits: rigid 2 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 8 ub 8 (decided)
+   a=0: lb 8 ub 8 residual 0/64 {'aut': 2, 'zero': 2, 'zero-IVHS': 54, 'aut-IVHS': 6}
+   a=1: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=2: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=3: lb 23 ub 23 residual 0/64 {'aut': 7, 'zero': 56, 'NSxNS': 1}
+   a=4: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=5: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=6: lb 23 ub 23 residual 0/64 {'NSxNS': 1, 'zero': 56, 'aut': 7}
+   a=7: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=8: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   residual orbit 8 (w1): (0,1)[5, 3] (0,5)[5, 3] (0,3)[3, 5] (0,7)[3, 5]  why: no embedding with h_top in {1,2}
+   residual orbit 11 (w1): (0,6)[4, 4] (0,2)[4, 4]  why: no embedding with h_top in {1,2}
+cyc8_015       d=9 |S|=8  not smooth (3 random members singular mod p)
+cyc8_016       d=9 |S|=8 moduli=5 |C|=72 |Gmax|=8 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=0s
+   Y orbits: rigid 6 pure 0 residual 2 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: no | Y Hodge dim: lb 64 ub 100
+   C orbits: rigid 0 CM 0 residual 4 | End_Hdg(H^1(C_F)) dim: lb 8 ub 8 (decided)
+   a=0: lb 8 ub 8 residual 0/64 {'aut-IVHS': 8, 'zero-IVHS': 56}
+   a=1: lb 8 ub 8 residual 0/64 {'aut-IVHS': 1, 'zero': 56, 'aut': 7}
+   a=2: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=3: lb 8 ub 26 residual 13/64 {'aut': 7, 'residual': 13, 'zero': 44}
+   a=4: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=5: lb 8 ub 8 residual 0/64 {'aut-IVHS': 1, 'zero': 56, 'aut': 7}
+   a=6: lb 8 ub 26 residual 13/64 {'aut': 7, 'residual': 13, 'zero': 44}
+   a=7: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   a=8: lb 8 ub 8 residual 0/64 {'aut': 7, 'zero': 56, 'aut-IVHS': 1}
+   residual orbit 0 (w1): (0,0)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 4 (w2): (5,0)[1, 5, 1] (1,0)[3, 4, 0] (2,0)[2, 5, 0] (7,0)[0, 5, 2] (8,0)[0, 4, 3] (4,0)[1, 5, 1]  why: R1 tests failed ns1=0
+   residual orbit 6 (w1): (0,6)[3, 3] (0,2)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 7 (w2): (6,0)[0, 6, 1] (3,0)[1, 6, 0]  why: R1 tests failed ns1=1
+   residual orbit 8 (w1): (0,4)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 11 (w1): (0,1)[4, 4] (0,7)[4, 4] (0,5)[4, 4] (0,3)[4, 4]  why: no embedding with h_top in {1,2}
+   RES a=3 (3,4)[1, 5, 0] -> (3,2)[1, 5, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+   RES a=3 (3,4)[1, 5, 0] -> (3,0)[1, 6, 0] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=3 (3,4)[1, 5, 0] -> (3,6)[1, 5, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+   RES a=3 (3,2)[1, 5, 0] -> (3,0)[1, 6, 0] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=3 (3,2)[1, 5, 0] -> (3,6)[1, 5, 0] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=3 (3,0)[1, 6, 0] -> (3,0)[1, 6, 0] cls=['residual', 'residual'] lb=1 ub1=7 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=3 (3,0)[1, 6, 0] -> (3,6)[1, 5, 0] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+   RES a=6 (6,2)[0, 5, 1] -> (6,0)[0, 6, 1] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=6 (6,2)[0, 5, 1] -> (6,6)[0, 5, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=6 (6,2)[0, 5, 1] -> (6,4)[0, 5, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+   RES a=6 (6,0)[0, 6, 1] -> (6,0)[0, 6, 1] cls=['residual', 'residual'] lb=1 ub1=7 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=6 (6,0)[0, 6, 1] -> (6,6)[0, 5, 1] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+   RES a=6 (6,0)[0, 6, 1] -> (6,4)[0, 5, 1] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+   RES a=6 (6,6)[0, 5, 1] -> (6,4)[0, 5, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+cyc8_017       d=9 |S|=7  not smooth (3 random members singular mod p)
+cyc9_001       d=9 |S|=11 moduli=6 |C|=81 |Gmax|=9 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=0s
+   Y orbits: rigid 9 pure 2 residual 1 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 568 ub 568
+   C orbits: rigid 2 CM 0 residual 0 | End_Hdg(H^1(C_F)) dim: lb 8 ub 8 (decided)
+   a=0: lb 8 ub 8 residual 0/64 {'aut': 8, 'zero': 56}
+   a=1: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 54, 'NSxNS-res': 2, 'aut': 6, 'aut-IVHS': 1}
+   a=2: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 54, 'NSxNS-res': 2, 'aut': 6, 'aut-IVHS': 1}
+   a=3: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 56, 'aut': 7}
+   a=4: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'NSxNS-res': 2, 'zero': 54, 'aut-IVHS': 1, 'aut': 6}
+   a=5: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 54, 'NSxNS-res': 2, 'aut': 6, 'aut-IVHS': 1}
+   a=6: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 56, 'aut': 7}
+   a=7: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'zero': 54, 'NSxNS-res': 2, 'aut': 6, 'aut-IVHS': 1}
+   a=8: lb 71 ub 71 residual 0/64 {'NSxNS': 1, 'NSxNS-res': 2, 'zero': 54, 'aut-IVHS': 1, 'aut': 6}
+   residual orbit 5 (w2): (4,4)[0, 7, 0] (8,8)[0, 1, 6] (7,7)[0, 3, 4] (2,2)[4, 3, 0] (1,1)[6, 1, 0] (5,5)[0, 7, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+cyc9_012       d=9 |S|=7 moduli=4 |C|=81 |Gmax|=9 perms=['012', '210'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 10 pure 0 residual 4 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 136 ub 136
+   C orbits: rigid 0 CM 0 residual 3 | End_Hdg(H^1(C_F)) dim: lb 17 ub 20 (ub = first order, [inf])
+   a=0: lb 17 ub 20 residual 1/81 {'residual': 1, 'zero-IVHS': 64, 'aut-IVHS': 16}
+   a=1: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero': 52, 'zero-IVHS': 12, 'aut': 12}
+   a=2: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero-IVHS': 12, 'zero': 52, 'aut': 12}
+   a=3: lb 17 ub 17 residual 0/81 {'aut': 16, 'zero': 64, 'aut-IVHS': 1}
+   a=4: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero-IVHS': 12, 'zero': 52, 'aut': 12}
+   a=5: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero-IVHS': 12, 'zero': 52, 'aut': 12}
+   a=6: lb 17 ub 17 residual 0/81 {'aut': 16, 'zero': 64, 'aut-IVHS': 1}
+   a=7: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero': 52, 'zero-IVHS': 12, 'aut': 12}
+   a=8: lb 17 ub 17 residual 0/81 {'aut-IVHS': 5, 'zero-IVHS': 12, 'zero': 52, 'aut': 12}
+   residual orbit 0 (w1): (0,0)[4, 4]  why: no embedding with h_top in {1,2}
+   residual orbit 1 (w2): (8,2)[0, 4, 3] (7,4)[0, 5, 2] (5,8)[0, 7, 0] (4,1)[0, 7, 0] (2,5)[2, 5, 0] (1,7)[3, 4, 0]  why: R1 tests failed ns1=0
+   residual orbit 3 (w2): (8,1)[0, 4, 3] (7,2)[0, 4, 3] (5,4)[1, 4, 2] (4,5)[2, 4, 1] (2,7)[3, 4, 0] (1,8)[3, 4, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 7 (w2): (4,0)[0, 7, 0] (8,0)[0, 4, 3] (7,0)[0, 5, 2] (2,0)[2, 5, 0] (1,0)[3, 4, 0] (5,0)[0, 7, 0]  why: R1 tests failed ns1=0
+   residual orbit 11 (w1): (0,8)[3, 3] (0,7)[3, 3] (0,5)[3, 3] (0,4)[3, 3] (0,2)[3, 3] (0,1)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 12 (w2): (6,3)[1, 4, 2] (3,6)[2, 4, 1]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 16 (w1): (0,6)[3, 3] (0,3)[3, 3]  why: no embedding with h_top in {1,2}
+   RES a=0 (0,0)[4, 4] -> (0,0)[4, 4] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+cyc9_013       d=9 |S|=8 moduli=5 |C|=81 |Gmax|=9 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=1s
+   Y orbits: rigid 12 pure 1 residual 1 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: YES | Y Hodge dim: lb 102 ub 102
+   C orbits: rigid 1 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 9 ub 9 (decided)
+   a=0: lb 9 ub 9 residual 0/81 {'aut-IVHS': 7, 'zero-IVHS': 72, 'aut': 2}
+   a=1: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero': 56, 'zero-IVHS': 16, 'aut-IVHS': 1}
+   a=2: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero': 56, 'zero-IVHS': 16, 'aut-IVHS': 1}
+   a=3: lb 24 ub 24 residual 0/81 {'aut': 8, 'zero': 72, 'NSxNS': 1}
+   a=4: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero': 56, 'zero-IVHS': 16, 'aut-IVHS': 1}
+   a=5: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero': 56, 'zero-IVHS': 16, 'aut-IVHS': 1}
+   a=6: lb 24 ub 24 residual 0/81 {'aut': 8, 'zero': 72, 'NSxNS': 1}
+   a=7: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero': 56, 'zero-IVHS': 16, 'aut-IVHS': 1}
+   a=8: lb 9 ub 9 residual 0/81 {'aut': 8, 'zero-IVHS': 16, 'zero': 56, 'aut-IVHS': 1}
+   residual orbit 0 (w1): (0,0)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 3 (w2): (8,1)[0, 5, 3] (7,2)[0, 5, 3] (5,4)[1, 6, 1] (4,5)[1, 6, 1] (2,7)[3, 5, 0] (1,8)[3, 5, 0]  why: no embedding with h_top in {1,2} and h02=0 ns1=0
+   residual orbit 11 (w1): (0,7)[4, 3] (0,5)[3, 4] (0,1)[4, 3] (0,8)[3, 4] (0,4)[4, 3] (0,2)[3, 4]  why: no embedding with h_top in {1,2}
+cyc10_001      d=9 |S|=10  exponents of rank < 3 (not smooth)
+cyc10_011      d=9 |S|=1  exponents of rank < 3 (not smooth)
+cyc10_012      d=9 |S|=6  singular at a coordinate point
+cyc10_013      d=9 |S|=5  singular at a coordinate point
+cyc10_014      d=9 |S|=6  singular at a coordinate point
+cyc10_015      d=9 |S|=7  singular at a coordinate point
+cyc10_016      d=9 |S|=4  singular at a coordinate point
+cyc10_018      d=9 |S|=6  singular at a coordinate point
+cyc10_019      d=9 |S|=5  exponents of rank < 3 (not smooth)
+cyc10_025      d=9 |S|=8  singular at a coordinate point
+cyc11_012      d=9 |S|=5  singular at a coordinate point
+cyc11_013      d=9 |S|=5  singular at a coordinate point
+cyc11_015      d=9 |S|=5  singular at a coordinate point
+cyc11_017      d=9 |S|=5  singular at a coordinate point
+cyc12_012      d=9 |S|=5  singular at a coordinate point
+cyc12_013      d=9 |S|=5  singular at a coordinate point
+cyc12_014      d=9 |S|=7 moduli=4 |C|=108 |Gmax|=12 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=2s
+   Y orbits: rigid 14 pure 2 residual 2 | FULLY PROVED (Y) by R1-R3: no, with IVHS closure: no | Y Hodge dim: lb 164 ub 218
+   C orbits: rigid 4 CM 0 residual 2 | End_Hdg(H^1(C_F)) dim: lb 12 ub 14 (ub = first order, [inf])
+   a=0: lb 12 ub 14 residual 2/144 {'aut': 6, 'zero': 30, 'zero-IVHS': 100, 'aut-IVHS': 6, 'residual': 2}
+   a=1: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   a=2: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   a=3: lb 46 ub 58 residual 2/144 {'NSxNS': 4, 'zero': 128, 'aut': 10, 'residual': 2}
+   a=4: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   a=5: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   a=6: lb 46 ub 58 residual 2/144 {'NSxNS': 4, 'zero': 128, 'aut': 10, 'residual': 2}
+   a=7: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   a=8: lb 12 ub 17 residual 3/144 {'aut': 10, 'zero': 114, 'zero-IVHS': 16, 'residual': 3, 'aut-IVHS': 1}
+   residual orbit 9 (w2): (8,0)[0, 3, 1] (5,0)[0, 4, 0] (2,0)[1, 3, 0] (7,0)[0, 3, 1] (4,0)[0, 4, 0] (1,0)[1, 3, 0]  why: R1 tests failed ns1=1
+   residual orbit 18 (w1): (0,5)[4, 2] (0,11)[3, 3] (0,1)[3, 3] (0,7)[2, 4]  why: R1 tests failed
+   residual orbit 20 (w2): (5,6)[1, 4, 1] (2,6)[2, 4, 0] (8,6)[0, 4, 2] (4,6)[1, 4, 1] (1,6)[2, 4, 0] (7,6)[0, 4, 2]  why: R1 tests failed ns1=0
+   residual orbit 23 (w1): (0,2)[3, 3] (0,10)[3, 3]  why: no embedding with h_top in {1,2}
+   RES a=0 (0,2)[3, 3] -> (0,10)[3, 3] cls=['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=1 (1,4)[1, 2, 0] -> (1,0)[1, 3, 0] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=1 (1,0)[1, 3, 0] -> (1,0)[1, 3, 0] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=2 (2,0)[1, 3, 0] -> (2,0)[1, 3, 0] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=2 (2,0)[1, 3, 0] -> (2,8)[1, 2, 0] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+   RES a=3 (3,2)[1, 5, 0] -> (3,10)[1, 5, 0] cls=['rigid', 'rigid'] lb=0 ub1=6 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=4 (4,4)[0, 3, 0] -> (4,0)[0, 4, 0] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=4 (4,0)[0, 4, 0] -> (4,0)[0, 4, 0] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=5 (5,0)[0, 4, 0] -> (5,0)[0, 4, 0] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=5 (5,0)[0, 4, 0] -> (5,8)[0, 3, 0] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+   RES a=6 (6,2)[0, 5, 1] -> (6,10)[0, 5, 1] cls=['rigid', 'rigid'] lb=0 ub1=6 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=7 (7,4)[0, 2, 1] -> (7,0)[0, 3, 1] cls=['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+   RES a=7 (7,0)[0, 3, 1] -> (7,0)[0, 3, 1] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=8 (8,0)[0, 3, 1] -> (8,0)[0, 3, 1] cls=['residual', 'residual'] lb=1 ub1=4 : automorphism block with non-rigid side (stabilizer span 1)
+   RES a=8 (8,0)[0, 3, 1] -> (8,8)[0, 2, 1] cls=['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+cyc12_015      d=9 |S|=5  singular at a coordinate point
+cyc12_016      d=9 |S|=7  singular at a coordinate point
+cyc12_017      d=9 |S|=4  singular at a coordinate point
+cyc12_018      d=9 |S|=6  singular at a coordinate point
+cyc12_019      d=9 |S|=6  singular at a coordinate point
+cyc12_0-1-10   d=9 |S|=6  singular at a coordinate point
+cyc12_023      d=9 |S|=6  singular at a coordinate point
+cyc13_012      d=9 |S|=4  singular at a coordinate point
+cyc13_013      d=9 |S|=4  singular at a coordinate point
+cyc13_014      d=9 |S|=4  singular at a coordinate point
+cyc13_015      d=9 |S|=4  singular at a coordinate point
+cyc13_016      d=9 |S|=5  singular at a coordinate point
+cyc14_012      d=9 |S|=4  singular at a coordinate point
+cyc14_013      d=9 |S|=3  singular at a coordinate point
+cyc14_014      d=9 |S|=4  singular at a coordinate point
+cyc14_016      d=9 |S|=5  singular at a coordinate point
+cyc14_017      d=9 |S|=6  singular at a coordinate point
+cyc14_018      d=9 |S|=5  singular at a coordinate point
+cyc14_019      d=9 |S|=4  singular at a coordinate point
+cyc14_0-1-10   d=9 |S|=4  singular at a coordinate point
+cyc14_0-1-12   d=9 |S|=5  singular at a coordinate point
+cyc14_027      d=9 |S|=7  singular at a coordinate point
+cyc15_012      d=9 |S|=3  singular at a coordinate point
+cyc15_013      d=9 |S|=4  singular at a coordinate point
+cyc15_014      d=9 |S|=4  singular at a coordinate point
+cyc15_015      d=9 |S|=5  singular at a coordinate point
+cyc15_016      d=9 |S|=3  singular at a coordinate point
+cyc15_017      d=9 |S|=5  singular at a coordinate point
+cyc15_019      d=9 |S|=4  singular at a coordinate point
+cyc15_0-1-10   d=9 |S|=6  singular at a coordinate point
+cyc15_0-1-11   d=9 |S|=3  singular at a coordinate point
+cyc15_0-1-12   d=9 |S|=5  singular at a coordinate point
+cyc16_012      d=9 |S|=3  singular at a coordinate point
+cyc16_013      d=9 |S|=3  singular at a coordinate point
+cyc16_014      d=9 |S|=4  singular at a coordinate point
+cyc16_015      d=9 |S|=4  singular at a coordinate point
+cyc16_016      d=9 |S|=4  singular at a coordinate point
+cyc16_017      d=9 |S|=3  exponents of rank < 3 (not smooth)
+cyc16_018      d=9 |S|=6 moduli=3 |C|=144 |Gmax|=16 perms=['012'] hilbert_mismatch=0 primes=[30097, 30241] time=0s
+   Y orbits: rigid 6 pure 2 residual 0 | FULLY PROVED (Y) by R1-R3: YES, with IVHS closure: YES | Y Hodge dim: lb 120 ub 120
+   C orbits: rigid 3 CM 0 residual 0 | End_Hdg(H^1(C_F)) dim: lb 14 ub 20 (ub = first order, [inf])
+   a=0: lb 14 ub 20 residual 6/196 {'aut': 14, 'zero': 176, 'residual': 6}
+   a=1: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=2: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=3: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=4: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=5: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=6: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=7: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   a=8: lb 15 ub 15 residual 0/225 {'NSxNS': 1, 'zero': 210, 'aut': 14}
+   RES a=0 (0,10)[3, 1] -> (0,2)[3, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=0 (0,12)[2, 2] -> (0,4)[2, 2] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=0 (0,14)[1, 3] -> (0,6)[1, 3] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+cyc16_019      d=9 |S|=5  singular at a coordinate point
+cyc16_0-1-10   d=9 |S|=4  singular at a coordinate point
+cyc16_0-1-12   d=9 |S|=5  singular at a coordinate point
+cyc16_0-1-14   d=9 |S|=5  singular at a coordinate point
+cyc17_012      d=9 |S|=2  exponents of rank < 3 (not smooth)
+cyc17_013      d=9 |S|=3  singular at a coordinate point
+cyc17_014      d=9 |S|=3  singular at a coordinate point
+cyc17_015      d=9 |S|=3  singular at a coordinate point
+cyc17_018      d=9 |S|=4  exponents of rank < 3 (not smooth)
+cyc17_0-1-10   d=9 |S|=4  singular at a coordinate point
+cyc17_0-1-11   d=9 |S|=4  singular at a coordinate point
+cyc18_012      d=9 |S|=2  exponents of rank < 3 (not smooth)
+cyc18_013      d=9 |S|=3  singular at a coordinate point
+cyc18_014      d=9 |S|=4  singular at a coordinate point
+cyc18_015      d=9 |S|=3  singular at a coordinate point
+cyc18_016      d=9 |S|=5  singular at a coordinate point
+cyc18_017      d=9 |S|=3  singular at a coordinate point
+cyc18_018      d=9 |S|=4  singular at a coordinate point
+cyc18_019      d=9 |S|=5  exponents of rank < 3 (not smooth)
+cyc18_0-1-10   d=9 |S|=6 moduli=3 |C|=162 |Gmax|=18 perms=['012'] hilbert_mismatch=0 primes=[30097, 30169] time=0s
+   Y orbits: rigid 20 pure 4 residual 0 | FULLY PROVED (Y) by R1-R3: YES, with IVHS closure: YES | Y Hodge dim: lb 624 ub 624
+   C orbits: rigid 4 CM 0 residual 0 | End_Hdg(H^1(C_F)) dim: lb 16 ub 16 (decided)
+   a=0: lb 16 ub 16 residual 0/256 {'aut': 16, 'zero': 240}
+   a=1: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=2: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=3: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=4: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=5: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=6: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=7: lb 78 ub 78 residual 0/256 {'aut': 14, 'zero': 238, 'NSxNS': 4}
+   a=8: lb 78 ub 78 residual 0/256 {'NSxNS': 4, 'zero': 238, 'aut': 14}
+cyc18_0-1-15   d=9 |S|=4  singular at a coordinate point
+cyc18_0-1-16   d=9 |S|=5  singular at a coordinate point

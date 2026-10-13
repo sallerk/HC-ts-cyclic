@@ -1,0 +1,22 @@
+test prime 100049 primes for (d,n)=(10,20): [100361, 100801]
+[koszul] cyc2_001 d6: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 105 vs 105, h20(a,chi) = h02(-a,-chi): True THEOREM_U h20/h02 formula: True -> PASS (0.1s)
+[koszul] cyc4_013 d6: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 105 vs 105, h20(a,chi) = h02(-a,-chi): True  -> PASS (0.0s)
+[koszul] cyc8_013 d8: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 301 vs 301, h20(a,chi) = h02(-a,-chi): True  -> PASS (0.1s)
+[koszul] cyc3_012 d8: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 301 vs 301, h20(a,chi) = h02(-a,-chi): True  -> PASS (0.1s)
+[koszul] cyc5_001 d6: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 105 vs 105, h20(a,chi) = h02(-a,-chi): True THEOREM_U h20/h02 formula: True -> PASS (0.0s)
+[koszul] cyc20_0-1-11 d10: smooth after 0 redraws (Hilbert = Koszul for e <= 3d-5), sum dim = 657 vs 657, h20(a,chi) = h02(-a,-chi): True  -> PASS (0.1s)
+[taylor] cyc4_013 d6: 8 pieces, arc (1+t)F: W_k = binom(a/d-1,k) w_P: True; arcs x_i->(1+t)x_i: W_k = binom(-(b_i+1),k) w_P: True -> PASS
+[taylor] cyc8_013 d8: 26 pieces, arc (1+t)F: W_k = binom(a/d-1,k) w_P: True; arcs x_i->(1+t)x_i: W_k = binom(-(b_i+1),k) w_P: True -> PASS
+[taylor] cyc5_012 d10: 29 pieces, arc (1+t)F: W_k = binom(a/d-1,k) w_P: True; arcs x_i->(1+t)x_i: W_k = binom(-(b_i+1),k) w_P: True -> PASS
+[commutant] cyc2_001 d6: non-pure pieces 9, commutant dims [1] -> PASS
+[commutant] cyc3_001 d7: non-pure pieces 16, commutant dims [1] -> PASS
+[curve] cyc9_013 d7: planes [(2, (7, 0, 0), 7)]; (1, 0) h=(1, 2, 0) delta=1 comm=3 hull=2; (2, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (3, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (4, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (5, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (6, 0) h=(0, 2, 1) delta=1 comm=3 hull=None -> PASS
+[curve] cyc12_015 d8: planes [(1, (8, 0, 0), 8), (2, (8, 0, 0), 8)]; (1, 0) h=(1, 4, 0) delta=2 comm=9 hull=3; (2, 0) h=(1, 4, 0) delta=2 comm=9 hull=3; (3, 0) h=(1, 4, 0) delta=2 comm=9 hull=3; (4, 0) h=(0, 3, 0) delta=2 comm=9 hull=None; (5, 0) h=(0, 4, 1) delta=2 comm=9 hull=None; (6, 0) h=(0, 4, 1) delta=2 comm=9 hull=None; (7, 0) h=(0, 4, 1) delta=2 comm=9 hull=None -> PASS
+[curve] cyc8_016 d9: planes [(0, (0, 6, 3), 3)]; (3, 0) h=(1, 6, 0) delta=1 comm=7 hull=6; (6, 0) h=(0, 6, 1) delta=1 comm=7 hull=None -> PASS
+[curve] cyc12_014 d9: planes [(2, (9, 0, 0), 9)]; (1, 0) h=(1, 3, 0) delta=1 comm=4 hull=3; (2, 0) h=(1, 3, 0) delta=1 comm=4 hull=3; (3, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (4, 0) h=(0, 4, 0) delta=1 comm=16 hull=None; (5, 0) h=(0, 4, 0) delta=1 comm=16 hull=None; (6, 0) h=(0, 3, 0) delta=1 comm=9 hull=None; (7, 0) h=(0, 3, 1) delta=1 comm=4 hull=None; (8, 0) h=(0, 3, 1) delta=1 comm=4 hull=None -> PASS
+[jtest] cyc8_013 d6: J(x,x) = [((1, 0), 9), ((1, 2), 1), ((1, 4), 1), ((1, 5), 1)]; perms [((0, 2, 1), True, True)]; |H|,|Gamma img| = (48, 48)
+   automorphism pair (1, 2)->(1, 6): J = 1  (expected >= 1)
+[jtest] cyc5_014 d6: J(x,x) = [((1, 0), 1), ((1, 1), 1), ((1, 2), 1), ((1, 3), 1)]; perms [((0, 2, 1), True, True)]; |H|,|Gamma img| = (30, 30)
+   automorphism pair (1, 1)->(1, 4): J = 1  (expected >= 1)
+[L4p] cyc3_012 d8 (piece, h, L4p, comm): [((3, 0), (2, 12, 1), True, 1), ((3, 1), (2, 12, 0), True, 1), ((3, 2), (2, 12, 0), True, 1)]
+FAILS 0

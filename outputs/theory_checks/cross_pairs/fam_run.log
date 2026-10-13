@@ -1,0 +1,21 @@
+half-families checked for d in [6,400] even: 198 pairs, bad so far 0
+sporadic families checked up to d=400: 38 pairs, bad so far 0
+m345 fail 18 6 3 unordered failing pairs = 20
+m345 fail 24 6 4 unordered failing pairs = 12
+m345 fail 36 12 3 unordered failing pairs = 28
+m345 fail 48 12 4 unordered failing pairs = 12
+m345 fail 54 18 3 unordered failing pairs = 20
+m345 fail 72 24 3 unordered failing pairs = 36
+m345 fail 72 18 4 unordered failing pairs = 18
+m345 fail 90 30 3 unordered failing pairs = 36
+m345 fail 96 24 4 unordered failing pairs = 12
+m345 fail 108 36 3 unordered failing pairs = 28
+m345 fail 120 30 4 unordered failing pairs = 28
+m345 fail 126 42 3 unordered failing pairs = 20
+m345 fail 144 48 3 unordered failing pairs = 36
+m345 fail 144 36 4 unordered failing pairs = 18
+m345 fail 162 54 3 unordered failing pairs = 20
+m345 fail 168 42 4 unordered failing pairs = 12
+m345 fail 180 60 3 unordered failing pairs = 60
+m in {3,4,5} classes checked for d <= 180: 138 pairs (d,n)
+# DONE bad=0

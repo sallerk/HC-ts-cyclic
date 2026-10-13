@@ -1,0 +1,25 @@
+cyc4_012       d=7 |S|=10 moduli=7 |C|=28 |Gmax|=4 perms=['012'] hilbert_mismatch=0 primes=[30241, 30577] time=0s
+   Y orbits: rigid 3 pure 0 residual 0 | FULLY PROVED (Y) by R1-R3: YES, with IVHS closure: YES | Y Hodge dim: lb 24 ub 24
+   C orbits: rigid 0 CM 0 residual 3 | End_Hdg(H^1(C_F)) dim: lb 4 ub 4 (decided)
+   a=0: lb 4 ub 4 residual 0/16 {'aut-IVHS': 4, 'zero-IVHS': 12} ub1-check galmin 4 raw 4
+   a=1: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 4
+   a=2: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 6
+   a=3: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 146
+   a=4: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 146
+   a=5: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 6
+   a=6: lb 4 ub 4 residual 0/16 {'aut': 4, 'zero': 12} ub1-check galmin 4 raw 4
+   residual orbit 0 (w1): (0,0)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 3 (w1): (0,2)[3, 3]  why: no embedding with h_top in {1,2}
+   residual orbit 5 (w1): (0,1)[4, 5] (0,3)[5, 4]  why: no embedding with h_top in {1,2}
+cyc12_016      d=7 |S|=5 moduli=2 |C|=84 |Gmax|=12 perms=['012'] hilbert_mismatch=0 primes=[30241, 30577] time=0s
+   Y orbits: rigid 4 pure 1 residual 0 | FULLY PROVED (Y) by R1-R3: YES, with IVHS closure: YES | Y Hodge dim: lb 66 ub 66
+   C orbits: rigid 4 CM 0 residual 0 | End_Hdg(H^1(C_F)) dim: lb 10 ub 14 (ub = first order, [inf])
+   a=0: lb 10 ub 14 residual 4/100 {'aut': 10, 'zero': 86, 'residual': 4} ub1-check galmin 14 raw 154
+   a=1: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 259
+   a=2: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 425
+   a=3: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 535
+   a=4: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 535
+   a=5: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 425
+   a=6: lb 11 ub 11 residual 0/121 {'NSxNS': 1, 'zero': 110, 'aut': 10} ub1-check galmin 11 raw 259
+   RES a=0 (0,8)[2, 1] -> (0,2)[2, 1] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+   RES a=0 (0,10)[1, 2] -> (0,4)[1, 2] cls=['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism

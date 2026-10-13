@@ -1,0 +1,125 @@
+====================================================================================================
+cyc12_017: d=6, G=Z/12, weights (0,1,7); decomposable=True; H monomials [(1, 5), (3, 3), (5, 1)]
+V_chi (h10,h01) in H^1(C_H): {1: (0, 2), 2: (0, 2), 3: (1, 1), 4: (1, 1), 5: (2, 0), 7: (0, 2), 8: (1, 1), 9: (1, 1), 10: (2, 0), 11: (2, 0)}
+genus check: sum h10 = 10  expected (d-1)(d-2)/2 = 10
+dictionary check, all (a,chi): OK
+  a=1 pieces: (a,chi) Y-hodge  L=(a0,a,a2)  V=(h10,h01)
+    (1, 0, [0, 3, 0], None, 'lines', True)
+    (1, 1, [0, 2, 0], (4, 1, 1), (0, 2), True)
+    (1, 2, [0, 2, 0], (3, 1, 2), (0, 2), True)
+    (1, 3, [1, 1, 0], (2, 1, 3), (1, 1), True)
+    (1, 4, [1, 1, 0], (1, 1, 4), (1, 1), True)
+    (1, 6, [0, 2, 0], None, 'lines', True)
+    (1, 7, [0, 2, 0], (4, 1, 1), (0, 2), True)
+    (1, 8, [1, 1, 0], (3, 1, 2), (1, 1), True)
+    (1, 9, [1, 1, 0], (2, 1, 3), (1, 1), True)
+    (1, 10, [2, 0, 0], (1, 1, 4), (2, 0), True)
+det-line candidates (a,chi)->(a,-chi), V_chi rank 2 sig (1,1):
+    (1,3)->(1,9) L (2, 1, 3)->(2, 1, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (1,4)->(1,8) L (1, 1, 4)->(3, 1, 2) sameL=False HODGE=True [L-part alone True, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[0, 0, 0, 0]
+    (1,8)->(1,4) L (3, 1, 2)->(1, 1, 4) sameL=False HODGE=True [L-part alone True, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[0, 0, 0, 0]
+    (1,9)->(1,3) L (2, 1, 3)->(2, 1, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (2,3)->(2,9) L (1, 2, 3)->(1, 2, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (2,9)->(2,3) L (1, 2, 3)->(1, 2, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (3,4)->(3,8) L (5, 3, 4)->(1, 3, 2) sameL=False HODGE=False [L-part alone False, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[1, -1, 1, -1]
+    (3,8)->(3,4) L (1, 3, 2)->(5, 3, 4) sameL=False HODGE=False [L-part alone False, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[-1, 1, -1, 1]
+    (4,3)->(4,9) L (5, 4, 3)->(5, 4, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (4,9)->(4,3) L (5, 4, 3)->(5, 4, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (5,3)->(5,9) L (4, 5, 3)->(4, 5, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+    (5,4)->(5,8) L (3, 5, 4)->(5, 5, 2) sameL=False HODGE=True [L-part alone True, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[0, 0, 0, 0]
+    (5,8)->(5,4) L (5, 5, 2)->(3, 5, 4) sameL=False HODGE=True [L-part alone True, V-part alone True] ord(chi)=3 lcm(d,ord)=6 p_t=[0, 0, 0, 0]
+    (5,9)->(5,3) L (4, 5, 3)->(4, 5, 3) sameL=True HODGE=True [L-part alone True, V-part alone True] ord(chi)=4 lcm(d,ord)=12 p_t=[0, 0, 0, 0]
+constant-CM pieces (whole Galois orbit definite): [(1, 1), (1, 2), (1, 7), (1, 10), (2, 1), (2, 2), (2, 5), (2, 7), (2, 11), (3, 1), (3, 2), (3, 5), (3, 7), (3, 10), (3, 11), (4, 1), (4, 5), (4, 7), (4, 10), (4, 11), (5, 2), (5, 5), (5, 10), (5, 11)]
+  Hodge blocks among them (s, t, dim): [((1, 1), (1, 1), 4), ((1, 1), (1, 2), 4), ((1, 1), (1, 7), 4), ((1, 2), (1, 1), 4), ((1, 2), (1, 2), 4), ((1, 2), (1, 7), 4), ((1, 7), (1, 1), 4), ((1, 7), (1, 2), 4), ((1, 7), (1, 7), 4), ((1, 10), (1, 10), 4), ((2, 1), (2, 1), 4), ((2, 1), (2, 2), 4), ((2, 1), (2, 5), 4), ((2, 1), (2, 7), 4), ((2, 1), (2, 11), 4), ((2, 2), (2, 1), 4), ((2, 2), (2, 2), 4), ((2, 2), (2, 5), 4), ((2, 2), (2, 7), 4), ((2, 2), (2, 11), 4), ((2, 5), (2, 1), 4), ((2, 5), (2, 2), 4), ((2, 5), (2, 5), 4), ((2, 5), (2, 7), 4), ((2, 5), (2, 11), 4), ((2, 7), (2, 1), 4), ((2, 7), (2, 2), 4), ((2, 7), (2, 5), 4), ((2, 7), (2, 7), 4), ((2, 7), (2, 11), 4), ((2, 11), (2, 1), 4), ((2, 11), (2, 2), 4), ((2, 11), (2, 5), 4), ((2, 11), (2, 7), 4), ((2, 11), (2, 11), 4), ((3, 1), (3, 1), 4), ((3, 1), (3, 2), 4), ((3, 1), (3, 5), 4), ((3, 1), (3, 7), 4), ((3, 1), (3, 10), 4), ((3, 1), (3, 11), 4), ((3, 2), (3, 1), 4), ((3, 2), (3, 2), 4), ((3, 2), (3, 5), 4), ((3, 2), (3, 7), 4), ((3, 2), (3, 10), 4), ((3, 2), (3, 11), 4), ((3, 5), (3, 1), 4), ((3, 5), (3, 2), 4), ((3, 5), (3, 5), 4), ((3, 5), (3, 7), 4), ((3, 5), (3, 10), 4), ((3, 5), (3, 11), 4), ((3, 7), (3, 1), 4), ((3, 7), (3, 2), 4), ((3, 7), (3, 5), 4), ((3, 7), (3, 7), 4), ((3, 7), (3, 10), 4), ((3, 7), (3, 11), 4), ((3, 10), (3, 1), 4), ((3, 10), (3, 2), 4), ((3, 10), (3, 5), 4), ((3, 10), (3, 7), 4), ((3, 10), (3, 10), 4), ((3, 10), (3, 11), 4), ((3, 11), (3, 1), 4), ((3, 11), (3, 2), 4), ((3, 11), (3, 5), 4), ((3, 11), (3, 7), 4), ((3, 11), (3, 10), 4), ((3, 11), (3, 11), 4), ((4, 1), (4, 1), 4), ((4, 1), (4, 5), 4), ((4, 1), (4, 7), 4), ((4, 1), (4, 10), 4), ((4, 1), (4, 11), 4), ((4, 5), (4, 1), 4), ((4, 5), (4, 5), 4), ((4, 5), (4, 7), 4), ((4, 5), (4, 10), 4), ((4, 5), (4, 11), 4), ((4, 7), (4, 1), 4), ((4, 7), (4, 5), 4), ((4, 7), (4, 7), 4), ((4, 7), (4, 10), 4), ((4, 7), (4, 11), 4), ((4, 10), (4, 1), 4), ((4, 10), (4, 5), 4), ((4, 10), (4, 7), 4), ((4, 10), (4, 10), 4), ((4, 10), (4, 11), 4), ((4, 11), (4, 1), 4), ((4, 11), (4, 5), 4), ((4, 11), (4, 7), 4), ((4, 11), (4, 10), 4), ((4, 11), (4, 11), 4), ((5, 2), (5, 2), 4), ((5, 5), (5, 5), 4), ((5, 5), (5, 10), 4), ((5, 5), (5, 11), 4), ((5, 10), (5, 5), 4), ((5, 10), (5, 10), 4), ((5, 10), (5, 11), 4), ((5, 11), (5, 5), 4), ((5, 11), (5, 10), 4), ((5, 11), (5, 11), 4)]
+====================================================================================================
+cyc14_018: d=7, G=Z/14, weights (0,1,8); decomposable=True; H monomials [(0, 7), (2, 5), (4, 3), (6, 1)]
+V_chi (h10,h01) in H^1(C_H): {1: (0, 3), 2: (0, 2), 3: (1, 2), 4: (1, 1), 5: (2, 1), 6: (2, 0), 8: (0, 2), 9: (1, 2), 10: (1, 1), 11: (2, 1), 12: (2, 0), 13: (3, 0)}
+genus check: sum h10 = 15  expected (d-1)(d-2)/2 = 15
+dictionary check, all (a,chi): OK
+  a=1 pieces: (a,chi) Y-hodge  L=(a0,a,a2)  V=(h10,h01)
+    (1, 0, [0, 3, 0], None, 'lines', True)
+    (1, 1, [0, 3, 0], (5, 1, 1), (0, 3), True)
+    (1, 2, [0, 2, 0], (4, 1, 2), (0, 2), True)
+    (1, 3, [1, 2, 0], (3, 1, 3), (1, 2), True)
+    (1, 4, [1, 1, 0], (2, 1, 4), (1, 1), True)
+    (1, 5, [2, 1, 0], (1, 1, 5), (2, 1), True)
+    (1, 7, [0, 3, 0], None, 'lines', True)
+    (1, 8, [0, 2, 0], (5, 1, 1), (0, 2), True)
+    (1, 9, [1, 2, 0], (4, 1, 2), (1, 2), True)
+    (1, 10, [1, 1, 0], (3, 1, 3), (1, 1), True)
+    (1, 11, [2, 1, 0], (2, 1, 4), (2, 1), True)
+    (1, 12, [2, 0, 0], (1, 1, 5), (2, 0), True)
+det-line candidates (a,chi)->(a,-chi), V_chi rank 2 sig (1,1):
+    (1,4)->(1,10) L (2, 1, 4)->(3, 1, 3) sameL=False HODGE=True [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 0, 0, 0, 0, 0]
+    (1,10)->(1,4) L (3, 1, 3)->(2, 1, 4) sameL=False HODGE=True [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 0, 0, 0, 0, 0]
+    (2,4)->(2,10) L (1, 2, 4)->(2, 2, 3) sameL=False HODGE=False [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, -1, 0, 0, 1, 0]
+    (2,10)->(2,4) L (2, 2, 3)->(1, 2, 4) sameL=False HODGE=False [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 1, 0, 0, -1, 0]
+    (5,4)->(5,10) L (5, 5, 4)->(6, 5, 3) sameL=False HODGE=False [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, -1, 0, 0, 1, 0]
+    (5,10)->(5,4) L (6, 5, 3)->(5, 5, 4) sameL=False HODGE=False [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 1, 0, 0, -1, 0]
+    (6,4)->(6,10) L (4, 6, 4)->(5, 6, 3) sameL=False HODGE=True [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 0, 0, 0, 0, 0]
+    (6,10)->(6,4) L (5, 6, 3)->(4, 6, 4) sameL=False HODGE=True [L-part alone False, V-part alone False] ord(chi)=7 lcm(d,ord)=7 p_t=[0, 0, 0, 0, 0, 0]
+constant-CM pieces (whole Galois orbit definite): []
+  Hodge blocks among them (s, t, dim): []
+====================================================================================================
+cyc16_019: d=8, G=Z/16, weights (0,1,9); decomposable=True; H monomials [(1, 7), (3, 5), (5, 3), (7, 1)]
+V_chi (h10,h01) in H^1(C_H): {1: (0, 3), 2: (0, 3), 3: (1, 2), 4: (1, 2), 5: (2, 1), 6: (2, 1), 7: (3, 0), 9: (0, 3), 10: (1, 2), 11: (1, 2), 12: (2, 1), 13: (2, 1), 14: (3, 0), 15: (3, 0)}
+genus check: sum h10 = 21  expected (d-1)(d-2)/2 = 21
+dictionary check, all (a,chi): OK
+det-line candidates (a,chi)->(a,-chi), V_chi rank 2 sig (1,1):
+constant-CM pieces (whole Galois orbit definite): []
+  Hodge blocks among them (s, t, dim): []
+====================================================================================================
+cyc18_0-1-10: d=9, G=Z/18, weights (0,1,10); decomposable=True; H monomials [(0, 9), (2, 7), (4, 5), (6, 3), (8, 1)]
+V_chi (h10,h01) in H^1(C_H): {1: (0, 4), 2: (0, 3), 3: (1, 3), 4: (1, 2), 5: (2, 2), 6: (2, 1), 7: (3, 1), 8: (3, 0), 10: (0, 3), 11: (1, 3), 12: (1, 2), 13: (2, 2), 14: (2, 1), 15: (3, 1), 16: (3, 0), 17: (4, 0)}
+genus check: sum h10 = 28  expected (d-1)(d-2)/2 = 28
+dictionary check, all (a,chi): OK
+det-line candidates (a,chi)->(a,-chi), V_chi rank 2 sig (1,1):
+constant-CM pieces (whole Galois orbit definite): []
+  Hodge blocks among them (s, t, dim): []
+====================================================================================================
+cyc20_0-1-11: d=10, G=Z/20, weights (0,1,11); decomposable=True; H monomials [(1, 9), (3, 7), (5, 5), (7, 3), (9, 1)]
+V_chi (h10,h01) in H^1(C_H): {1: (0, 4), 2: (0, 4), 3: (1, 3), 4: (1, 3), 5: (2, 2), 6: (2, 2), 7: (3, 1), 8: (3, 1), 9: (4, 0), 11: (0, 4), 12: (1, 3), 13: (1, 3), 14: (2, 2), 15: (2, 2), 16: (3, 1), 17: (3, 1), 18: (4, 0), 19: (4, 0)}
+genus check: sum h10 = 36  expected (d-1)(d-2)/2 = 36
+dictionary check, all (a,chi): OK
+det-line candidates (a,chi)->(a,-chi), V_chi rank 2 sig (1,1):
+constant-CM pieces (whole Galois orbit definite): []
+  Hodge blocks among them (s, t, dim): []
+====================================================================================================
+Fermat surface X_7^2, characters n*(1,1,1,4): type p = 3 - sum/7  -> [(1, (1, 1, 1, 4), 2), (2, (2, 2, 2, 1), 2), (3, (3, 3, 3, 5), 1), (4, (4, 4, 4, 2), 1), (5, (5, 5, 5, 6), 0), (6, (6, 6, 6, 3), 0)]
+====================================================================================================
+SERIES x0^d + H, G = Z/2d, weights (0,1,d+1):
+ d= 6 dict=OK det-cands=14 hodge=12 (12 product, 0 Weil-type; lcm [6, 12]) | CM pieces 24, CM blocks 106 (off-diag 82), self-dims [4]
+     (1,3)->(1,9) ord(chi)=4 sameL=True product=True
+     (1,4)->(1,8) ord(chi)=3 sameL=False product=True
+     (1,8)->(1,4) ord(chi)=3 sameL=False product=True
+     (1,9)->(1,3) ord(chi)=4 sameL=True product=True
+     (2,3)->(2,9) ord(chi)=4 sameL=True product=True
+     (2,9)->(2,3) ord(chi)=4 sameL=True product=True
+     (4,3)->(4,9) ord(chi)=4 sameL=True product=True
+     (4,9)->(4,3) ord(chi)=4 sameL=True product=True
+     (5,3)->(5,9) ord(chi)=4 sameL=True product=True
+     (5,4)->(5,8) ord(chi)=3 sameL=False product=True
+     (5,8)->(5,4) ord(chi)=3 sameL=False product=True
+     (5,9)->(5,3) ord(chi)=4 sameL=True product=True
+ d= 7 dict=OK det-cands=8 hodge=4 (0 product, 4 Weil-type; lcm [7]) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+     (1,4)->(1,10) ord(chi)=7 sameL=False product=False
+     (1,10)->(1,4) ord(chi)=7 sameL=False product=False
+     (6,4)->(6,10) ord(chi)=7 sameL=False product=False
+     (6,10)->(6,4) ord(chi)=7 sameL=False product=False
+ d= 8 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d= 9 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=10 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=11 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=12 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=13 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=14 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=15 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=16 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=17 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=18 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=19 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=20 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=21 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=22 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=23 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []
+ d=24 dict=OK det-cands=0 hodge=0 (0 product, 0 Weil-type; lcm []) | CM pieces 0, CM blocks 0 (off-diag 0), self-dims []

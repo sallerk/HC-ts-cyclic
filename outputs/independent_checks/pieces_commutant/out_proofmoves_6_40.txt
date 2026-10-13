@@ -1,0 +1,2 @@
+pairs checked=41247998 failures=0 (d=6..40)
+DONE

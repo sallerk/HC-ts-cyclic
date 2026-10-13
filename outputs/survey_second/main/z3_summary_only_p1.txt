@@ -1,0 +1,33 @@
+cyc20_0-1-11   d=10  Y lb=873 ub=873 closed=True errors=[] 0.9s
+cyc16_017      d=10  Y lb=442 ub=442 closed=True errors=[] 1.5s
+cyc15_016      d=10  Y lb=249 ub=249 closed=True errors=[] 1.0s
+cyc10_012      d=10  Y lb=233 ub=233 closed=True errors=[] 1.4s
+cyc10_013      d=10  Y lb=90 ub=90 closed=True errors=[] 1.1s
+cyc9_012       d=10  Y lb=161 ub=161 closed=True errors=[] 1.3s
+cyc9_018       d=10  Y lb=409 ub=409 closed=True errors=[] 1.7s
+cyc12_014      d= 9  Y lb=170 ub=170 closed=True errors=[] 0.7s
+cyc16_019      d= 8  Y lb=427 ub=427 closed=True errors=[] 0.2s
+cyc8_017       d=10  Y lb=171 ub=171 closed=True errors=[] 1.0s
+cyc12_015      d= 8  Y lb=914 ub=914 closed=True errors=[] 0.4s
+cyc6_013       d=10  Y lb=117 ub=117 closed=True errors=[] 1.0s
+cyc8_016       d= 9  Y lb=66 ub=66 closed=True errors=[] 0.6s
+cyc7_016       d= 9  Y lb=56 ub=56 closed=True errors=[] 0.5s
+cyc5_012       d=10  Y lb=45 ub=45 closed=True errors=[] 1.7s
+cyc14_018      d= 7  Y lb=276 ub=288 closed=False errors=[] 0.1s
+cyc8_013       d= 8  Y lb=222 ub=222 closed=True errors=[] 0.3s
+cyc8_014       d= 8  Y lb=109 ub=109 closed=True errors=[] 0.2s
+cyc4_013       d=10  Y lb=36 ub=36 closed=True errors=[] 2.9s
+cyc7_012       d= 8  Y lb=97 ub=97 closed=True errors=[] 0.3s
+cyc7_013       d= 8  Y lb=49 ub=49 closed=True errors=[] 0.4s
+cyc7_016       d= 8  Y lb=94 ub=94 closed=True errors=[] 0.4s
+cyc9_013       d= 7  Y lb=60 ub=60 closed=True errors=[] 0.2s
+cyc6_015       d= 8  Y lb=439 ub=439 closed=True errors=[] 0.4s
+cyc12_017      d= 6  Y lb=1009 ub=1017 closed=False errors=[] 0.1s
+cyc7_013       d= 7  Y lb=42 ub=42 closed=True errors=[] 0.2s
+cyc4_012       d= 8  Y lb=91 ub=91 closed=True errors=[] 0.4s
+cyc8_013       d= 6  Y lb=477 ub=477 closed=True errors=[] 0.1s
+cyc3_012       d= 8  Y lb=21 ub=21 closed=True errors=[] 0.9s
+cyc6_013       d= 6  Y lb=239 ub=239 closed=True errors=[] 0.1s
+cyc5_012       d= 6  Y lb=49 ub=49 closed=True errors=[] 0.1s
+cyc5_014       d= 6  Y lb=295 ub=295 closed=True errors=[] 0.2s
+cyc4_013       d= 6  Y lb=243 ub=243 closed=True errors=[] 0.1s

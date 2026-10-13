@@ -1,0 +1,302 @@
+== per-family Y: Z3 vs Z2b book.txt (final) vs Z1 z1_final_table.txt (before the curve rules)
+  cyc4_013_d6        Z3=243..243  book=243..243 CLOSED  agree=True   z1table=243..243 CLOSED  Z3 inside z1 range=True
+  cyc5_012_d6        Z3=49..49  book=49..49 CLOSED  agree=True   z1table=49..49 CLOSED  Z3 inside z1 range=True
+  cyc5_014_d6        Z3=295..295  book=295..295 CLOSED  agree=True   z1table=295..303 open  Z3 inside z1 range=True
+  cyc6_013_d6        Z3=239..239  book=239..239 CLOSED  agree=True   z1table=239..239 CLOSED  Z3 inside z1 range=True
+  cyc8_013_d6        Z3=477..477  book=477..477 CLOSED  agree=True   z1table=471..515 open  Z3 inside z1 range=True
+  cyc7_013_d7        Z3=42..42  book=42..42 CLOSED  agree=True   z1table=42..42 CLOSED  Z3 inside z1 range=True
+  cyc9_013_d7        Z3=60..60  book=60..60 CLOSED  agree=True   z1table=54..66 open  Z3 inside z1 range=True
+  cyc3_012_d8        Z3=21..21  book=21..21 CLOSED  agree=True   z1table=21..21 CLOSED  Z3 inside z1 range=True
+  cyc4_012_d8        Z3=91..91  book=91..91 CLOSED  agree=True   z1table=91..91 CLOSED  Z3 inside z1 range=True
+  cyc6_015_d8        Z3=439..439  book=439..439 CLOSED  agree=True   z1table=439..439 CLOSED  Z3 inside z1 range=True
+  cyc7_012_d8        Z3=97..97  book=97..97 CLOSED  agree=True   z1table=97..97 CLOSED  Z3 inside z1 range=True
+  cyc7_013_d8        Z3=49..49  book=49..49 CLOSED  agree=True   z1table=49..49 CLOSED  Z3 inside z1 range=True
+  cyc7_016_d8        Z3=94..94  book=94..94 CLOSED  agree=True   z1table=94..94 CLOSED  Z3 inside z1 range=True
+  cyc8_013_d8        Z3=222..222  book=222..222 CLOSED  agree=True   z1table=222..222 CLOSED  Z3 inside z1 range=True
+  cyc8_014_d8        Z3=109..109  book=109..109 CLOSED  agree=True   z1table=109..109 CLOSED  Z3 inside z1 range=True
+  cyc12_015_d8       Z3=914..914  book=914..914 CLOSED  agree=True   z1table=848..1050 open  Z3 inside z1 range=True
+  cyc16_019_d8       Z3=427..427  book=427..427 CLOSED  agree=True   z1table=427..427 CLOSED  Z3 inside z1 range=True
+  cyc7_016_d9        Z3=56..56  book=56..56 CLOSED  agree=True   z1table=56..56 CLOSED  Z3 inside z1 range=True
+  cyc8_016_d9        Z3=66..66  book=66..66 CLOSED  agree=True   z1table=64..82 open  Z3 inside z1 range=True
+  cyc12_014_d9       Z3=170..170  book=170..170 CLOSED  agree=True   z1table=164..188 open  Z3 inside z1 range=True
+  cyc4_013_d10       Z3=36..36  book=36..36 CLOSED  agree=True   z1table=36..36 CLOSED  Z3 inside z1 range=True
+  cyc5_012_d10       Z3=45..45  book=45..45 CLOSED  agree=True   z1table=45..45 CLOSED  Z3 inside z1 range=True
+  cyc6_013_d10       Z3=117..117  book=117..117 CLOSED  agree=True   z1table=117..117 CLOSED  Z3 inside z1 range=True
+  cyc8_017_d10       Z3=171..171  book=171..171 CLOSED  agree=True   z1table=171..171 CLOSED  Z3 inside z1 range=True
+  cyc9_012_d10       Z3=161..161  book=161..161 CLOSED  agree=True   z1table=161..161 CLOSED  Z3 inside z1 range=True
+  cyc9_018_d10       Z3=409..409  book=409..409 CLOSED  agree=True   z1table=409..409 CLOSED  Z3 inside z1 range=True
+  cyc10_012_d10      Z3=233..233  book=233..233 CLOSED  agree=True   z1table=233..233 CLOSED  Z3 inside z1 range=True
+  cyc10_013_d10      Z3=90..90  book=90..90 CLOSED  agree=True   z1table=90..90 CLOSED  Z3 inside z1 range=True
+  cyc15_016_d10      Z3=249..249  book=249..249 CLOSED  agree=True   z1table=225..285 open  Z3 inside z1 range=True
+  cyc16_017_d10      Z3=442..442  book=442..442 CLOSED  agree=True   z1table=395..640 open  Z3 inside z1 range=True
+  cyc20_0-1-11_d10   Z3=873..873  book=873..873 CLOSED  agree=True   z1table=873..873 CLOSED  Z3 inside z1 range=True
+  cyc12_017_d6       Z3=1009..1017  book=1009..1017 OPEN  agree=True   z1table=1009..1017 open  Z3 inside z1 range=True
+  cyc14_018_d7       Z3=276..288  book=276..288 OPEN  agree=True   z1table=276..288 open  Z3 inside z1 range=True
+  agreement with book.txt: 33 of 33
+== curve planes: book vs Z3
+  cyc5_012_d6        book=[(0, (0, 2, 4), 2, 0)] Z3=[(0, (0, 2, 4), 2)] same(i,M,g)=True
+  cyc5_014_d6        book=[(0, (0, 3, 3), 3, 0)] Z3=[(0, (0, 3, 3), 3)] same(i,M,g)=True
+  cyc8_013_d6        book=[(1, (6, 0, 0), 6, 0), (2, (6, 0, 0), 6, 0)] Z3=[(1, (6, 0, 0), 6), (2, (6, 0, 0), 6)] same(i,M,g)=True
+  cyc9_013_d7        book=[(2, (7, 0, 0), 7, 0)] Z3=[(2, (7, 0, 0), 7)] same(i,M,g)=True
+  cyc7_012_d8        book=[(0, (0, 2, 6), 2, 0)] Z3=[(0, (0, 2, 6), 2)] same(i,M,g)=True
+  cyc7_016_d8        book=[(0, (0, 4, 4), 4, 0)] Z3=[(0, (0, 4, 4), 4)] same(i,M,g)=True
+  cyc12_015_d8       book=[(1, (8, 0, 0), 8, 0), (2, (8, 0, 0), 8, 0)] Z3=[(1, (8, 0, 0), 8), (2, (8, 0, 0), 8)] same(i,M,g)=True
+  cyc16_019_d8       book=[(1, (8, 0, 0), 8, 0), (2, (8, 0, 0), 8, 0)] Z3=[(1, (8, 0, 0), 8), (2, (8, 0, 0), 8)] same(i,M,g)=True
+  cyc8_016_d9        book=[(0, (0, 6, 3), 3, 0)] Z3=[(0, (0, 6, 3), 3)] same(i,M,g)=True
+  cyc12_014_d9       book=[(2, (9, 0, 0), 9, 0)] Z3=[(2, (9, 0, 0), 9)] same(i,M,g)=True
+  cyc9_012_d10       book=[(0, (0, 2, 8), 2, 0)] Z3=[(0, (0, 2, 8), 2)] same(i,M,g)=True
+  cyc9_018_d10       book=[(0, (0, 5, 5), 5, 0)] Z3=[(0, (0, 5, 5), 5)] same(i,M,g)=True
+  cyc15_016_d10      book=[(2, (10, 0, 0), 10, 0)] Z3=[(2, (10, 0, 0), 10)] same(i,M,g)=True
+  cyc16_017_d10      book=[(1, (10, 0, 0), 10, 0), (2, (10, 0, 0), 10, 0)] Z3=[(1, (10, 0, 0), 10), (2, (10, 0, 0), 10)] same(i,M,g)=True
+  cyc20_0-1-11_d10   book=[(1, (10, 0, 0), 10, 0), (2, (10, 0, 0), 10, 0)] Z3=[(1, (10, 0, 0), 10), (2, (10, 0, 0), 10)] same(i,M,g)=True
+  cyc12_017_d6       book=[(1, (6, 0, 0), 6, 0), (2, (6, 0, 0), 6, 0)] Z3=[(1, (6, 0, 0), 6), (2, (6, 0, 0), 6)] same(i,M,g)=True
+  cyc14_018_d7       book=[(2, (7, 0, 0), 7, 0)] Z3=[(2, (7, 0, 0), 7)] same(i,M,g)=True
+== block level: every block listed in book.txt (special-tool closures and OPEN blocks)
+  OK  cyc4_013_d6        (2, 1)->(2, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d6        (1, 1)->(1, 2) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d6        (1, 1)->(1, 3) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d6        (1, 1)->(1, 4) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_014_d6        (1, 1)->(1, 2) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_014_d6        (1, 1)->(1, 3) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_014_d6        (2, 0)->(2, 0) x2/2  book=[2,2] (split)  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc5_014_d6        (2, 0)->(2, 1) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc5_014_d6        (2, 1)->(2, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc6_013_d6        (2, 1)->(2, 5) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc6_013_d6        (2, 5)->(2, 1) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d6        (1, 0)->(1, 0) x2/2  book=[5,5] (curve-self U:S:1:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc8_013_d6        (1, 0)->(1, 1) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_013_d6        (1, 0)->(1, 2) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc8_013_d6        (1, 0)->(1, 4) x2/2  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc8_013_d6        (1, 1)->(1, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_013_d6        (1, 2)->(1, 0) x4/4  book=[0,0] (curve-rev strict at S:1:2->S:1:0 h=(1, 2)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc8_013_d6        (1, 2)->(1, 4) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d6        (1, 4)->(1, 0) x2/2  book=[0,0] (curve-rev strict at S:1:4->S:1:0 h=(1, 2)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc8_013_d6        (1, 4)->(1, 2) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 2)->(1, 3) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 2)->(1, 5) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 3)->(1, 2) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 3)->(1, 5) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 5)->(1, 2) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_013_d7        (1, 5)->(1, 3) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc9_013_d7        (1, 0)->(1, 0) x6/6  book=[2,2] (curve-self U:S:1:0(h20=1,hull))  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc3_012_d8        (4, 1)->(4, 2) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc4_012_d8        (4, 1)->(4, 3) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc6_015_d8        (2, 1)->(2, 5) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc6_015_d8        (2, 2)->(2, 4) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc6_015_d8        (4, 1)->(4, 5) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_016_d8        (2, 0)->(2, 0) x2/2  book=[2,2] (split)  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc7_016_d8        (2, 0)->(2, 1) x12/12  book=[0,0] (split)  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc7_016_d8        (2, 1)->(2, 0) x12/12  book=[0,0] (split)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc7_016_d8        (4, 0)->(4, 0) x1/1  book=[2,2] (split)  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc8_013_d8        (2, 0)->(2, 2) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (2, 0)->(2, 6) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (2, 2)->(2, 0) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (2, 2)->(2, 6) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (2, 6)->(2, 0) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (2, 6)->(2, 2) x2/2  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_013_d8        (4, 1)->(4, 3) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (2, 2)->(2, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (2, 3)->(2, 2) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (2, 3)->(2, 7) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (4, 1)->(4, 5) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (4, 1)->(4, 6) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_014_d8        (4, 2)->(4, 3) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 0)->(1, 0) x4/4  book=[5,5] (curve-self U:S:1:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc12_015_d8       (1, 0)->(1, 1) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc12_015_d8       (1, 0)->(1, 3) x4/4  book=[4,4] (curve-pure U:S:1:0(h20=1,hull))  Z3=[4,4] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (1, 0)->(1, 4) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc12_015_d8       (1, 1)->(1, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc12_015_d8       (1, 1)->(1, 4) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 1)->(1, 8) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 2)->(1, 2) x8/8  book=[1,1] (ord3)  Z3=[1,1] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 2)->(1, 9) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 2)->(1, 10) x8/8  book=[1,1] (ord3)  Z3=[1,1] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 3)->(1, 0) x4/4  book=[4,4] (curve-pure(rev) U:S:1:0(h20=1,hull))  Z3=[4,4] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (1, 4)->(1, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc12_015_d8       (1, 4)->(1, 1) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 4)->(1, 5) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (1, 9)->(1, 2) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 0) x2/2  book=[5,5] (curve-self U:S:2:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 1) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 2) x4/4  book=[4,4] (curve-pure U:S:2:0(h20=1,hull))  Z3=[4,4] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 3) x2/2  book=[8,8] (curve-pure U:S:2:0(h20=1,hull))  Z3=[8,8] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 4) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 0)->(2, 7) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 1)->(2, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 1)->(2, 4) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 1)->(2, 7) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 1)->(2, 8) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 1)->(2, 11) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 2)->(2, 0) x4/4  book=[4,4] (curve-pure(rev) U:S:2:0(h20=1,hull))  Z3=[4,4] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (2, 3)->(2, 0) x2/2  book=[8,8] (curve-pure(rev) U:S:2:0(h20=1,hull))  Z3=[8,8] (curve-b(P1.8b))  h-match=True
+  OK  cyc12_015_d8       (2, 4)->(2, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 4)->(2, 1) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 4)->(2, 5) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 4)->(2, 7) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 4)->(2, 11) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 7)->(2, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc12_015_d8       (2, 7)->(2, 1) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 7)->(2, 4) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 7)->(2, 5) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_015_d8       (2, 7)->(2, 8) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 1)->(1, 9) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 3)->(1, 10) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 3)->(1, 11) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 5)->(1, 6) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 5)->(1, 13) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 6)->(1, 5) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (1, 10)->(1, 3) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (2, 1)->(2, 9) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (2, 2)->(2, 7) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (2, 3)->(2, 10) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (2, 3)->(2, 11) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (4, 1)->(4, 9) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (4, 1)->(4, 14) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_019_d8       (4, 2)->(4, 7) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc7_016_d9        (3, 1)->(3, 6) x12/12  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_016_d9        (3, 0)->(3, 0) x2/2  book=[2,2] (curve-self U:S:3:0(h20=1,hull))  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc8_016_d9        (3, 0)->(3, 2) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_016_d9        (3, 0)->(3, 4) x2/2  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_016_d9        (3, 2)->(3, 0) x4/4  book=[0,0] (J)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_016_d9        (3, 2)->(3, 4) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_016_d9        (3, 2)->(3, 6) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_016_d9        (3, 4)->(3, 0) x2/2  book=[0,0] (J)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc8_016_d9        (3, 4)->(3, 2) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_014_d9       (1, 0)->(1, 0) x6/6  book=[2,2] (curve-self U:S:1:0(h20=1,hull))  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc12_014_d9       (1, 0)->(1, 4) x6/6  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc12_014_d9       (1, 4)->(1, 0) x6/6  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc12_014_d9       (3, 2)->(3, 10) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_014_d9       (3, 10)->(3, 2) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc4_013_d10       (5, 1)->(5, 3) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d10       (5, 1)->(5, 2) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d10       (5, 1)->(5, 3) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc5_012_d10       (5, 1)->(5, 4) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc6_013_d10       (5, 1)->(5, 5) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_017_d10       (2, 2)->(2, 6) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_017_d10       (5, 1)->(5, 7) x4/4  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc8_017_d10       (5, 2)->(5, 6) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc9_012_d10       (5, 3)->(5, 6) x2/2  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc9_018_d10       (2, 0)->(2, 0) x4/4  book=[2,2] (split)  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc15_016_d10      (1, 0)->(1, 0) x4/4  book=[2,2] (curve-self U:S:1:0(h20=1,hull))  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc15_016_d10      (1, 0)->(1, 6) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (1, 3)->(1, 12) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc15_016_d10      (1, 6)->(1, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (1, 12)->(1, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc15_016_d10      (2, 0)->(2, 0) x4/4  book=[2,2] (curve-self U:S:2:0(h20=1,hull))  Z3=[2,2] (curve-a(P1.8a))  h-match=True
+  OK  cyc15_016_d10      (2, 0)->(2, 3) x4/4  book=[2,2] (curve-pure U:S:2:0(h20=1,hull))  Z3=[2,2] (curve-b(P1.8b))  h-match=True
+  OK  cyc15_016_d10      (2, 0)->(2, 6) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (2, 0)->(2, 9) x4/4  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (2, 3)->(2, 0) x4/4  book=[2,2] (curve-pure(rev) U:S:2:0(h20=1,hull))  Z3=[2,2] (curve-b(P1.8b))  h-match=True
+  OK  cyc15_016_d10      (2, 6)->(2, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (2, 6)->(2, 9) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc15_016_d10      (2, 8)->(2, 13) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc15_016_d10      (2, 9)->(2, 0) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J_V(L1.9))  h-match=True
+  OK  cyc15_016_d10      (2, 9)->(2, 6) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 0)->(1, 0) x4/4  book=[5,5] (curve-self U:S:3:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc16_017_d10      (1, 0)->(1, 2) x16/16  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (1, 0)->(1, 4) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (1, 2)->(1, 0) x16/16  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc16_017_d10      (1, 2)->(1, 4) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 2)->(1, 6) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 2)->(1, 10) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 2)->(1, 12) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 4)->(1, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc16_017_d10      (1, 4)->(1, 2) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (1, 4)->(1, 6) x16/16  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc16_017_d10      (2, 0)->(2, 0) x4/4  book=[5,5] (curve-self U:S:2:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc16_017_d10      (2, 0)->(2, 2) x16/16  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (2, 0)->(2, 4) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (2, 2)->(2, 0) x16/16  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc16_017_d10      (2, 4)->(2, 0) x8/8  book=[0,0] (ord3)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc16_017_d10      (5, 0)->(5, 0) x1/1  book=[5,5] (curve-self U:S:5:0(h20=1,hull))  Z3=[5,5] (curve-a(P1.8a))  h-match=True
+  OK  cyc16_017_d10      (5, 0)->(5, 1) x8/8  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (5, 0)->(5, 4) x2/2  book=[10,10] (curve-pure U:S:5:0(h20=1,hull))  Z3=[10,10] (curve-b(P1.8b))  h-match=True
+  OK  cyc16_017_d10      (5, 0)->(5, 8) x1/1  book=[0,0] (curve-JV (J_V=0))  Z3=[0,0] (curve-c(U irr))  h-match=True
+  OK  cyc16_017_d10      (5, 1)->(5, 0) x8/8  book=[0,0] (J)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc16_017_d10      (5, 4)->(5, 0) x2/2  book=[10,10] (curve-pure(rev) U:S:5:0(h20=1,hull))  Z3=[10,10] (curve-b(P1.8b))  h-match=True
+  OK  cyc16_017_d10      (5, 8)->(5, 0) x1/1  book=[0,0] (J)  Z3=[0,0] (curve-d(U irr))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 1)->(1, 11) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 3)->(1, 13) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 5)->(1, 15) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 6)->(1, 14) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 7)->(1, 17) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (1, 14)->(1, 6) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 1)->(2, 11) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 3)->(2, 13) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 5)->(2, 15) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 6)->(2, 14) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 7)->(2, 17) x8/8  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 9)->(2, 19) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (2, 14)->(2, 6) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc20_0-1-11_d10   (5, 1)->(5, 11) x8/8  book=[0,0] (J)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (1, 3)->(1, 4) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (1, 3)->(1, 8) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (1, 4)->(1, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (1, 4)->(1, 8) x2/2  book=[0,1] (OPEN)  Z3=[0,1] (Schur-iso)  h-match=True
+  OK  cyc12_017_d6       (1, 8)->(1, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (1, 8)->(1, 4) x2/2  book=[0,1] (OPEN)  Z3=[0,1] (Schur-iso)  h-match=True
+  OK  cyc12_017_d6       (1, 10)->(1, 10) x2/2  book=[2,4] (OPEN)  Z3=[2,4] (homcomm)  h-match=True
+  OK  cyc12_017_d6       (2, 3)->(2, 8) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc12_017_d6       (2, 8)->(2, 3) x4/4  book=[0,0] (ord3)  Z3=[0,0] (J(T2))  h-match=True
+  OK  cyc14_018_d7       (1, 4)->(1, 10) x6/6  book=[0,1] (OPEN)  Z3=[0,1] (Schur-iso)  h-match=True
+  OK  cyc14_018_d7       (1, 10)->(1, 4) x6/6  book=[0,1] (OPEN)  Z3=[0,1] (Schur-iso)  h-match=True
+  blocks compared: 188, disagreements: 0
+== z1_final_table OPEN blocks (pre-curve [lb,ub]) vs Z3 final value
+  in  cyc12_017_d6       (1, 4)->(1, 8) x2  z1=[0,1]  Z3=[0,1] Schur-iso | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_017_d6       (1, 8)->(1, 4) x2  z1=[0,1]  Z3=[0,1] Schur-iso | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_017_d6       (1, 10)->(1, 10) x2  z1=[2,4]  Z3=[2,4] homcomm | lbsrc split graphs + NSxNS
+  in  cyc5_014_d6        (2, 0)->(2, 1) x8  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 0)->(1, 0) x2  z1=[2,7]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 0)->(1, 1) x8  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 0)->(1, 2) x4  z1=[0,3]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 0)->(1, 4) x2  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 2)->(1, 0) x4  z1=[0,1]  Z3=[0,0] curve-d(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_013_d6        (1, 4)->(1, 0) x2  z1=[0,1]  Z3=[0,0] curve-d(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc14_018_d7       (1, 4)->(1, 10) x6  z1=[0,1]  Z3=[0,1] Schur-iso | lbsrc Gamma/A graphs + NSxNS
+  in  cyc14_018_d7       (1, 10)->(1, 4) x6  z1=[0,1]  Z3=[0,1] Schur-iso | lbsrc Gamma/A graphs + NSxNS
+  in  cyc9_013_d7        (1, 0)->(1, 0) x6  z1=[1,3]  Z3=[2,2] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (1, 0)->(1, 0) x4  z1=[2,9]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (1, 0)->(1, 1) x8  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (1, 0)->(1, 3) x4  z1=[2,4]  Z3=[4,4] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (1, 0)->(1, 4) x8  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (1, 3)->(1, 0) x4  z1=[2,4]  Z3=[4,4] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 0) x2  z1=[2,9]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 1) x4  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 2) x4  z1=[2,4]  Z3=[4,4] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 3) x2  z1=[4,8]  Z3=[8,8] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 4) x4  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 0)->(2, 7) x4  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 2)->(2, 0) x4  z1=[2,4]  Z3=[4,4] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_015_d8       (2, 3)->(2, 0) x2  z1=[4,8]  Z3=[8,8] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_014_d9       (1, 0)->(1, 0) x6  z1=[1,4]  Z3=[2,2] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc12_014_d9       (1, 0)->(1, 4) x6  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_016_d9        (3, 0)->(3, 0) x2  z1=[1,7]  Z3=[2,2] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_016_d9        (3, 0)->(3, 2) x4  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc8_016_d9        (3, 0)->(3, 4) x2  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (1, 0)->(1, 0) x4  z1=[1,5]  Z3=[2,2] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (1, 0)->(1, 6) x4  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (2, 0)->(2, 0) x4  z1=[1,5]  Z3=[2,2] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (2, 0)->(2, 3) x4  z1=[0,2]  Z3=[2,2] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (2, 0)->(2, 6) x4  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (2, 0)->(2, 9) x4  z1=[0,1]  Z3=[0,0] J_V(L1.9) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc15_016_d10      (2, 3)->(2, 0) x4  z1=[0,2]  Z3=[2,2] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (1, 0)->(1, 0) x4  z1=[2,10]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (1, 0)->(1, 2) x16  z1=[0,2]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (1, 0)->(1, 4) x8  z1=[0,2]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (2, 0)->(2, 0) x4  z1=[2,9]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (2, 0)->(2, 2) x16  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (2, 0)->(2, 4) x8  z1=[0,4]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (5, 0)->(5, 0) x1  z1=[2,5]  Z3=[5,5] curve-a(P1.8a) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (5, 0)->(5, 1) x8  z1=[0,2]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (5, 0)->(5, 4) x2  z1=[5,10]  Z3=[10,10] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (5, 0)->(5, 8) x1  z1=[0,2]  Z3=[0,0] curve-c(U irr) | lbsrc Gamma/A graphs + NSxNS
+  in  cyc16_017_d10      (5, 4)->(5, 0) x2  z1=[5,10]  Z3=[10,10] curve-b(P1.8b) | lbsrc Gamma/A graphs + NSxNS
+  z1 open blocks: 49, Z3 value outside z1 range: 0
+== |H| = |Gamma image| in all 33 runs: True []
+== Z3 J_K, K = 0..4, at cyc8_013 d6 (book: [7, 5, 3, 1, 0] at its primes)
+  p=100057 (1, 2)->(1, 4): [7, 5, 3, 1, 0]
+  p=100057 (1, 6)->(1, 4): [7, 5, 3, 1, 0]
+  p=100057 (1, 4)->(1, 2): [7, 5, 3, 1, 0]
+  p=100129 (1, 2)->(1, 4): [7, 5, 3, 1, 0]
+  p=100129 (1, 6)->(1, 4): [7, 5, 3, 1, 0]
+  p=100129 (1, 4)->(1, 2): [7, 5, 3, 1, 0]

@@ -1,0 +1,33 @@
+{'d': 6, 'n': 2, 'NF': 8, 'P': 9, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 92, 'closed': 92, 'dim_ok': True, 'sec': 0.0}
+{'d': 6, 'n': 3, 'NF': 13, 'P': 12, 'nfail': 8, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 210, 'closed': 210, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'lift_missing': 0, 'sec': 0.0}
+{'d': 6, 'n': 5, 'NF': 5, 'P': 20, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 58, 'closed': 58, 'dim_ok': True, 'sec': 0.0}
+{'d': 6, 'n': 6, 'NF': 57, 'P': 12, 'nfail': 16, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 8, 'swaps_in_KR': True, 'kappa': 8, 'swapformula': True, 'dimHdg': 3394, 'closed': 3394, 'dim_ok': True, 'sec': 0.0}
+{'d': 7, 'n': 2, 'NF': 0, 'P': 12, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 15, 'closed': 15, 'dim_ok': True, 'sec': 0.0}
+{'d': 7, 'n': 3, 'NF': 0, 'P': 18, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 21, 'closed': 21, 'dim_ok': True, 'sec': 0.0}
+{'d': 7, 'n': 6, 'NF': 6, 'P': 30, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 81, 'closed': 81, 'dim_ok': True, 'sec': 0.0}
+{'d': 7, 'n': 7, 'NF': 36, 'P': 30, 'nfail': 24, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 24, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 1425, 'closed': 1425, 'dim_ok': True, 'sec': 0.0}
+{'d': 8, 'n': 2, 'NF': 0, 'P': 14, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 17, 'closed': 17, 'dim_ok': True, 'sec': 0.0}
+{'d': 8, 'n': 4, 'NF': 7, 'P': 27, 'nfail': 8, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 93, 'closed': 93, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'lift_missing': 0, 'sec': 0.0}
+{'d': 8, 'n': 7, 'NF': 7, 'P': 42, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 108, 'closed': 108, 'dim_ok': True, 'sec': 0.0}
+{'d': 8, 'n': 8, 'NF': 49, 'P': 42, 'nfail': 84, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 36, 'swaps_in_KR': True, 'kappa': 48, 'swapformula': True, 'dimHdg': 2628, 'closed': 2628, 'dim_ok': True, 'sec': 0.0}
+{'d': 9, 'n': 2, 'NF': 0, 'P': 16, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 19, 'closed': 19, 'dim_ok': True, 'sec': 0.0}
+{'d': 9, 'n': 3, 'NF': 0, 'P': 24, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 27, 'closed': 27, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 9, 'n': 4, 'NF': 0, 'P': 32, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 35, 'closed': 35, 'dim_ok': True, 'sec': 0.0}
+{'d': 9, 'n': 8, 'NF': 8, 'P': 56, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 139, 'closed': 139, 'dim_ok': True, 'sec': 0.0}
+{'d': 9, 'n': 9, 'NF': 64, 'P': 56, 'nfail': 96, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 48, 'swaps_in_KR': True, 'kappa': 48, 'swapformula': True, 'dimHdg': 4379, 'closed': 4379, 'dim_ok': True, 'sec': 0.0}
+{'d': 10, 'n': 2, 'NF': 0, 'P': 18, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 21, 'closed': 21, 'dim_ok': True, 'sec': 0.0}
+{'d': 10, 'n': 3, 'NF': 0, 'P': 27, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 30, 'closed': 30, 'dim_ok': True, 'sec': 0.0}
+{'d': 10, 'n': 5, 'NF': 9, 'P': 44, 'nfail': 24, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 146, 'closed': 146, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'lift_missing': 0, 'sec': 0.0}
+{'d': 10, 'n': 9, 'NF': 9, 'P': 72, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 174, 'closed': 174, 'dim_ok': True, 'sec': 0.0}
+{'d': 10, 'n': 10, 'NF': 81, 'P': 72, 'nfail': 208, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 64, 'swaps_in_KR': True, 'kappa': 144, 'swapformula': True, 'dimHdg': 7006, 'closed': 7006, 'dim_ok': True, 'sec': 0.0}
+{'d': 11, 'n': 2, 'NF': 0, 'P': 20, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 23, 'closed': 23, 'dim_ok': True, 'sec': 0.0}
+{'d': 11, 'n': 5, 'NF': 0, 'P': 50, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 53, 'closed': 53, 'dim_ok': True, 'sec': 0.0}
+{'d': 11, 'n': 10, 'NF': 10, 'P': 90, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 213, 'closed': 213, 'dim_ok': True, 'sec': 0.0}
+{'d': 11, 'n': 11, 'NF': 100, 'P': 90, 'nfail': 80, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 80, 'swaps_in_KR': True, 'kappa': 0, 'swapformula': True, 'dimHdg': 10373, 'closed': 10373, 'dim_ok': True, 'sec': 0.0}
+{'d': 12, 'n': 2, 'NF': 0, 'P': 22, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 25, 'closed': 25, 'dim_ok': True, 'sec': 0.0}
+{'d': 12, 'n': 3, 'NF': 0, 'P': 33, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 36, 'closed': 36, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 12, 'n': 4, 'NF': 0, 'P': 44, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 47, 'closed': 47, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'sec': 0.0}
+{'d': 12, 'n': 6, 'NF': 11, 'P': 65, 'nfail': 58, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'dimHdg': 211, 'closed': 211, 'dim_ok': True, 'dim_ne_2k': True, 'min_h11_minus_k': 0, 'lift_missing': 0, 'sec': 0.0}
+{'d': 12, 'n': 11, 'NF': 11, 'P': 110, 'nfail': 0, 'inE': False, 'exact_ok': True, 'xu_ok': True, 'dimHdg': 256, 'closed': 256, 'dim_ok': True, 'sec': 0.0}
+{'d': 12, 'n': 12, 'NF': 121, 'P': 110, 'nfail': 412, 'inE': True, 'exact_ok': True, 'xu_ok': True, 'sigma_agrees': True, 'z1fail': 0, 'nswap': 100, 'swaps_in_KR': True, 'kappa': 312, 'swapformula': True, 'dimHdg': 15408, 'closed': 15408, 'dim_ok': True, 'sec': 0.0}
+DONE

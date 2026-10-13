@@ -1,0 +1,853 @@
+{
+ "name": "cyc3_001",
+ "d": 7,
+ "w": [
+  0,
+  0,
+  1
+ ],
+ "n": 3,
+ "S": [
+  [
+   7,
+   0,
+   0
+  ],
+  [
+   6,
+   1,
+   0
+  ],
+  [
+   5,
+   2,
+   0
+  ],
+  [
+   4,
+   3,
+   0
+  ],
+  [
+   4,
+   0,
+   3
+  ],
+  [
+   3,
+   4,
+   0
+  ],
+  [
+   3,
+   1,
+   3
+  ],
+  [
+   2,
+   5,
+   0
+  ],
+  [
+   2,
+   2,
+   3
+  ],
+  [
+   1,
+   6,
+   0
+  ],
+  [
+   1,
+   3,
+   3
+  ],
+  [
+   1,
+   0,
+   6
+  ],
+  [
+   0,
+   7,
+   0
+  ],
+  [
+   0,
+   4,
+   3
+  ],
+  [
+   0,
+   1,
+   6
+  ]
+ ],
+ "nS": 15,
+ "primes": [
+  51241,
+  51577
+ ],
+ "moduli": [
+  10,
+  10
+ ],
+ "gmax": 3,
+ "perms": [],
+ "hodge_sym_ok": true,
+ "perm_ok": true,
+ "Y": {
+  "lb": 18,
+  "ub": 18,
+  "closed": true,
+  "closed_without_ivhs": true,
+  "orbit_counts": {
+   "rigid": 2,
+   "pure": 0,
+   "cm": 0,
+   "res": 0
+  },
+  "rule_counts": {
+   "R4:aut": 18,
+   "R2": 36
+  },
+  "fixed": {
+   "lb": 18,
+   "ub": 18,
+   "closed": true,
+   "closed_without_ivhs": true,
+   "rule_counts": {
+    "R4:aut": 18,
+    "R2": 36
+   }
+  },
+  "only_r5_or_grigid": [],
+  "conflicts": [],
+  "thmT_formula": 18,
+  "orbits": [
+   {
+    "members": [
+     "S:1:0",
+     "S:2:0",
+     "S:3:0",
+     "S:4:0",
+     "S:5:0",
+     "S:6:0"
+    ],
+    "h": {
+     "S:1:0": [
+      2,
+      5,
+      0
+     ],
+     "S:2:0": [
+      1,
+      6,
+      0
+     ],
+     "S:3:0": [
+      0,
+      7,
+      0
+     ],
+     "S:4:0": [
+      0,
+      7,
+      0
+     ],
+     "S:5:0": [
+      0,
+      6,
+      1
+     ],
+     "S:6:0": [
+      0,
+      5,
+      2
+     ]
+    },
+    "attempts": [
+     {
+      "member": "S:2:0",
+      "p": 51241,
+      "hull": [
+       1,
+       7,
+       7,
+       7
+      ],
+      "full": true
+     },
+     {
+      "member": "S:2:0",
+      "p": 51577,
+      "hull": [
+       1,
+       7,
+       7,
+       7
+      ]
+     }
+    ],
+    "kind": "rigid",
+    "cert": "S:2:0",
+    "galois_rigid": true,
+    "grigid_why": [
+     [
+      "S:1:0",
+      "hodge"
+     ],
+     [
+      "S:3:0",
+      "hodge"
+     ],
+     [
+      "S:4:0",
+      "hodge"
+     ],
+     [
+      "S:5:0",
+      "hodge"
+     ],
+     [
+      "S:6:0",
+      "hodge"
+     ]
+    ],
+    "key": [
+     "S:1:0",
+     "S:2:0",
+     "S:3:0",
+     "S:4:0",
+     "S:5:0",
+     "S:6:0"
+    ]
+   },
+   {
+    "members": [
+     "S:1:1",
+     "S:1:2",
+     "S:2:1",
+     "S:2:2",
+     "S:3:1",
+     "S:3:2",
+     "S:4:1",
+     "S:4:2",
+     "S:5:1",
+     "S:5:2",
+     "S:6:1",
+     "S:6:2"
+    ],
+    "h": {
+     "S:1:1": [
+      5,
+      7,
+      0
+     ],
+     "S:1:2": [
+      3,
+      9,
+      0
+     ],
+     "S:2:1": [
+      3,
+      9,
+      0
+     ],
+     "S:2:2": [
+      2,
+      10,
+      0
+     ],
+     "S:3:1": [
+      2,
+      10,
+      0
+     ],
+     "S:3:2": [
+      1,
+      10,
+      1
+     ],
+     "S:4:1": [
+      1,
+      10,
+      1
+     ],
+     "S:4:2": [
+      0,
+      10,
+      2
+     ],
+     "S:5:1": [
+      0,
+      10,
+      2
+     ],
+     "S:5:2": [
+      0,
+      9,
+      3
+     ],
+     "S:6:1": [
+      0,
+      9,
+      3
+     ],
+     "S:6:2": [
+      0,
+      7,
+      5
+     ]
+    },
+    "attempts": [
+     {
+      "member": "S:3:2",
+      "p": 51241,
+      "hull": [
+       1,
+       11,
+       12,
+       12
+      ],
+      "full": true
+     },
+     {
+      "member": "S:3:2",
+      "p": 51577,
+      "hull": [
+       1,
+       11,
+       12,
+       12
+      ]
+     }
+    ],
+    "kind": "rigid",
+    "cert": "S:3:2",
+    "galois_rigid": true,
+    "grigid_why": [
+     [
+      "S:1:1",
+      "hodge"
+     ],
+     [
+      "S:1:2",
+      "hodge"
+     ],
+     [
+      "S:2:1",
+      "hodge"
+     ],
+     [
+      "S:2:2",
+      "hodge"
+     ],
+     [
+      "S:3:1",
+      "hodge"
+     ],
+     [
+      "S:4:1",
+      "hodge-orbit-sum"
+     ],
+     [
+      "S:4:2",
+      "hodge"
+     ],
+     [
+      "S:5:1",
+      "hodge"
+     ],
+     [
+      "S:5:2",
+      "hodge"
+     ],
+     [
+      "S:6:1",
+      "hodge"
+     ],
+     [
+      "S:6:2",
+      "hodge"
+     ]
+    ],
+    "key": [
+     "S:1:1",
+     "S:1:2",
+     "S:2:1",
+     "S:2:2",
+     "S:3:1",
+     "S:3:2",
+     "S:4:1",
+     "S:4:2",
+     "S:5:1",
+     "S:5:2",
+     "S:6:1",
+     "S:6:2"
+    ]
+   }
+  ],
+  "blocks": [
+   {
+    "s": "S:1:0",
+    "t": "S:1:0",
+    "size": 6,
+    "hs": [
+     2,
+     5,
+     0
+    ],
+    "ht": [
+     2,
+     5,
+     0
+    ],
+    "ks": "rigid",
+    "kt": "rigid",
+    "aut": true,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "lb_aut": 1,
+    "fixed": [
+     "R4:aut",
+     1,
+     1
+    ],
+    "rule": "R4:aut",
+    "lb": 1,
+    "ub": 1,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "S:1:0",
+    "t": "S:1:1",
+    "size": 12,
+    "hs": [
+     2,
+     5,
+     0
+    ],
+    "ht": [
+     5,
+     7,
+     0
+    ],
+    "ks": "rigid",
+    "kt": "rigid",
+    "aut": false,
+    "r5naive": false,
+    "r5old": false,
+    "r5new": true,
+    "zero_rules": [
+     "R2",
+     "R2c",
+     "R3"
+    ],
+    "zero_rules_fixed": [
+     "R2",
+     "R2c",
+     "R3",
+     "R5'"
+    ],
+    "fixed": [
+     "R2",
+     0,
+     0
+    ],
+    "rule": "R2",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "S:1:1",
+    "t": "S:1:0",
+    "size": 12,
+    "hs": [
+     5,
+     7,
+     0
+    ],
+    "ht": [
+     2,
+     5,
+     0
+    ],
+    "ks": "rigid",
+    "kt": "rigid",
+    "aut": false,
+    "r5naive": false,
+    "r5old": false,
+    "r5new": true,
+    "zero_rules": [
+     "R2",
+     "R2c",
+     "R3"
+    ],
+    "zero_rules_fixed": [
+     "R2",
+     "R2c",
+     "R3",
+     "R5'"
+    ],
+    "fixed": [
+     "R2",
+     0,
+     0
+    ],
+    "rule": "R2",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "S:1:1",
+    "t": "S:1:1",
+    "size": 12,
+    "hs": [
+     5,
+     7,
+     0
+    ],
+    "ht": [
+     5,
+     7,
+     0
+    ],
+    "ks": "rigid",
+    "kt": "rigid",
+    "aut": true,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "lb_aut": 1,
+    "fixed": [
+     "R4:aut",
+     1,
+     1
+    ],
+    "rule": "R4:aut",
+    "lb": 1,
+    "ub": 1,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "S:1:1",
+    "t": "S:1:2",
+    "size": 12,
+    "hs": [
+     5,
+     7,
+     0
+    ],
+    "ht": [
+     3,
+     9,
+     0
+    ],
+    "ks": "rigid",
+    "kt": "rigid",
+    "aut": false,
+    "r5naive": false,
+    "r5old": false,
+    "r5new": true,
+    "zero_rules": [
+     "R2",
+     "R2c",
+     "R3b"
+    ],
+    "zero_rules_fixed": [
+     "R2",
+     "R2c",
+     "R3b",
+     "R5'"
+    ],
+    "fixed": [
+     "R2",
+     0,
+     0
+    ],
+    "rule": "R2",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   }
+  ]
+ },
+ "C": {
+  "lb": 3,
+  "ub": 3,
+  "closed": true,
+  "closed_without_ivhs": false,
+  "orbit_counts": {
+   "rigid": 0,
+   "pure": 0,
+   "cm": 0,
+   "res": 2
+  },
+  "rule_counts": {
+   "R6:aut-res": 3,
+   "R6:res": 6
+  },
+  "fixed": {
+   "lb": 3,
+   "ub": 3,
+   "closed": true,
+   "closed_without_ivhs": false,
+   "rule_counts": {
+    "R6:aut-res": 3,
+    "R6:res": 6
+   }
+  },
+  "only_r5_or_grigid": [],
+  "conflicts": [],
+  "thmT_formula": null,
+  "orbits": [
+   {
+    "members": [
+     "C:0"
+    ],
+    "h": {
+     "C:0": [
+      3,
+      3
+     ]
+    },
+    "attempts": [],
+    "kind": "res",
+    "cert": null,
+    "key": [
+     "C:0"
+    ]
+   },
+   {
+    "members": [
+     "C:1",
+     "C:2"
+    ],
+    "h": {
+     "C:1": [
+      7,
+      5
+     ],
+     "C:2": [
+      5,
+      7
+     ]
+    },
+    "attempts": [],
+    "kind": "res",
+    "cert": null,
+    "key": [
+     "C:1",
+     "C:2"
+    ]
+   }
+  ],
+  "blocks": [
+   {
+    "s": "C:0",
+    "t": "C:0",
+    "size": 1,
+    "hs": [
+     3,
+     3
+    ],
+    "ht": [
+     3,
+     3
+    ],
+    "ks": "res",
+    "kt": "res",
+    "aut": true,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "lb_aut": 1,
+    "ub1": [
+     [
+      "C:0",
+      "C:0",
+      51241,
+      1
+     ]
+    ],
+    "fixed": [
+     "R6:aut-res",
+     1,
+     1
+    ],
+    "rule": "R6:aut-res",
+    "lb": 1,
+    "ub": 1,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "C:0",
+    "t": "C:1",
+    "size": 2,
+    "hs": [
+     3,
+     3
+    ],
+    "ht": [
+     7,
+     5
+    ],
+    "ks": "res",
+    "kt": "res",
+    "aut": false,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "ub1": [
+     [
+      "C:0",
+      "C:1",
+      51241,
+      0
+     ]
+    ],
+    "fixed": [
+     "R6:res",
+     0,
+     0
+    ],
+    "rule": "R6:res",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "C:1",
+    "t": "C:0",
+    "size": 2,
+    "hs": [
+     7,
+     5
+    ],
+    "ht": [
+     3,
+     3
+    ],
+    "ks": "res",
+    "kt": "res",
+    "aut": false,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "ub1": [
+     [
+      "C:1",
+      "C:0",
+      51241,
+      0
+     ]
+    ],
+    "fixed": [
+     "R6:res",
+     0,
+     0
+    ],
+    "rule": "R6:res",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "C:1",
+    "t": "C:1",
+    "size": 2,
+    "hs": [
+     7,
+     5
+    ],
+    "ht": [
+     7,
+     5
+    ],
+    "ks": "res",
+    "kt": "res",
+    "aut": true,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "lb_aut": 1,
+    "ub1": [
+     [
+      "C:1",
+      "C:1",
+      51241,
+      1
+     ]
+    ],
+    "fixed": [
+     "R6:aut-res",
+     1,
+     1
+    ],
+    "rule": "R6:aut-res",
+    "lb": 1,
+    "ub": 1,
+    "closed": true,
+    "closed_fixed": true
+   },
+   {
+    "s": "C:1",
+    "t": "C:2",
+    "size": 2,
+    "hs": [
+     7,
+     5
+    ],
+    "ht": [
+     5,
+     7
+    ],
+    "ks": "res",
+    "kt": "res",
+    "aut": false,
+    "r5old": false,
+    "r5new": false,
+    "zero_rules": [],
+    "zero_rules_fixed": [],
+    "ub1": [
+     [
+      "C:1",
+      "C:2",
+      51241,
+      0
+     ]
+    ],
+    "fixed": [
+     "R6:res",
+     0,
+     0
+    ],
+    "rule": "R6:res",
+    "lb": 0,
+    "ub": 0,
+    "closed": true,
+    "closed_fixed": true
+   }
+  ]
+ },
+ "time": 0.0
+}

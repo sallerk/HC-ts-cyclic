@@ -1,0 +1,448 @@
+== d=6: 47 monomial sets (n<=12), kept 14 (smooth, moduli>0); dropped: {'singular at a coordinate point': 23, 'not smooth (3 random members singular mod p)': 1, 'exponents of rank < 3 (not smooth)': 9}
+family          n  w        |S| mod |Gmax| perms   Y:rig/pure/res C:rig/CM/res  R1-R3  +IVHS  Y-dim        C-dim     resY
+cyc1_000          1 000       28  19    1 -        0/ 0/ 3        0/ 0/ 1      no     YES    5            1         0
+cyc2_001          2 001       16  11    2 -        3/ 1/ 2        0/ 0/ 2      no     YES    73           2         0
+cyc3_001          3 001       12   7    3 -        3/ 2/ 3        1/ 0/ 1      no     YES    69           3         0
+cyc3_012          3 012       10   7    3 -        6/ 1/ 1        0/ 0/ 2      no     YES    157          3         0
+cyc4_013          4 013        8   5    4 -        4/ 3/ 2        2/ 0/ 1      no     no     243..247     4         2
+cyc5_001          5 001        9   4    5 -        3/ 3/ 0        1/ 0/ 0      YES    YES    25           4         0
+cyc5_012          5 012        6   3    5 -        4/ 1/ 1        2/ 0/ 0      no     no     49..73       5..9*     12
+cyc5_014          5 014        6   3    5 021      2/ 1/ 3        2/ 0/ 0      no     no     295..333     9         18
+cyc6_001       D  6 001        8   3    6 -        5/ 7/ 1        2/ 1/ 0      no     YES    681          35        0
+cyc6_012          6 012        6   3    6 210      7/ 7/ 2        2/ 0/ 2      no     YES    493          11..12*   0
+cyc6_013          6 013        7   4    6 -        9/ 7/ 0        4/ 0/ 0      no     no     239..243     6         2
+cyc8_013          8 013        4   1    8 021      5/ 5/ 2        3/ 0/ 1      no     no     471..617     14..80*   44
+cyc10_015        10 015        5   2   10 -        5/ 4/ 0        2/ 0/ 0      YES    YES    121          8         0
+cyc12_017      D 12 017        4   1   12 021      6/13/ 1        2/ 2/ 0      no     no     1009..1041   78..88*   16
+== d=7: 70 monomial sets (n<=14), kept 15 (smooth, moduli>0); dropped: {'not smooth (3 random members singular mod p)': 6, 'singular at a coordinate point': 40, 'exponents of rank < 3 (not smooth)': 9}
+family          n  w        |S| mod |Gmax| perms   Y:rig/pure/res C:rig/CM/res  R1-R3  +IVHS  Y-dim        C-dim     resY
+cyc1_000          1 000       36  27    1 -        0/ 0/ 1        0/ 0/ 1      no     YES    6            1         0
+cyc2_001          2 001       20  15    2 -        1/ 0/ 1        0/ 0/ 2      no     YES    12           2         0
+cyc3_001          3 001       15  10    3 -        1/ 0/ 1        0/ 0/ 2      no     YES    18           3         0
+cyc3_012          3 012       12   9    3 -        1/ 0/ 1        0/ 0/ 2      no     YES    18           3         0
+cyc4_012          4 012       10   7    4 -        3/ 0/ 0        0/ 0/ 3      YES    YES    24           4         0
+cyc5_014          5 014        8   5    5 -        1/ 0/ 1        0/ 0/ 2      no     YES    30           5         0
+cyc6_001          6 001       10   5    6 -        3/ 1/ 0        2/ 0/ 1      YES    YES    36           5         0
+cyc6_012          6 012        7   4    6 -        4/ 0/ 0        2/ 0/ 2      YES    YES    36           6..10*    0
+cyc6_023          6 023        8   5    6 -        4/ 0/ 0        3/ 0/ 1      YES    YES    36           6         0
+cyc7_001       D  7 001        9   4    7 -        5/ 1/ 0        1/ 0/ 0      YES    YES    246          6         0
+cyc7_012          7 012        6   3    7 210      6/ 0/ 1        1/ 0/ 1      no     YES    78           13..15*   0
+cyc7_013          7 013        6   3    7 -        7/ 0/ 0        1/ 0/ 1      no     no     42..78       7..13*    18
+cyc9_013          9 013        5   2    9 -        2/ 0/ 1        2/ 0/ 1      no     no     54..66       9..21*    6
+cyc12_016        12 016        5   2   12 -        4/ 1/ 0        4/ 0/ 0      YES    YES    66           10..14*   0
+cyc14_018      D 14 018        5   2   14 -       10/ 2/ 0        2/ 0/ 0      no     no     276..288     12        6
+== d=8: 86 monomial sets (n<=16), kept 17 (smooth, moduli>0); dropped: {'singular at a coordinate point': 59, 'not smooth (3 random members singular mod p)': 1, 'exponents of rank < 3 (not smooth)': 9}
+family          n  w        |S| mod |Gmax| perms   Y:rig/pure/res C:rig/CM/res  R1-R3  +IVHS  Y-dim        C-dim     resY
+cyc1_000          1 000       45  36    1 -        0/ 0/ 3        0/ 0/ 1      no     YES    7            1         0
+cyc2_001          2 001       25  20    2 -        1/ 0/ 5        0/ 0/ 2      no     YES    14           2         0
+cyc3_012          3 012       15  12    3 -        0/ 0/ 6        0/ 0/ 2      no     no     21..24       3         2
+cyc4_001          4 001       15  10    4 -        2/ 1/ 8        0/ 0/ 3      no     YES    76           4         0
+cyc4_012          4 012       13  10    4 -        4/ 1/ 6        0/ 0/ 3      no     no     91..93       4         1
+cyc6_015          6 015        9   6    6 -        4/ 2/ 6        0/ 0/ 4      no     no     439..449     6         5
+cyc7_001          7 001       11   6    7 -        3/ 3/ 0        1/ 0/ 0      YES    YES    49           6         0
+cyc7_012          7 012        7   4    7 -        4/ 1/ 1        0/ 0/ 2      no     no     97..131      7         14
+cyc7_013          7 013        7   4    7 -        4/ 0/ 2        0/ 0/ 2      no     no     49..50       7         1
+cyc7_016          7 016        7   4    7 021      2/ 0/ 4        0/ 0/ 2      no     no     94..126      13        14
+cyc8_001       D  8 001       10   5    8 -        8/ 3/ 4        2/ 0/ 1      no     YES    385          7         0
+cyc8_012          8 012        7   4    8 210      8/ 3/ 7        1/ 0/ 3      no     YES    323          15..17*   0
+cyc8_013          8 013        7   4    8 -       14/ 2/ 2        2/ 0/ 2      no     no     222..238     8..12*    8
+cyc8_014          8 014        8   5    8 -       13/ 3/ 2        3/ 0/ 1      no     no     109..133     8         12
+cyc12_015        12 015        5   2   12 021      8/ 7/ 7        2/ 0/ 4      no     no     800..1346    22..81*   94
+cyc14_017        14 017        6   3   14 -        6/ 3/ 0        2/ 0/ 0      YES    YES    91           12        0
+cyc16_019      D 16 019        5   2   16 -       16/ 6/ 0        3/ 0/ 0      no     no     427..539     14..22*   56
+
+== FULLY PROVED by R1-R3 alone (no residual block in any j of the Y-part)
+  cyc5_001        d=6 moduli=4  Y=25 C=4  dim Hdg^{2,2}(X_FF) = 1+Y+C = 30
+  cyc10_015       d=6 moduli=2  Y=121 C=8  dim Hdg^{2,2}(X_FF) = 1+Y+C = 130
+  cyc4_012        d=7 moduli=7  Y=24 C=4  dim Hdg^{2,2}(X_FF) = 1+Y+C = 29
+  cyc6_001        d=7 moduli=5  Y=36 C=5  dim Hdg^{2,2}(X_FF) = 1+Y+C = 42
+  cyc6_012        d=7 moduli=4  Y=36 C=6..10 [C-part ub first order, inf]  dim Hdg^{2,2}(X_FF) = 1+Y+C = 43..47
+  cyc6_023        d=7 moduli=5  Y=36 C=6  dim Hdg^{2,2}(X_FF) = 1+Y+C = 43
+  cyc7_001        d=7 moduli=4  Y=246 C=6  dim Hdg^{2,2}(X_FF) = 1+Y+C = 253
+  cyc12_016       d=7 moduli=2  Y=66 C=10..14 [C-part ub first order, inf]  dim Hdg^{2,2}(X_FF) = 1+Y+C = 77..81
+  cyc7_001        d=8 moduli=6  Y=49 C=6  dim Hdg^{2,2}(X_FF) = 1+Y+C = 56
+  cyc14_017       d=8 moduli=3  Y=91 C=12  dim Hdg^{2,2}(X_FF) = 1+Y+C = 104
+
+== FULLY PROVED only after first-order (IVHS) closure of the R4 blocks (ub1 = lb at 2 primes)
+  cyc1_000        d=6 moduli=19  Y=5 C=1  dim Hdg^{2,2}(X_FF) = 1+Y+C = 7  (Y closures: aut-IVHS 5, zero-IVHS 0)
+  cyc2_001        d=6 moduli=11  Y=73 C=2  dim Hdg^{2,2}(X_FF) = 1+Y+C = 76  (Y closures: aut-IVHS 3, zero-IVHS 4)
+  cyc3_001        d=6 moduli=7  Y=69 C=3  dim Hdg^{2,2}(X_FF) = 1+Y+C = 73  (Y closures: aut-IVHS 6, zero-IVHS 16)
+  cyc3_012        d=6 moduli=7  Y=157 C=3  dim Hdg^{2,2}(X_FF) = 1+Y+C = 161  (Y closures: aut-IVHS 1, zero-IVHS 12)
+  cyc6_001        d=6 moduli=3  Y=681 C=35  dim Hdg^{2,2}(X_FF) = 1+Y+C = 717  (Y closures: aut-IVHS 2, zero-IVHS 0)
+  cyc6_012        d=6 moduli=3  Y=493 C=11..12 [C-part ub first order, inf]  dim Hdg^{2,2}(X_FF) = 1+Y+C = 505..506  (Y closures: aut-IVHS 3, zero-IVHS 16)
+  cyc1_000        d=7 moduli=27  Y=6 C=1  dim Hdg^{2,2}(X_FF) = 1+Y+C = 8  (Y closures: aut-IVHS 6, zero-IVHS 0)
+  cyc2_001        d=7 moduli=15  Y=12 C=2  dim Hdg^{2,2}(X_FF) = 1+Y+C = 15  (Y closures: aut-IVHS 6, zero-IVHS 12)
+  cyc3_001        d=7 moduli=10  Y=18 C=3  dim Hdg^{2,2}(X_FF) = 1+Y+C = 22  (Y closures: aut-IVHS 12, zero-IVHS 36)
+  cyc3_012        d=7 moduli=9  Y=18 C=3  dim Hdg^{2,2}(X_FF) = 1+Y+C = 22  (Y closures: aut-IVHS 6, zero-IVHS 36)
+  cyc5_014        d=7 moduli=5  Y=30 C=5  dim Hdg^{2,2}(X_FF) = 1+Y+C = 36  (Y closures: aut-IVHS 6, zero-IVHS 24)
+  cyc7_012        d=7 moduli=3  Y=78 C=13..15 [C-part ub first order, inf]  dim Hdg^{2,2}(X_FF) = 1+Y+C = 92..94  (Y closures: aut-IVHS 6, zero-IVHS 0)
+  cyc1_000        d=8 moduli=36  Y=7 C=1  dim Hdg^{2,2}(X_FF) = 1+Y+C = 9  (Y closures: aut-IVHS 7, zero-IVHS 0)
+  cyc2_001        d=8 moduli=20  Y=14 C=2  dim Hdg^{2,2}(X_FF) = 1+Y+C = 17  (Y closures: aut-IVHS 10, zero-IVHS 14)
+  cyc4_001        d=8 moduli=10  Y=76 C=4  dim Hdg^{2,2}(X_FF) = 1+Y+C = 81  (Y closures: aut-IVHS 21, zero-IVHS 78)
+  cyc8_001        d=8 moduli=5  Y=385 C=7  dim Hdg^{2,2}(X_FF) = 1+Y+C = 393  (Y closures: aut-IVHS 14, zero-IVHS 28)
+  cyc8_012        d=8 moduli=4  Y=323 C=15..17 [C-part ub first order, inf]  dim Hdg^{2,2}(X_FF) = 1+Y+C = 339..341  (Y closures: aut-IVHS 35, zero-IVHS 72)
+
+== NOT proved: residual Y-blocks (first-order bound ub1 = Galois-min over the block orbit, 2 primes)
+  cyc4_013        d=6 moduli=5 Y-dim 243..247 | residual Y-blocks by reason {'R3': 4}, sum(ub-lb) {'R3': 4}
+     a=2 (2,1)[1, 5, 0] -> (2,3)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,3)[0, 5, 1] -> (4,1)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc5_012        d=6 moduli=3 Y-dim 49..73 | residual Y-blocks by reason {'R3': 24}, sum(ub-lb) {'R3': 24}
+     a=1 (1,2)[1, 3, 0] -> (1,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,2)[1, 3, 0] -> (1,1)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,2)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,4)[1, 3, 0] -> (1,1)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,4)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,1)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,2)[0, 3, 1] -> (5,4)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,2)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,2)[0, 3, 1] -> (5,3)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,4)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,4)[0, 3, 1] -> (5,3)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,1)[0, 3, 1] -> (5,3)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc5_014        d=6 moduli=3 Y-dim 295..333 | residual Y-blocks by reason {'R3': 16, 'resorb': 16, 'aut-nonrigid': 2}, sum(ub-lb) {'R3': 16, 'resorb': 16, 'aut-nonrigid': 6}
+     a=1 (1,4)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,4)[1, 3, 0] -> (1,2)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,3)[1, 3, 0] -> (1,1)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,2)[1, 3, 0] -> (1,1)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,1)[1, 3, 0] -> (2,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[1, 4, 0] -> (2,0)[1, 4, 0] ['residual', 'residual'] lb=2 ub1=5 : automorphism block with non-rigid side (stabilizer span 2)
+     a=2 (2,0)[1, 4, 0] -> (2,4)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[1, 4, 0] -> (2,3)[0, 4, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[1, 4, 0] -> (2,2)[0, 4, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,3)[0, 4, 0] -> (4,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,2)[0, 4, 0] -> (4,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,1)[0, 3, 1] -> (4,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,0)[0, 4, 1] -> (4,0)[0, 4, 1] ['residual', 'residual'] lb=2 ub1=5 : automorphism block with non-rigid side (stabilizer span 2)
+     a=4 (4,0)[0, 4, 1] -> (4,4)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=5 (5,4)[0, 3, 1] -> (5,3)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,4)[0, 3, 1] -> (5,2)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,3)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,2)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc6_013        d=6 moduli=4 Y-dim 239..243 | residual Y-blocks by reason {'R3': 4}, sum(ub-lb) {'R3': 4}
+     a=2 (2,1)[1, 4, 0] -> (2,5)[1, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,1)[0, 4, 1] -> (4,5)[0, 4, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc8_013        d=6 moduli=1 Y-dim 471..617 | residual Y-blocks by reason {'incomparable': 56, 'resorb': 28, 'aut-nonrigid': 2}, sum(ub-lb) {'incomparable': 72, 'resorb': 64, 'aut-nonrigid': 10}
+     a=1 (1,7)[1, 1, 0] -> (1,4)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,7)[1, 1, 0] -> (1,6)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,7)[1, 1, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=1 (1,7)[1, 1, 0] -> (1,2)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,1)[0, 2, 0] -> (1,4)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,1)[0, 2, 0] -> (1,6)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,1)[0, 2, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=1 (1,1)[0, 2, 0] -> (1,2)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,3)[0, 2, 0] -> (1,4)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,3)[0, 2, 0] -> (1,6)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,3)[0, 2, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=1 (1,3)[0, 2, 0] -> (1,2)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,5)[1, 1, 0] -> (1,4)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,5)[1, 1, 0] -> (1,6)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,5)[1, 1, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=1 (1,5)[1, 1, 0] -> (1,2)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,4)[1, 2, 0] -> (1,6)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=3 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,4)[1, 2, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=4 : residual orbit involved
+     a=1 (1,4)[1, 2, 0] -> (1,2)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=3 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,6)[1, 2, 0] -> (1,0)[1, 3, 0] ['rigid', 'residual'] lb=0 ub1=4 : residual orbit involved
+     a=1 (1,0)[1, 3, 0] -> (1,0)[1, 3, 0] ['residual', 'residual'] lb=2 ub1=7 : automorphism block with non-rigid side (stabilizer span 2)
+     a=1 (1,0)[1, 3, 0] -> (1,2)[1, 2, 0] ['residual', 'rigid'] lb=0 ub1=4 : residual orbit involved
+     a=5 (5,3)[0, 1, 1] -> (5,0)[0, 3, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=5 (5,3)[0, 1, 1] -> (5,2)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,3)[0, 1, 1] -> (5,4)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,3)[0, 1, 1] -> (5,6)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,5)[0, 2, 0] -> (5,0)[0, 3, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=5 (5,5)[0, 2, 0] -> (5,2)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,5)[0, 2, 0] -> (5,4)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,5)[0, 2, 0] -> (5,6)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,7)[0, 2, 0] -> (5,0)[0, 3, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=5 (5,7)[0, 2, 0] -> (5,2)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,7)[0, 2, 0] -> (5,4)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,7)[0, 2, 0] -> (5,6)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,1)[0, 1, 1] -> (5,0)[0, 3, 1] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=5 (5,1)[0, 1, 1] -> (5,2)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,1)[0, 1, 1] -> (5,4)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,1)[0, 1, 1] -> (5,6)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,0)[0, 3, 1] -> (5,0)[0, 3, 1] ['residual', 'residual'] lb=2 ub1=7 : automorphism block with non-rigid side (stabilizer span 2)
+     a=5 (5,0)[0, 3, 1] -> (5,2)[0, 2, 1] ['residual', 'rigid'] lb=0 ub1=4 : residual orbit involved
+     a=5 (5,0)[0, 3, 1] -> (5,4)[0, 2, 1] ['residual', 'rigid'] lb=0 ub1=4 : residual orbit involved
+     a=5 (5,0)[0, 3, 1] -> (5,6)[0, 2, 1] ['residual', 'rigid'] lb=0 ub1=4 : residual orbit involved
+     a=5 (5,2)[0, 2, 1] -> (5,4)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=3 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,4)[0, 2, 1] -> (5,6)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=3 : stabilizers incomparable (criterion not applicable)
+  cyc12_017       D d=6 moduli=1 Y-dim 1009..1041 | residual Y-blocks by reason {'incomparable': 24, 'R3': 4, 'aut-nonrigid': 2}, sum(ub-lb) {'incomparable': 24, 'R3': 4, 'aut-nonrigid': 4}
+     a=1 (1,4)[1, 1, 0] -> (1,9)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,4)[1, 1, 0] -> (1,3)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,4)[1, 1, 0] -> (1,8)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,10)[2, 0, 0] -> (1,10)[2, 0, 0] ['residual', 'residual'] lb=2 ub1=4 : automorphism block with non-rigid side (stabilizer span 2)
+     a=1 (1,9)[1, 1, 0] -> (1,8)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,3)[1, 1, 0] -> (1,8)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,9)[1, 1, 0] -> (2,8)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,3)[1, 1, 0] -> (2,8)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,4)[0, 1, 1] -> (4,9)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,4)[0, 1, 1] -> (4,3)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,4)[0, 1, 1] -> (5,9)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,4)[0, 1, 1] -> (5,3)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,4)[0, 1, 1] -> (5,8)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,9)[0, 1, 1] -> (5,8)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,3)[0, 1, 1] -> (5,8)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,2)[0, 0, 2] -> (5,2)[0, 0, 2] ['residual', 'residual'] lb=2 ub1=4 : automorphism block with non-rigid side (stabilizer span 2)
+  cyc7_013        d=7 moduli=3 Y-dim 42..78 | residual Y-blocks by reason {'R3': 36}, sum(ub-lb) {'R3': 36}
+     a=1 (1,2)[1, 3, 0] -> (1,5)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,2)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,5)[1, 3, 0] -> (1,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,6)[1, 3, 0] -> (2,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,6)[1, 3, 0] -> (2,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,4)[1, 3, 0] -> (2,3)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,1)[0, 4, 0] -> (3,6)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,1)[0, 4, 0] -> (3,2)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,6)[0, 4, 0] -> (3,2)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,5)[0, 4, 0] -> (4,1)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,5)[0, 4, 0] -> (4,6)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,1)[0, 4, 0] -> (4,6)[0, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,4)[0, 3, 1] -> (5,3)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,4)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,3)[0, 3, 1] -> (5,1)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,4)[0, 3, 1] -> (6,2)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,4)[0, 3, 1] -> (6,5)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,2)[0, 3, 1] -> (6,5)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc9_013        d=7 moduli=2 Y-dim 54..66 | residual Y-blocks by reason {'aut-nonrigid': 6}, sum(ub-lb) {'aut-nonrigid': 12}
+     a=1 (1,0)[1, 2, 0] -> (1,0)[1, 2, 0] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+     a=2 (2,0)[0, 3, 0] -> (2,0)[0, 3, 0] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+     a=3 (3,0)[0, 3, 0] -> (3,0)[0, 3, 0] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+     a=4 (4,0)[0, 3, 0] -> (4,0)[0, 3, 0] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+     a=5 (5,0)[0, 3, 0] -> (5,0)[0, 3, 0] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+     a=6 (6,0)[0, 2, 1] -> (6,0)[0, 2, 1] ['residual', 'residual'] lb=1 ub1=3 : automorphism block with non-rigid side (stabilizer span 1)
+  cyc14_018       D d=7 moduli=2 Y-dim 276..288 | residual Y-blocks by reason {'R3': 12}, sum(ub-lb) {'R3': 12}
+     a=1 (1,4)[1, 1, 0] -> (1,10)[1, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,8)[0, 2, 0] -> (2,6)[0, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,2)[0, 2, 0] -> (3,12)[0, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,2)[0, 2, 0] -> (4,12)[0, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,8)[0, 2, 0] -> (5,6)[0, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,4)[0, 1, 1] -> (6,10)[0, 1, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc3_012        d=8 moduli=12 Y-dim 21..24 | residual Y-blocks by reason {'resorb': 2, 'aut-nonrigid': 1}, sum(ub-lb) {'resorb': 2, 'aut-nonrigid': 1}
+     a=4 (4,2)[1, 12, 1] -> (4,1)[1, 12, 1] ['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,0)[1, 13, 1] -> (4,0)[1, 13, 1] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+  cyc4_012        d=8 moduli=10 Y-dim 91..93 | residual Y-blocks by reason {'resorb': 2}, sum(ub-lb) {'resorb': 2}
+     a=4 (4,3)[1, 10, 1] -> (4,1)[1, 10, 1] ['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+  cyc6_015        d=8 moduli=6 Y-dim 439..449 | residual Y-blocks by reason {'R3': 4, 'resorb': 6}, sum(ub-lb) {'R3': 4, 'resorb': 6}
+     a=2 (2,4)[1, 5, 0] -> (2,2)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,1)[2, 6, 0] -> (2,5)[2, 6, 0] ['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=4 (4,1)[1, 6, 1] -> (4,5)[1, 6, 1] ['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,4)[0, 5, 1] -> (6,2)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,5)[0, 6, 2] -> (6,1)[0, 6, 2] ['residual', 'residual'] lb=0 ub1=1 : residual orbit involved
+  cyc7_012        d=8 moduli=4 Y-dim 97..131 | residual Y-blocks by reason {'resorb': 24, 'aut-nonrigid': 2}, sum(ub-lb) {'resorb': 24, 'aut-nonrigid': 10}
+     a=2 (2,5)[2, 4, 0] -> (2,0)[2, 5, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,0)[2, 5, 0] ['residual', 'residual'] lb=1 ub1=6 : automorphism block with non-rigid side (stabilizer span 1)
+     a=2 (2,0)[2, 5, 0] -> (2,2)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,4)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,6)[2, 4, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,1)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,3)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,4)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,6)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,1)[0, 4, 2] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,3)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,5)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,0)[0, 5, 2] -> (6,0)[0, 5, 2] ['residual', 'residual'] lb=1 ub1=6 : automorphism block with non-rigid side (stabilizer span 1)
+     a=6 (6,0)[0, 5, 2] -> (6,2)[0, 4, 2] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+  cyc7_013        d=8 moduli=4 Y-dim 49..50 | residual Y-blocks by reason {'aut-nonrigid': 1}, sum(ub-lb) {'aut-nonrigid': 1}
+     a=4 (4,0)[1, 5, 1] -> (4,0)[1, 5, 1] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+  cyc7_016        d=8 moduli=4 Y-dim 94..126 | residual Y-blocks by reason {'resorb': 24, 'aut-nonrigid': 2}, sum(ub-lb) {'resorb': 24, 'aut-nonrigid': 8}
+     a=2 (2,1)[2, 4, 0] -> (2,0)[2, 5, 0] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,0)[2, 5, 0] ['residual', 'residual'] lb=2 ub1=6 : automorphism block with non-rigid side (stabilizer span 2)
+     a=2 (2,0)[2, 5, 0] -> (2,6)[2, 4, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,5)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,4)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,3)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=2 (2,0)[2, 5, 0] -> (2,2)[1, 5, 0] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,5)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,4)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,3)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,2)[0, 5, 1] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,1)[0, 4, 2] -> (6,0)[0, 5, 2] ['rigid', 'residual'] lb=0 ub1=1 : residual orbit involved
+     a=6 (6,0)[0, 5, 2] -> (6,0)[0, 5, 2] ['residual', 'residual'] lb=2 ub1=6 : automorphism block with non-rigid side (stabilizer span 2)
+     a=6 (6,0)[0, 5, 2] -> (6,6)[0, 4, 2] ['residual', 'rigid'] lb=0 ub1=1 : residual orbit involved
+  cyc8_013        d=8 moduli=4 Y-dim 222..238 | residual Y-blocks by reason {'R3': 16}, sum(ub-lb) {'R3': 16}
+     a=2 (2,2)[1, 4, 0] -> (2,0)[1, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,2)[1, 4, 0] -> (2,6)[1, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,0)[1, 4, 0] -> (2,6)[1, 4, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,1)[0, 5, 1] -> (4,3)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=6 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,7)[1, 5, 0] -> (4,5)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=6 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,6)[0, 4, 1] -> (6,2)[0, 4, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,6)[0, 4, 1] -> (6,0)[0, 4, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,2)[0, 4, 1] -> (6,0)[0, 4, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+  cyc8_014        d=8 moduli=5 Y-dim 109..133 | residual Y-blocks by reason {'incomparable': 16, 'R3': 8}, sum(ub-lb) {'incomparable': 16, 'R3': 8}
+     a=2 (2,2)[1, 5, 0] -> (2,7)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,2)[1, 5, 0] -> (2,3)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,7)[1, 5, 0] -> (2,3)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,5)[1, 5, 0] -> (4,1)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,5)[1, 5, 0] -> (4,6)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,2)[0, 5, 1] -> (4,7)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,2)[0, 5, 1] -> (4,3)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,7)[0, 5, 1] -> (4,3)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,1)[1, 5, 0] -> (4,6)[1, 5, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,5)[0, 5, 1] -> (6,1)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,5)[0, 5, 1] -> (6,6)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,1)[0, 5, 1] -> (6,6)[0, 5, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+  cyc12_015       d=8 moduli=2 Y-dim 800..1346 | residual Y-blocks by reason {'aut-nonrigid': 22, 'resorb': 72, 'R3': 80}, sum(ub-lb) {'aut-nonrigid': 58, 'resorb': 312, 'R3': 80}
+     a=1 (1,10)[2, 2, 0] -> (1,10)[2, 2, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=1 (1,10)[2, 2, 0] -> (1,2)[2, 2, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=1 (1,10)[2, 2, 0] -> (1,9)[2, 2, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=1 (1,2)[2, 2, 0] -> (1,2)[2, 2, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=1 (1,2)[2, 2, 0] -> (1,9)[2, 2, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=1 (1,1)[1, 3, 0] -> (1,8)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,1)[1, 3, 0] -> (1,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=1 (1,1)[1, 3, 0] -> (1,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,5)[1, 3, 0] -> (1,8)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,5)[1, 3, 0] -> (1,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=1 (1,5)[1, 3, 0] -> (1,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,8)[1, 3, 0] -> (1,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=1 (1,0)[1, 4, 0] -> (1,0)[1, 4, 0] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=1 (1,0)[1, 4, 0] -> (1,4)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,1)[1, 3, 0] -> (2,8)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,1)[1, 3, 0] -> (2,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,1)[1, 3, 0] -> (2,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,1)[1, 3, 0] -> (2,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,1)[1, 3, 0] -> (2,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,5)[1, 3, 0] -> (2,8)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,5)[1, 3, 0] -> (2,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,5)[1, 3, 0] -> (2,4)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,5)[1, 3, 0] -> (2,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,5)[1, 3, 0] -> (2,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,8)[1, 3, 0] -> (2,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,8)[1, 3, 0] -> (2,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,8)[1, 3, 0] -> (2,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,0)[1, 4, 0] -> (2,0)[1, 4, 0] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=2 (2,0)[1, 4, 0] -> (2,4)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,0)[1, 4, 0] -> (2,7)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,0)[1, 4, 0] -> (2,11)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=2 (2,4)[1, 3, 0] -> (2,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,4)[1, 3, 0] -> (2,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,8)[1, 3, 0] -> (3,0)[1, 4, 0] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=3 (3,8)[1, 3, 0] -> (3,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,8)[1, 3, 0] -> (3,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,0)[1, 4, 0] -> (3,0)[1, 4, 0] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=3 (3,0)[1, 4, 0] -> (3,4)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=3 (3,0)[1, 4, 0] -> (3,7)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=3 (3,0)[1, 4, 0] -> (3,11)[1, 3, 0] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=3 (3,4)[1, 3, 0] -> (3,7)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,4)[1, 3, 0] -> (3,11)[1, 3, 0] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,3)[0, 4, 0] -> (3,10)[0, 4, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=3 (3,3)[0, 4, 0] -> (3,2)[0, 4, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=3 (3,10)[0, 4, 0] -> (3,10)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=3 (3,10)[0, 4, 0] -> (3,2)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=3 (3,2)[0, 4, 0] -> (3,2)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=5 (5,10)[0, 4, 0] -> (5,10)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=5 (5,10)[0, 4, 0] -> (5,2)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=5 (5,10)[0, 4, 0] -> (5,9)[0, 4, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=5 (5,2)[0, 4, 0] -> (5,2)[0, 4, 0] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=5 (5,2)[0, 4, 0] -> (5,9)[0, 4, 0] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=5 (5,5)[0, 3, 1] -> (5,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=5 (5,5)[0, 3, 1] -> (5,4)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,5)[0, 3, 1] -> (5,8)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,1)[0, 3, 1] -> (5,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=5 (5,1)[0, 3, 1] -> (5,4)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,1)[0, 3, 1] -> (5,8)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,0)[0, 4, 1] -> (5,0)[0, 4, 1] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=5 (5,0)[0, 4, 1] -> (5,4)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=5 (5,0)[0, 4, 1] -> (5,8)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,5)[0, 3, 1] -> (6,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,5)[0, 3, 1] -> (6,4)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,5)[0, 3, 1] -> (6,8)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,5)[0, 3, 1] -> (6,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,5)[0, 3, 1] -> (6,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,1)[0, 3, 1] -> (6,0)[0, 4, 1] ['rigid', 'residual'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,1)[0, 3, 1] -> (6,4)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,1)[0, 3, 1] -> (6,8)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,1)[0, 3, 1] -> (6,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,1)[0, 3, 1] -> (6,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,0)[0, 4, 1] -> (6,0)[0, 4, 1] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=6 (6,0)[0, 4, 1] -> (6,4)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,0)[0, 4, 1] -> (6,8)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,0)[0, 4, 1] -> (6,11)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,0)[0, 4, 1] -> (6,7)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=6 (6,4)[0, 3, 1] -> (6,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,4)[0, 3, 1] -> (6,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,8)[0, 3, 1] -> (6,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,8)[0, 3, 1] -> (6,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,0)[0, 4, 1] -> (7,0)[0, 4, 1] ['residual', 'residual'] lb=2 ub1=9 : automorphism block with non-rigid side (stabilizer span 2)
+     a=7 (7,0)[0, 4, 1] -> (7,4)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=7 (7,0)[0, 4, 1] -> (7,8)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=7 (7,0)[0, 4, 1] -> (7,11)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=7 (7,0)[0, 4, 1] -> (7,7)[0, 3, 1] ['residual', 'rigid'] lb=0 ub1=5 : residual orbit involved
+     a=7 (7,4)[0, 3, 1] -> (7,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,4)[0, 3, 1] -> (7,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,8)[0, 3, 1] -> (7,11)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,8)[0, 3, 1] -> (7,7)[0, 3, 1] ['rigid', 'rigid'] lb=0 ub1=4 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,3)[0, 2, 2] -> (7,10)[0, 2, 2] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=7 (7,3)[0, 2, 2] -> (7,2)[0, 2, 2] ['residual', 'residual'] lb=0 ub1=2 : residual orbit involved
+     a=7 (7,10)[0, 2, 2] -> (7,10)[0, 2, 2] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=7 (7,10)[0, 2, 2] -> (7,2)[0, 2, 2] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+     a=7 (7,2)[0, 2, 2] -> (7,2)[0, 2, 2] ['residual', 'residual'] lb=1 ub1=2 : automorphism block with non-rigid side (stabilizer span 1)
+  cyc16_019       D d=8 moduli=2 Y-dim 427..539 | residual Y-blocks by reason {'incomparable': 64, 'R3': 48}, sum(ub-lb) {'incomparable': 64, 'R3': 48}
+     a=1 (1,6)[2, 1, 0] -> (1,13)[2, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,6)[2, 1, 0] -> (1,5)[2, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,13)[2, 1, 0] -> (1,5)[2, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,11)[1, 2, 0] -> (1,3)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=1 (1,11)[1, 2, 0] -> (1,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,3)[1, 2, 0] -> (1,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=1 (1,9)[0, 3, 0] -> (1,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,13)[2, 1, 0] -> (2,5)[2, 1, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,11)[1, 2, 0] -> (2,3)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,11)[1, 2, 0] -> (2,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,3)[1, 2, 0] -> (2,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,2)[0, 3, 0] -> (2,15)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,2)[0, 3, 0] -> (2,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=2 (2,9)[0, 3, 0] -> (2,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=2 (2,15)[0, 3, 0] -> (2,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,11)[1, 2, 0] -> (3,3)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,2)[0, 3, 0] -> (3,15)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=3 (3,2)[0, 3, 0] -> (3,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=3 (3,9)[0, 3, 0] -> (3,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=3 (3,9)[0, 3, 0] -> (3,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=3 (3,1)[0, 3, 0] -> (3,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=3 (3,15)[0, 3, 0] -> (3,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,11)[1, 2, 0] -> (4,3)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,11)[1, 2, 0] -> (4,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,3)[1, 2, 0] -> (4,10)[1, 2, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,2)[0, 3, 0] -> (4,15)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,2)[0, 3, 0] -> (4,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,9)[0, 3, 0] -> (4,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,9)[0, 3, 0] -> (4,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,1)[0, 3, 0] -> (4,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,15)[0, 3, 0] -> (4,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=4 (4,6)[0, 2, 1] -> (4,13)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,6)[0, 2, 1] -> (4,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=4 (4,13)[0, 2, 1] -> (4,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,2)[0, 3, 0] -> (5,15)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,2)[0, 3, 0] -> (5,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,9)[0, 3, 0] -> (5,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,9)[0, 3, 0] -> (5,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,1)[0, 3, 0] -> (5,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=5 (5,15)[0, 3, 0] -> (5,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=5 (5,13)[0, 2, 1] -> (5,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,9)[0, 3, 0] -> (6,1)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,9)[0, 3, 0] -> (6,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,1)[0, 3, 0] -> (6,14)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,15)[0, 3, 0] -> (6,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,6)[0, 2, 1] -> (6,13)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,6)[0, 2, 1] -> (6,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=6 (6,13)[0, 2, 1] -> (6,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=6 (6,11)[0, 1, 2] -> (6,3)[0, 1, 2] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,15)[0, 3, 0] -> (7,7)[0, 3, 0] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,6)[0, 2, 1] -> (7,13)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=7 (7,6)[0, 2, 1] -> (7,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=7 (7,13)[0, 2, 1] -> (7,5)[0, 2, 1] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,11)[0, 1, 2] -> (7,3)[0, 1, 2] ['rigid', 'rigid'] lb=0 ub1=1 : R3: equal Hodge numbers and Higgs kernels, no automorphism
+     a=7 (7,11)[0, 1, 2] -> (7,10)[0, 1, 2] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+     a=7 (7,3)[0, 1, 2] -> (7,10)[0, 1, 2] ['rigid', 'rigid'] lb=0 ub1=1 : stabilizers incomparable (criterion not applicable)
+
+== flags (possible shaky points)
+  cyc4_013 d=6: a=0 (0,0)->(0,2) R3-zero with non-maximal mod-p ranks (generic-rank assumption) | a=0 (0,2)->(0,0) R3-zero with non-maximal mod-p ranks (generic-rank assumption) | a=1 (1,3)->(1,2) stabilizers incomparable | a=1 (1,1)->(1,2) stabilizers incomparable | a=1 (1,2)->(1,3) stabilizers incomparable | a=1 (1,2)->(1,1) stabilizers incomparable ...
+  cyc5_012 d=6: a=0 (0,0)->(0,2) stabilizers incomparable | a=0 (0,0)->(0,4) stabilizers incomparable | a=0 (0,0)->(0,1) stabilizers incomparable | a=0 (0,0)->(0,3) stabilizers incomparable | a=0 (0,2)->(0,0) stabilizers incomparable | a=0 (0,4)->(0,0) stabilizers incomparable ...
+  cyc5_014 d=6: a=0 (0,0)->(0,4) stabilizers incomparable | a=0 (0,0)->(0,3) stabilizers incomparable | a=0 (0,0)->(0,2) stabilizers incomparable | a=0 (0,0)->(0,1) stabilizers incomparable | a=0 (0,4)->(0,0) stabilizers incomparable | a=0 (0,3)->(0,0) stabilizers incomparable ...
+  cyc8_013 d=6: a=0 (0,0)->(0,2) stabilizers incomparable | a=0 (0,0)->(0,6) stabilizers incomparable | a=0 (0,2)->(0,0) stabilizers incomparable | a=0 (0,2)->(0,4) stabilizers incomparable | a=0 (0,4)->(0,2) stabilizers incomparable | a=0 (0,4)->(0,6) stabilizers incomparable ...
+  cyc12_017 d=6: a=0 (0,4)->(0,9) stabilizers incomparable | a=0 (0,4)->(0,3) stabilizers incomparable | a=0 (0,9)->(0,4) stabilizers incomparable | a=0 (0,9)->(0,8) stabilizers incomparable | a=0 (0,3)->(0,4) stabilizers incomparable | a=0 (0,3)->(0,8) stabilizers incomparable ...
+  cyc6_012 d=7: a=0 (0,0)->(0,2) stabilizers incomparable | a=0 (0,0)->(0,4) stabilizers incomparable | a=0 (0,2)->(0,0) stabilizers incomparable | a=0 (0,4)->(0,0) stabilizers incomparable
+  cyc9_013 d=7: a=0 (0,0)->(0,3) stabilizers incomparable | a=0 (0,0)->(0,6) stabilizers incomparable | a=0 (0,3)->(0,0) stabilizers incomparable | a=0 (0,6)->(0,0) stabilizers incomparable
+  cyc8_013 d=8: a=0 (0,6)->(0,4) stabilizers incomparable | a=0 (0,4)->(0,6) stabilizers incomparable | a=0 (0,4)->(0,2) stabilizers incomparable | a=0 (0,2)->(0,4) stabilizers incomparable
+  cyc8_014 d=8: a=2 (2,2)->(2,7) stabilizers incomparable | a=2 (2,2)->(2,3) stabilizers incomparable | a=2 (2,7)->(2,2) stabilizers incomparable | a=2 (2,3)->(2,2) stabilizers incomparable | a=4 (4,5)->(4,6) stabilizers incomparable | a=4 (4,2)->(4,7) stabilizers incomparable ...
+  cyc12_015 d=8: a=0 (0,0)->(0,4) stabilizers incomparable | a=0 (0,0)->(0,8) stabilizers incomparable | a=0 (0,4)->(0,0) stabilizers incomparable | a=0 (0,8)->(0,0) stabilizers incomparable
+  cyc16_019 d=8: a=1 (1,6)->(1,13) stabilizers incomparable | a=1 (1,6)->(1,5) stabilizers incomparable | a=1 (1,13)->(1,6) stabilizers incomparable | a=1 (1,5)->(1,6) stabilizers incomparable | a=1 (1,11)->(1,10) stabilizers incomparable | a=1 (1,3)->(1,10) stabilizers incomparable ...

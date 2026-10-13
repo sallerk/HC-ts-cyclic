@@ -1,0 +1,224 @@
+c_n closed form vs brute force (n<=12, D<=39): 0 mismatches
+d=  6 n=  2 n|d        Y=      73 C=   2 dim=       76 pure=  1 pure-in-pure-orbits=  1 crossu_unclosed=     0 dimHdg(YxY)=92 
+d=  6 n=  3 n=d/2      Y=      69 C=   3 dim=       73 pure=  3 pure-in-pure-orbits=  3 crossu_unclosed=     8 ex=[((1, 2), (2, 1))] 
+d=  6 n=  5 n=d-1      Y=      25 C=   4 dim=       30 pure= 13 pure-in-pure-orbits=  5 crossu_unclosed=     0 dimHdg(YxY)=58 
+d=  6 n=  6 n=d        Y=     681 C=  35 dim=      717 pure= 13 pure-in-pure-orbits= 13 crossu_unclosed=    16 ex=[((3, 1), (2, 2))] 
+d=  7 n=  2 n|d-1      Y=      12 C=   2 dim=       15 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=15 
+d=  7 n=  3 n=(d-1)/2  Y=      18 C=   3 dim=       22 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=21 
+d=  7 n=  6 n=d-1      Y=      36 C=   5 dim=       42 pure= 16 pure-in-pure-orbits=  6 crossu_unclosed=     0 dimHdg(YxY)=81 
+d=  7 n=  7 n=d        Y=     246 C=   6 dim=      253 pure= 16 pure-in-pure-orbits=  6 crossu_unclosed=    24 ex=[((3, 1), (1, 3))] 
+d=  8 n=  2 n|d        Y=      14 C=   2 dim=       17 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=17 
+d=  8 n=  4 n=d/2      Y=      76 C=   4 dim=       81 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=     8 ex=[((4, 3), (6, 1))] 
+d=  8 n=  7 n=d-1      Y=      49 C=   6 dim=       56 pure= 19 pure-in-pure-orbits=  7 crossu_unclosed=     0 dimHdg(YxY)=108 
+d=  8 n=  8 n=d        Y=     385 C=   7 dim=      393 pure= 19 pure-in-pure-orbits=  7 crossu_unclosed=    84 ex=[((3, 4), (4, 3))] 
+d=  9 n=  2 n|d-1      Y=      16 C=   2 dim=       19 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=19 
+d=  9 n=  3 n|d        Y=      24 C=   3 dim=       28 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=27 
+d=  9 n=  4 n=(d-1)/2  Y=      32 C=   4 dim=       37 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=35 
+d=  9 n=  8 n=d-1      Y=      64 C=   7 dim=       72 pure= 22 pure-in-pure-orbits=  8 crossu_unclosed=     0 dimHdg(YxY)=139 
+d=  9 n=  9 n=d        Y=     568 C=   8 dim=      577 pure= 22 pure-in-pure-orbits=  8 crossu_unclosed=    96 ex=[((3, 4), (4, 3))] 
+d= 10 n=  2 n|d        Y=      18 C=   2 dim=       21 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=21 
+d= 10 n=  3 n|d-1      Y=      27 C=   3 dim=       31 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=30 
+d= 10 n=  5 n=d/2      Y=     125 C=   5 dim=      131 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    24 ex=[((3, 4), (6, 1))] 
+d= 10 n=  9 n=d-1      Y=      81 C=   8 dim=       90 pure= 25 pure-in-pure-orbits=  9 crossu_unclosed=     0 dimHdg(YxY)=174 
+d= 10 n= 10 n=d        Y=     801 C=   9 dim=      811 pure= 25 pure-in-pure-orbits=  9 crossu_unclosed=   208 ex=[((4, 9), (8, 5))] 
+d= 11 n=  2 n|d-1      Y=      20 C=   2 dim=       23 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=23 
+d= 11 n=  5 n=(d-1)/2  Y=      50 C=   5 dim=       56 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=53 
+d= 11 n= 10 n=d-1      Y=     100 C=   9 dim=      110 pure= 28 pure-in-pure-orbits= 10 crossu_unclosed=     0 dimHdg(YxY)=213 
+d= 11 n= 11 n=d        Y=    1090 C=  10 dim=     1101 pure= 28 pure-in-pure-orbits= 10 crossu_unclosed=    80 ex=[((4, 9), (9, 4))] 
+d= 12 n=  2 n|d        Y=      22 C=   2 dim=       25 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=25 
+d= 12 n=  3 n|d        Y=      33 C=   3 dim=       37 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=36 
+d= 12 n=  4 n|d        Y=      44 C=   4 dim=       49 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=47 
+d= 12 n=  6 n=d/2      Y=     186 C=   6 dim=      193 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    58 ex=[((3, 4), (5, 2))] 
+d= 12 n= 11 n=d-1      Y=     121 C=  10 dim=      132 pure= 31 pure-in-pure-orbits= 11 crossu_unclosed=     0 dimHdg(YxY)=256 
+d= 12 n= 12 n=d        Y=    1441 C=  11 dim=     1453 pure= 31 pure-in-pure-orbits= 11 crossu_unclosed=   412 ex=[((4, 9), (2, 11))] 
+d= 13 n=  2 n|d-1      Y=      24 C=   2 dim=       27 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=27 
+d= 13 n=  3 n|d-1      Y=      36 C=   3 dim=       40 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=39 
+d= 13 n=  4 n|d-1      Y=      48 C=   4 dim=       53 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=51 
+d= 13 n=  6 n=(d-1)/2  Y=      72 C=   6 dim=       79 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=75 
+d= 13 n= 12 n=d-1      Y=     144 C=  11 dim=      156 pure= 34 pure-in-pure-orbits= 12 crossu_unclosed=     0 dimHdg(YxY)=303 
+d= 13 n= 13 n=d        Y=    1860 C=  12 dim=     1873 pure= 34 pure-in-pure-orbits= 12 crossu_unclosed=   120 ex=[((12, 4), (4, 12))] 
+d= 14 n=  2 n|d        Y=      26 C=   2 dim=       29 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=29 
+d= 14 n=  7 n=d/2      Y=     259 C=   7 dim=      267 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    36 ex=[((12, 4), (13, 3))] 
+d= 14 n= 13 n=d-1      Y=     169 C=  12 dim=      182 pure= 37 pure-in-pure-orbits= 13 crossu_unclosed=     0 dimHdg(YxY)=354 
+d= 14 n= 14 n=d        Y=    2353 C=  13 dim=     2367 pure= 37 pure-in-pure-orbits= 13 crossu_unclosed=   480 ex=[((12, 4), (3, 13))] 
+d= 15 n=  2 n|d-1      Y=      28 C=   2 dim=       31 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=31 
+d= 15 n=  3 n|d        Y=      42 C=   3 dim=       46 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=45 
+d= 15 n=  5 n|d        Y=      70 C=   5 dim=       76 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=73 
+d= 15 n=  7 n=(d-1)/2  Y=      98 C=   7 dim=      106 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=101 
+d= 15 n= 14 n=d-1      Y=     196 C=  13 dim=      210 pure= 40 pure-in-pure-orbits= 14 crossu_unclosed=     0 dimHdg(YxY)=409 
+d= 15 n= 15 n=d        Y=    2926 C=  14 dim=     2941 pure= 40 pure-in-pure-orbits= 14 crossu_unclosed=   456 ex=[((12, 4), (4, 12))] 
+d= 16 n=  2 n|d        Y=      30 C=   2 dim=       33 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=33 
+d= 16 n=  3 n|d-1      Y=      45 C=   3 dim=       49 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=48 
+d= 16 n=  4 n|d        Y=      60 C=   4 dim=       65 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=63 
+d= 16 n=  5 n|d-1      Y=      75 C=   5 dim=       81 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=78 
+d= 16 n=  8 n=d/2      Y=     344 C=   8 dim=      353 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    32 ex=[((10, 6), (14, 2))] 
+d= 16 n= 15 n=d-1      Y=     225 C=  14 dim=      240 pure= 43 pure-in-pure-orbits= 15 crossu_unclosed=     0 dimHdg(YxY)=468 
+d= 16 n= 16 n=d        Y=    3585 C=  15 dim=     3601 pure= 43 pure-in-pure-orbits= 15 crossu_unclosed=   436 ex=[((4, 9), (9, 4))] 
+d= 17 n=  2 n|d-1      Y=      32 C=   2 dim=       35 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=35 
+d= 17 n=  4 n|d-1      Y=      64 C=   4 dim=       69 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=67 
+d= 17 n=  8 n=(d-1)/2  Y=     128 C=   8 dim=      137 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=131 
+d= 17 n= 16 n=d-1      Y=     256 C=  15 dim=      272 pure= 46 pure-in-pure-orbits= 16 crossu_unclosed=     0 dimHdg(YxY)=531 
+d= 17 n= 17 n=d        Y=    4336 C=  16 dim=     4353 pure= 46 pure-in-pure-orbits= 16 crossu_unclosed=   224 ex=[((12, 4), (4, 12))] 
+d= 18 n=  2 n|d        Y=      34 C=   2 dim=       37 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=37 
+d= 18 n=  3 n|d        Y=      51 C=   3 dim=       55 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=54 
+d= 18 n=  6 n|d        Y=     102 C=   6 dim=      109 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=    40 ex=[((12, 4), (15, 1))] 
+d= 18 n=  9 n=d/2      Y=     441 C=   9 dim=      451 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    68 ex=[((12, 4), (11, 5))] 
+d= 18 n= 17 n=d-1      Y=     289 C=  16 dim=      306 pure= 49 pure-in-pure-orbits= 17 crossu_unclosed=     0 dimHdg(YxY)=598 
+d= 18 n= 18 n=d        Y=    5185 C=  17 dim=     5203 pure= 49 pure-in-pure-orbits= 17 crossu_unclosed=  1096 ex=[((12, 4), (11, 5))] 
+d= 19 n=  2 n|d-1      Y=      36 C=   2 dim=       39 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=39 
+d= 19 n=  3 n|d-1      Y=      54 C=   3 dim=       58 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=57 
+d= 19 n=  6 n|d-1      Y=     108 C=   6 dim=      115 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=111 
+d= 19 n=  9 n=(d-1)/2  Y=     162 C=   9 dim=      172 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=165 
+d= 19 n= 18 n=d-1      Y=     324 C=  17 dim=      342 pure= 52 pure-in-pure-orbits= 18 crossu_unclosed=     0 dimHdg(YxY)=669 
+d= 19 n= 19 n=d        Y=    6138 C=  18 dim=     6157 pure= 52 pure-in-pure-orbits= 18 crossu_unclosed=   288 ex=[((7, 17), (17, 7))] 
+d= 20 n=  2 n|d        Y=      38 C=   2 dim=       41 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=41 
+d= 20 n=  4 n|d        Y=      76 C=   4 dim=       81 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=79 
+d= 20 n=  5 n|d        Y=      95 C=   5 dim=      101 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=98 
+d= 20 n= 10 n=d/2      Y=     550 C=  10 dim=      561 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   144 ex=[((12, 4), (10, 6))] 
+d= 20 n= 19 n=d-1      Y=     361 C=  18 dim=      380 pure= 55 pure-in-pure-orbits= 19 crossu_unclosed=     0 dimHdg(YxY)=744 
+d= 20 n= 20 n=d        Y=    7201 C=  19 dim=     7221 pure= 55 pure-in-pure-orbits= 19 crossu_unclosed=  1284 ex=[((7, 17), (14, 10))] 
+d= 21 n=  2 n|d-1      Y=      40 C=   2 dim=       43 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=43 
+d= 21 n=  3 n|d        Y=      60 C=   3 dim=       64 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=63 
+d= 21 n=  4 n|d-1      Y=      80 C=   4 dim=       85 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=83 
+d= 21 n=  5 n|d-1      Y=     100 C=   5 dim=      106 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=103 
+d= 21 n=  7 n|d        Y=     140 C=   7 dim=      148 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=143 
+d= 21 n= 10 n=(d-1)/2  Y=     200 C=  10 dim=      211 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=203 
+d= 21 n= 20 n=d-1      Y=     400 C=  19 dim=      420 pure= 58 pure-in-pure-orbits= 20 crossu_unclosed=     0 dimHdg(YxY)=823 
+d= 21 n= 21 n=d        Y=    8380 C=  20 dim=     8401 pure= 58 pure-in-pure-orbits= 20 crossu_unclosed=   792 ex=[((7, 17), (17, 7))] 
+d= 22 n=  2 n|d        Y=      42 C=   2 dim=       45 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=45 
+d= 22 n=  3 n|d-1      Y=      63 C=   3 dim=       67 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=66 
+d= 22 n=  7 n|d-1      Y=     147 C=   7 dim=      155 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=150 
+d= 22 n= 11 n=d/2      Y=     671 C=  11 dim=      683 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    60 ex=[((4, 9), (11, 2))] 
+d= 22 n= 21 n=d-1      Y=     441 C=  20 dim=      462 pure= 61 pure-in-pure-orbits= 21 crossu_unclosed=     0 dimHdg(YxY)=906 
+d= 22 n= 22 n=d        Y=    9681 C=  21 dim=     9703 pure= 61 pure-in-pure-orbits= 21 crossu_unclosed=   880 ex=[((15, 21), (21, 15))] 
+d= 23 n=  2 n|d-1      Y=      44 C=   2 dim=       47 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=47 
+d= 23 n= 11 n=(d-1)/2  Y=     242 C=  11 dim=      254 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=245 
+d= 23 n= 22 n=d-1      Y=     484 C=  21 dim=      506 pure= 64 pure-in-pure-orbits= 22 crossu_unclosed=     0 dimHdg(YxY)=993 
+d= 23 n= 23 n=d        Y=   11110 C=  22 dim=    11133 pure= 64 pure-in-pure-orbits= 22 crossu_unclosed=   440 ex=[((15, 21), (21, 15))] 
+d= 24 n=  2 n|d        Y=      46 C=   2 dim=       49 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=49 
+d= 24 n=  3 n|d        Y=      69 C=   3 dim=       73 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=72 
+d= 24 n=  4 n|d        Y=      92 C=   4 dim=       97 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=95 
+d= 24 n=  6 n|d        Y=     138 C=   6 dim=      145 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=    24 ex=[((5, 1), (1, 5))] 
+d= 24 n=  8 n|d        Y=     184 C=   8 dim=      193 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=187 
+d= 24 n= 12 n=d/2      Y=     804 C=  12 dim=      817 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   234 ex=[((12, 4), (8, 8))] 
+d= 24 n= 23 n=d-1      Y=     529 C=  22 dim=      552 pure= 67 pure-in-pure-orbits= 23 crossu_unclosed=     0 dimHdg(YxY)=1084 
+d= 24 n= 24 n=d        Y=   12673 C=  23 dim=    12697 pure= 67 pure-in-pure-orbits= 23 crossu_unclosed=  2044 ex=[((15, 21), (21, 15))] 
+d= 25 n=  2 n|d-1      Y=      48 C=   2 dim=       51 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=51 
+d= 25 n=  3 n|d-1      Y=      72 C=   3 dim=       76 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=75 
+d= 25 n=  4 n|d-1      Y=      96 C=   4 dim=      101 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=99 
+d= 25 n=  5 n|d        Y=     120 C=   5 dim=      126 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=123 
+d= 25 n=  6 n|d-1      Y=     144 C=   6 dim=      151 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=147 
+d= 25 n=  8 n|d-1      Y=     192 C=   8 dim=      201 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=195 
+d= 25 n= 12 n=(d-1)/2  Y=     288 C=  12 dim=      301 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=291 
+d= 25 n= 24 n=d-1      Y=     576 C=  23 dim=      600 pure= 70 pure-in-pure-orbits= 24 crossu_unclosed=     0 dimHdg(YxY)=1179 
+d= 25 n= 25 n=d        Y=   14376 C=  24 dim=    14401 pure= 70 pure-in-pure-orbits= 24 crossu_unclosed=   528 ex=[((15, 21), (21, 15))] 
+d= 26 n=  2 n|d        Y=      50 C=   2 dim=       53 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=53 
+d= 26 n=  5 n|d-1      Y=     125 C=   5 dim=      131 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=128 
+d= 26 n= 13 n=d/2      Y=     949 C=  13 dim=      963 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    72 ex=[((8, 9), (13, 4))] 
+d= 26 n= 25 n=d-1      Y=     625 C=  24 dim=      650 pure= 73 pure-in-pure-orbits= 25 crossu_unclosed=     0 dimHdg(YxY)=1278 
+d= 26 n= 26 n=d        Y=   16225 C=  25 dim=    16251 pure= 73 pure-in-pure-orbits= 25 crossu_unclosed=  1152 ex=[((15, 21), (21, 15))] 
+d= 27 n=  2 n|d-1      Y=      52 C=   2 dim=       55 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=55 
+d= 27 n=  3 n|d        Y=      78 C=   3 dim=       82 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=81 
+d= 27 n=  9 n|d        Y=     234 C=   9 dim=      244 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=237 
+d= 27 n= 13 n=(d-1)/2  Y=     338 C=  13 dim=      352 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=341 
+d= 27 n= 26 n=d-1      Y=     676 C=  25 dim=      702 pure= 76 pure-in-pure-orbits= 26 crossu_unclosed=     0 dimHdg(YxY)=1381 
+d= 27 n= 27 n=d        Y=   18226 C=  26 dim=    18253 pure= 76 pure-in-pure-orbits= 26 crossu_unclosed=   816 ex=[((15, 21), (21, 15))] 
+d= 28 n=  2 n|d        Y=      54 C=   2 dim=       57 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=57 
+d= 28 n=  3 n|d-1      Y=      81 C=   3 dim=       85 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=84 
+d= 28 n=  4 n|d        Y=     108 C=   4 dim=      113 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=111 
+d= 28 n=  7 n|d        Y=     189 C=   7 dim=      197 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=192 
+d= 28 n=  9 n|d-1      Y=     243 C=   9 dim=      253 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=246 
+d= 28 n= 14 n=d/2      Y=    1106 C=  14 dim=     1121 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    84 ex=[((19, 9), (23, 5))] 
+d= 28 n= 27 n=d-1      Y=     729 C=  26 dim=      756 pure= 79 pure-in-pure-orbits= 27 crossu_unclosed=     0 dimHdg(YxY)=1488 
+d= 28 n= 28 n=d        Y=   20385 C=  27 dim=    20413 pure= 79 pure-in-pure-orbits= 27 crossu_unclosed=  1540 ex=[((15, 21), (21, 15))] 
+d= 29 n=  2 n|d-1      Y=      56 C=   2 dim=       59 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=59 
+d= 29 n=  4 n|d-1      Y=     112 C=   4 dim=      117 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=115 
+d= 29 n=  7 n|d-1      Y=     196 C=   7 dim=      204 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=199 
+d= 29 n= 14 n=(d-1)/2  Y=     392 C=  14 dim=      407 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=395 
+d= 29 n= 28 n=d-1      Y=     784 C=  27 dim=      812 pure= 82 pure-in-pure-orbits= 28 crossu_unclosed=     0 dimHdg(YxY)=1599 
+d= 29 n= 29 n=d        Y=   22708 C=  28 dim=    22737 pure= 82 pure-in-pure-orbits= 28 crossu_unclosed=   728 ex=[((15, 21), (21, 15))] 
+d= 30 n=  2 n|d        Y=      58 C=   2 dim=       61 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=61 
+d= 30 n=  3 n|d        Y=      87 C=   3 dim=       91 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=90 
+d= 30 n=  5 n|d        Y=     145 C=   5 dim=      151 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=148 
+d= 30 n=  6 n|d        Y=     174 C=   6 dim=      181 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=177 
+d= 30 n= 10 n|d        Y=     290 C=  10 dim=      301 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=293 
+d= 30 n= 15 n=d/2      Y=    1275 C=  15 dim=     1291 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   128 ex=[((11, 5), (6, 10))] 
+d= 30 n= 29 n=d-1      Y=     841 C=  28 dim=      870 pure= 85 pure-in-pure-orbits= 29 crossu_unclosed=     0 dimHdg(YxY)=1714 
+d= 30 n= 30 n=d        Y=   25201 C=  29 dim=    25231 pure= 85 pure-in-pure-orbits= 29 crossu_unclosed=  3976 ex=[((15, 21), (29, 7))] 
+d= 31 n=  2 n|d-1      Y=      60 C=   2 dim=       63 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=63 
+d= 31 n=  3 n|d-1      Y=      90 C=   3 dim=       94 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=93 
+d= 31 n=  5 n|d-1      Y=     150 C=   5 dim=      156 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=153 
+d= 31 n=  6 n|d-1      Y=     180 C=   6 dim=      187 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=183 
+d= 31 n= 10 n|d-1      Y=     300 C=  10 dim=      311 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=303 
+d= 31 n= 15 n=(d-1)/2  Y=     450 C=  15 dim=      466 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=453 
+d= 31 n= 30 n=d-1      Y=     900 C=  29 dim=      930 pure= 88 pure-in-pure-orbits= 30 crossu_unclosed=     0 dimHdg(YxY)=1833 
+d= 31 n= 31 n=d        Y=   27870 C=  30 dim=    27901 pure= 88 pure-in-pure-orbits= 30 crossu_unclosed=   840 ex=[((15, 21), (21, 15))] 
+d= 32 n=  2 n|d        Y=      62 C=   2 dim=       65 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=65 
+d= 32 n=  4 n|d        Y=     124 C=   4 dim=      129 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=127 
+d= 32 n=  8 n|d        Y=     248 C=   8 dim=      257 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=251 
+d= 32 n= 16 n=d/2      Y=    1456 C=  16 dim=     1473 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    80 ex=[((11, 5), (5, 11))] 
+d= 32 n= 31 n=d-1      Y=     961 C=  30 dim=      992 pure= 91 pure-in-pure-orbits= 31 crossu_unclosed=     0 dimHdg(YxY)=1956 
+d= 32 n= 32 n=d        Y=   30721 C=  31 dim=    30753 pure= 91 pure-in-pure-orbits= 31 crossu_unclosed=  1524 ex=[((15, 21), (21, 15))] 
+d= 33 n=  2 n|d-1      Y=      64 C=   2 dim=       67 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=67 
+d= 33 n=  3 n|d        Y=      96 C=   3 dim=      100 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=99 
+d= 33 n=  4 n|d-1      Y=     128 C=   4 dim=      133 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=131 
+d= 33 n=  8 n|d-1      Y=     256 C=   8 dim=      265 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=259 
+d= 33 n= 11 n|d        Y=     352 C=  11 dim=      364 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=355 
+d= 33 n= 16 n=(d-1)/2  Y=     512 C=  16 dim=      529 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=515 
+d= 33 n= 32 n=d-1      Y=    1024 C=  31 dim=     1056 pure= 94 pure-in-pure-orbits= 32 crossu_unclosed=     0 dimHdg(YxY)=2083 
+d= 33 n= 33 n=d        Y=   33760 C=  32 dim=    33793 pure= 94 pure-in-pure-orbits= 32 crossu_unclosed=  1200 ex=[((15, 21), (29, 7))] 
+d= 34 n=  2 n|d        Y=      66 C=   2 dim=       69 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=69 
+d= 34 n=  3 n|d-1      Y=      99 C=   3 dim=      103 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=102 
+d= 34 n= 11 n|d-1      Y=     363 C=  11 dim=      375 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=366 
+d= 34 n= 17 n=d/2      Y=    1649 C=  17 dim=     1667 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=    96 ex=[((8, 9), (9, 8))] 
+d= 34 n= 33 n=d-1      Y=    1089 C=  32 dim=     1122 pure= 97 pure-in-pure-orbits= 33 crossu_unclosed=     0 dimHdg(YxY)=2214 
+d= 34 n= 34 n=d        Y=   36993 C=  33 dim=    37027 pure= 97 pure-in-pure-orbits= 33 crossu_unclosed=  1792 ex=[((15, 21), (21, 15))] 
+d= 35 n=  2 n|d-1      Y=      68 C=   2 dim=       71 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=71 
+d= 35 n=  5 n|d        Y=     170 C=   5 dim=      176 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=173 
+d= 35 n=  7 n|d        Y=     238 C=   7 dim=      246 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=241 
+d= 35 n= 17 n=(d-1)/2  Y=     578 C=  17 dim=      596 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=581 
+d= 35 n= 34 n=d-1      Y=    1156 C=  33 dim=     1190 pure=100 pure-in-pure-orbits= 34 crossu_unclosed=     0 dimHdg(YxY)=2349 
+d= 35 n= 35 n=d        Y=   40426 C=  34 dim=    40461 pure=100 pure-in-pure-orbits= 34 crossu_unclosed=  1088 ex=[((15, 21), (21, 15))] 
+d= 36 n=  2 n|d        Y=      70 C=   2 dim=       73 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=73 
+d= 36 n=  3 n|d        Y=     105 C=   3 dim=      109 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=108 
+d= 36 n=  4 n|d        Y=     140 C=   4 dim=      145 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=143 
+d= 36 n=  5 n|d-1      Y=     175 C=   5 dim=      181 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=178 
+d= 36 n=  6 n|d        Y=     210 C=   6 dim=      217 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=213 
+d= 36 n=  7 n|d-1      Y=     245 C=   7 dim=      253 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=248 
+d= 36 n=  9 n|d        Y=     315 C=   9 dim=      325 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=318 
+d= 36 n= 12 n|d        Y=     420 C=  12 dim=      433 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=    56 ex=[((27, 4), (21, 10))] 
+d= 36 n= 18 n=d/2      Y=    1854 C=  18 dim=     1873 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   190 ex=[((18, 17), (34, 1))] 
+d= 36 n= 35 n=d-1      Y=    1225 C=  34 dim=     1260 pure=103 pure-in-pure-orbits= 35 crossu_unclosed=     0 dimHdg(YxY)=2488 
+d= 36 n= 36 n=d        Y=   44065 C=  35 dim=    44101 pure=103 pure-in-pure-orbits= 35 crossu_unclosed=  3100 ex=[((26, 21), (21, 26))] 
+d= 37 n=  2 n|d-1      Y=      72 C=   2 dim=       75 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=75 
+d= 37 n=  3 n|d-1      Y=     108 C=   3 dim=      112 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=111 
+d= 37 n=  4 n|d-1      Y=     144 C=   4 dim=      149 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=147 
+d= 37 n=  6 n|d-1      Y=     216 C=   6 dim=      223 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=219 
+d= 37 n=  9 n|d-1      Y=     324 C=   9 dim=      334 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=327 
+d= 37 n= 12 n|d-1      Y=     432 C=  12 dim=      445 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=435 
+d= 37 n= 18 n=(d-1)/2  Y=     648 C=  18 dim=      667 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=651 
+d= 37 n= 36 n=d-1      Y=    1296 C=  35 dim=     1332 pure=106 pure-in-pure-orbits= 36 crossu_unclosed=     0 dimHdg(YxY)=2631 
+d= 37 n= 37 n=d        Y=   47916 C=  36 dim=    47953 pure=106 pure-in-pure-orbits= 36 crossu_unclosed=  1224 ex=[((26, 21), (21, 26))] 
+d= 38 n=  2 n|d        Y=      74 C=   2 dim=       77 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=77 
+d= 38 n= 19 n=d/2      Y=    2071 C=  19 dim=     2091 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   108 ex=[((27, 4), (16, 15))] 
+d= 38 n= 37 n=d-1      Y=    1369 C=  36 dim=     1406 pure=109 pure-in-pure-orbits= 37 crossu_unclosed=     0 dimHdg(YxY)=2778 
+d= 38 n= 38 n=d        Y=   51985 C=  37 dim=    52023 pure=109 pure-in-pure-orbits= 37 crossu_unclosed=  2160 ex=[((26, 21), (21, 26))] 
+d= 39 n=  2 n|d-1      Y=      76 C=   2 dim=       79 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=79 
+d= 39 n=  3 n|d        Y=     114 C=   3 dim=      118 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=117 
+d= 39 n= 13 n|d        Y=     494 C=  13 dim=      508 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=497 
+d= 39 n= 19 n=(d-1)/2  Y=     722 C=  19 dim=      742 pure=  2 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=725 
+d= 39 n= 38 n=d-1      Y=    1444 C=  37 dim=     1482 pure=112 pure-in-pure-orbits= 38 crossu_unclosed=     0 dimHdg(YxY)=2929 
+d= 39 n= 39 n=d        Y=   56278 C=  38 dim=    56317 pure=112 pure-in-pure-orbits= 38 crossu_unclosed=  1656 ex=[((26, 21), (21, 26))] 
+d= 40 n=  2 n|d        Y=      78 C=   2 dim=       81 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=81 
+d= 40 n=  3 n|d-1      Y=     117 C=   3 dim=      121 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=120 
+d= 40 n=  4 n|d        Y=     156 C=   4 dim=      161 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=159 
+d= 40 n=  5 n|d        Y=     195 C=   5 dim=      201 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=198 
+d= 40 n=  8 n|d        Y=     312 C=   8 dim=      321 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=315 
+d= 40 n= 10 n|d        Y=     390 C=  10 dim=      401 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=393 
+d= 40 n= 13 n|d-1      Y=     507 C=  13 dim=      521 pure=  0 pure-in-pure-orbits=  0 crossu_unclosed=     0 dimHdg(YxY)=510 
+d= 40 n= 20 n=d/2      Y=    2300 C=  20 dim=     2321 pure=  3 pure-in-pure-orbits=  1 crossu_unclosed=   232 ex=[((18, 17), (32, 3))] 
+d= 40 n= 39 n=d-1      Y=    1521 C=  38 dim=     1560 pure=115 pure-in-pure-orbits= 39 crossu_unclosed=     0 dimHdg(YxY)=3084 
+d= 40 n= 40 n=d        Y=   60801 C=  39 dim=    60841 pure=115 pure-in-pure-orbits= 39 crossu_unclosed=  3220 ex=[((26, 21), (39, 8))] 
+pairs per class: {'n|d': 113, 'n=d/2': 28, 'n=d-1': 55, 'n=d': 55, 'n|d-1': 104, 'n=(d-1)/2': 27}
+pairs with all cross-u blocks closed by Galois-transported Hodge numbers: [(6, 2), (6, 5), (7, 2), (7, 3), (7, 6), (8, 2), (8, 7), (9, 2), (9, 3), (9, 4), (9, 8), (10, 2), (10, 3), (10, 9), (11, 2), (11, 5), (11, 10), (12, 2), (12, 3), (12, 4), (12, 11), (13, 2), (13, 3), (13, 4), (13, 6), (13, 12), (14, 2), (14, 13), (15, 2), (15, 3), (15, 5), (15, 7), (15, 14), (16, 2), (16, 3), (16, 4), (16, 5), (16, 15), (17, 2), (17, 4), (17, 8), (17, 16), (18, 2), (18, 3), (18, 17), (19, 2), (19, 3), (19, 6), (19, 9), (19, 18), (20, 2), (20, 4), (20, 5), (20, 19), (21, 2), (21, 3), (21, 4), (21, 5), (21, 7), (21, 10), (21, 20), (22, 2), (22, 3), (22, 7), (22, 21), (23, 2), (23, 11), (23, 22), (24, 2), (24, 3), (24, 4), (24, 8), (24, 23), (25, 2), (25, 3), (25, 4), (25, 5), (25, 6), (25, 8), (25, 12), (25, 24), (26, 2), (26, 5), (26, 25), (27, 2), (27, 3), (27, 9), (27, 13), (27, 26), (28, 2), (28, 3), (28, 4), (28, 7), (28, 9), (28, 27), (29, 2), (29, 4), (29, 7), (29, 14), (29, 28), (30, 2), (30, 3), (30, 5), (30, 6), (30, 10), (30, 29), (31, 2), (31, 3), (31, 5), (31, 6), (31, 10), (31, 15), (31, 30), (32, 2), (32, 4), (32, 8), (32, 31), (33, 2), (33, 3), (33, 4), (33, 8), (33, 11), (33, 16), (33, 32), (34, 2), (34, 3), (34, 11), (34, 33), (35, 2), (35, 5), (35, 7), (35, 17), (35, 34), (36, 2), (36, 3), (36, 4), (36, 5), (36, 6), (36, 7), (36, 9), (36, 35), (37, 2), (37, 3), (37, 4), (37, 6), (37, 9), (37, 12), (37, 18), (37, 36), (38, 2), (38, 37), (39, 2), (39, 3), (39, 13), (39, 19), (39, 38), (40, 2), (40, 3), (40, 4), (40, 5), (40, 8), (40, 10), (40, 13), (40, 39), (41, 2), (41, 4), (41, 5), (41, 8), (41, 10), (41, 20), (41, 40), (42, 2), (42, 3), (42, 6), (42, 7), (42, 14), (42, 41), (43, 2), (43, 3), (43, 6), (43, 7), (43, 14), (43, 21), (43, 42), (44, 2), (44, 4), (44, 11), (44, 43), (45, 2), (45, 3), (45, 4), (45, 5), (45, 9), (45, 11), (45, 15), (45, 22), (45, 44), (46, 2), (46, 3), (46, 5), (46, 9), (46, 15), (46, 45), (47, 2), (47, 23), (47, 46), (48, 2), (48, 3), (48, 4), (48, 6), (48, 8), (48, 16), (48, 47), (49, 2), (49, 3), (49, 4), (49, 6), (49, 7), (49, 8), (49, 12), (49, 16), (49, 24), (49, 48), (50, 2), (50, 5), (50, 7), (50, 10), (50, 49), (51, 2), (51, 3), (51, 5), (51, 10), (51, 17), (51, 25), (51, 50), (52, 2), (52, 3), (52, 4), (52, 13), (52, 17), (52, 51), (53, 2), (53, 4), (53, 13), (53, 26), (53, 52), (54, 2), (54, 3), (54, 6), (54, 9), (54, 53), (55, 2), (55, 3), (55, 5), (55, 6), (55, 9), (55, 11), (55, 18), (55, 27), (55, 54), (56, 2), (56, 4), (56, 5), (56, 7), (56, 8), (56, 11), (56, 14), (56, 55), (57, 2), (57, 3), (57, 4), (57, 7), (57, 8), (57, 14), (57, 19), (57, 28), (57, 56), (58, 2), (58, 3), (58, 19), (58, 57), (59, 2), (59, 29), (59, 58), (60, 2), (60, 3), (60, 4), (60, 5), (60, 6), (60, 10), (60, 12), (60, 15), (60, 20), (60, 59)]
+TOTAL pairs 382, failures 0, time 17.5s

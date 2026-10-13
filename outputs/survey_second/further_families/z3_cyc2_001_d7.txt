@@ -1,0 +1,23 @@
+== cyc2_001 d=7 n=2 w=[0, 0, 1] |S|=20 primes=[100129, 100297] redraws=[0, 0] |H|,|Gamma img|=[14, 14] u-swap idx=[] (1.4s)
+   planes=[]
+   perms=[{'pi': [1, 0, 2], 'ii': False, 'iii': True, 'order': 2}] split_redraws={}
+   split checks (Pi^2=1, Pi mu=mu Pi) all true: True
+   Y lb=12 ub=12 closed=True errors=[]
+   pieces (a,chi): h dim pure/pureorbit orbit delta comm cert how hull rigid split
+     (1, 0): h=(4, 9, 0) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (1, 1): h=(6, 12, 0) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 0): h=(2, 11, 0) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (2, 1): h=(4, 14, 0) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 0): h=(1, 12, 0) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (3, 1): h=(2, 15, 1) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 0): h=(0, 12, 1) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (4, 1): h=(1, 15, 2) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 0): h=(0, 11, 2) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (5, 1): h=(0, 14, 4) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 0): h=(0, 9, 4) dim=13 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+     (6, 1): h=(0, 12, 6) dim=18 pure=0/0 orb=6 delta=0 comm=[1, 1] E=1 U=0 [comm=1] hull=None rigid=1 
+   blocks: rep size h lb ub closed tool | lbsrc | details
+     (1, 0)->(1, 0) x6 h=(4, 9, 0)->(4, 9, 0) lb=1 ub=1 CLOSED Schur@(1, 0)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 0)->(1, 1) x6 h=(4, 9, 0)->(6, 12, 0) lb=0 ub=0 CLOSED C5.2ii(surj)@(1, 0)->(1, 1) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 0) x6 h=(6, 12, 0)->(4, 9, 0) lb=0 ub=0 CLOSED C5.2i(inj)@(1, 1)->(1, 0) | Gamma/A graphs + NSxNS | 
+     (1, 1)->(1, 1) x6 h=(6, 12, 0)->(6, 12, 0) lb=1 ub=1 CLOSED Schur@(1, 1)->(1, 1) | Gamma/A graphs + NSxNS | 
