@@ -2,7 +2,8 @@ Supporting code and data for the note
 "Cyclic symmetry and the Hodge conjecture for the fourfolds F(x)+F(y)=0"
 =========================================================================
 
-Status: accompanies the note (Kevin Saller, 2026), DOI to be assigned; not peer reviewed.
+Status: accompanies the note (Kevin Saller, 2026), DOI 10.5281/zenodo.23378313
+(https://doi.org/10.5281/zenodo.23378313); not peer reviewed.
 
 Setting. F is a very general member of a cyclic family C[x0,x1,x2^n]_d (forms of degree d in x0, x1, x2 in which
 x2 occurs only through x2^n; d >= 6, 2 <= n <= d, n | d or n | d-1), X_F = {F(x) + F(y) = 0} in P^5 and
