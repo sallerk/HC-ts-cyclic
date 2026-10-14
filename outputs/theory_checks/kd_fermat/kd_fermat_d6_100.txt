@@ -1,0 +1,8 @@
+d=6 rho=86 #D=61 k_direct=16 k_listed=16 rho-2d^2+5d-4=40 ok
+d=7 rho=91 #D=90 k_direct=24 k_listed=24 rho-2d^2+5d-4=24 ok
+d=8 rho=176 #D=127 k_direct=84 k_listed=84 rho-2d^2+5d-4=84 ok
+d=9 rho=217 #D=168 k_direct=96 k_listed=96 rho-2d^2+5d-4=96 ok
+d=10 rho=362 #D=217 k_direct=208 k_listed=208 rho-2d^2+5d-4=208 ok
+d=11 rho=271 #D=270 k_direct=80 k_listed=80 rho-2d^2+5d-4=80 ok
+d=12 rho=644 #D=331 k_direct=412 k_listed=412 rho-2d^2+5d-4=412 ok
+checked 6 <= d <= 100; mismatches (d >= 7, or listed values): 0

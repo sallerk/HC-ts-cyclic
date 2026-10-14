@@ -202,6 +202,14 @@ earlier computation that is not included.
   survey_crosscheck.py compares Y of the two implementations on every family closed by both, and Y of the
   families cyc<n>_001 with the formula of Theorem A. check_primes.py checks that every run of the second
   implementation used two distinct primes.
+    python -I -B code/table/smooth_criterion_enum.py ROWS
+  smooth_criterion_enum.py (added after a referee report): completeness of the list. It enumerates the families
+  S_{n,w}, 6 <= d <= 10, n <= 2d, up to permutations of the coordinates, with the exact criterion of Section 9.1
+  of the note for smooth general members ((i) no coordinate divides every monomial; (ii) for each k, x_k^d or some
+  x_k^(d-1) x_j is in S), and compares with the rows of the survey table read from ROWS, the file written by
+  survey_table2.py ROWS. Stored: outputs/table/survey_table_rows.tex (that file) and
+  outputs/table/smooth_criterion_enum.txt (86 families with smooth general member, 86 table families, no
+  difference, all with moduli; "RESULT: complete").
 
 2.9 appendix_B (item 7)
     python -I -B code/appendix_B/z2a_struct.py
@@ -210,6 +218,14 @@ earlier computation that is not included.
   families and tensor products, the Hodge numbers of all pieces against the Jacobian ring, the Hodge numbers of
   the eigenspaces V_chi and the types of the lines used, by exact counts. z2a_enum.py: enumeration of
   decomposable families; z2a_enum.txt = screen output of z2a_enum.py 6 12.
+
+2.10 theory_checks/kd_fermat (item 5; added after a referee report)
+    python -I -B code/theory_checks/kd_fermat/kd_fermat_check.py > OUT
+  No arguments (6 <= d <= 100 fixed). Counts KR(d) directly from its definition (n = d), and the Hodge characters
+  B_d of the Fermat surface of degree d, rho = 1 + #B_d; checks k(d) = rho - 2d^2 + 5d - 4 for d >= 7 (Remark 10.3
+  of the note), the listed values of k(d), and that B_d equals the set of decomposable characters exactly when
+  gcd(d,6) = 1 (d >= 7). Stored: outputs/theory_checks/kd_fermat/kd_fermat_d6_100.txt (mismatches 0; the d = 6
+  line shows k(6) = 16 and 40 for the formula, which is claimed only for d >= 7).
 
 
 3. Rerun when assembling this repository
@@ -244,6 +260,7 @@ with Python 3.12.9, python-flint 0.9.0, numpy 2.1.3, on small ranges, and compar
     100049..101281; the LaTeX rows are identical to the rows of the survey table of the note.
     survey_crosscheck.py and check_primes.py: same screen output as before the move into this repository (51
     families closed by both implementations, all with the same Y; every one of the 86 runs used 2 primes).
+  smooth_criterion_enum.py and kd_fermat_check.py (added later): full runs; the stored outputs are their output.
 Not rerun: the long runs (u1check.py beyond the ranges above, refU_comm.py beyond d = 12, the full survey runs,
 v1run.py, z1tri.py, ord3.py/ord3drive.py, jtest.py, z3run.py on the other families) and the scripts listed in
 section 2 as not runnable as shipped.

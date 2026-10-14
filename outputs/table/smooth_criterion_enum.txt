@@ -1,0 +1,12 @@
+table rows: 86, distinct families: 86
+d=6: families with smooth general member 14, table 14
+d=7: families with smooth general member 15, table 15
+d=8: families with smooth general member 17, table 17
+d=9: families with smooth general member 18, table 18
+d=10: families with smooth general member 22, table 22
+families with smooth general member: 86
+excluded (up to permutation): (i) fails 155, (i) holds and (ii) fails 211
+smooth but not in the table: 0
+in the table but not smooth by the criterion: 0
+moduli m >= 1 for all table rows: True
+RESULT: complete
